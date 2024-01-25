@@ -355,3 +355,20 @@
   color: #999; /* Lighter color for the date */
   margin-top: 10px; /* Spacing above the date */
 }
+
+.motto-section {
+  background-image: url('path/to/your/background.jpg'); /* Add your image path */
+  background-size: cover; /* Ensures the image covers the entire section */
+  background-position: center; /* Centers the image */
+  text-align: center;
+  padding: 50px 0; /* Adds padding above and below the motto */
+}
+
+.motto {
+  font-style: italic;
+  color: white; /* Choose a color that contrasts well with the background */
+  font-size: 2em; /* Adjust size as necessary */
+  margin: 0; /* Removes default margin */
+  /* Optional: Add a text shadow for better readability on complex backgrounds */
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}

@@ -36,23 +36,25 @@ News
 -------
 <div class="news-container">
   <div class="news-item">
-  [12/01/2024] One article was accepted by IEEE TMI on synthetic data generation for retinal vessel segmentation. Congrats to Linus Kreitner!
+  <div class="date">12/01/2024</div>
+  One article was accepted by IEEE TMI on synthetic data generation for retinal vessel segmentation. Congrats to Linus Kreitner!
   </div>
   <div class="news-item">
-  [06/11/2023] Joined the Department of Computer Science at Uni of Sheffield as a Lecturer/Assistant Professor in Computer Vision
+  <div class="date"> 06/11/2023</div>
+   Joined the Department of Computer Science at Uni of Sheffield as a Lecturer/Assistant Professor in Computer Vision
   </div>
   <div class="news-item">
-  [12/10/2023] Received IEEE TMI Gold-level Distinguished Reviewer Award (2022-2023)!
+  <div class="date"> 12/10/2023</div>
+   Received IEEE TMI Gold-level Distinguished Reviewer Award (2022-2023)!
   </div>
   <!-- More news items -->
   <div class="news-item">
-  [19/07/2023] Received one of the top 12 Outstanding Reviewer awards in MICCAI 2023!
+  <div class="date"> 19/07/2023</div>
+  Received one of the top 12 Outstanding Reviewer awards in MICCAI 2023!
   </div>
   <div class="news-item">
-  [19/07/2023] Received one of the top 12 Outstanding Reviewer awards in MICCAI 2023!
-  </div>
-  <div class="news-item">
-  [19/07/2023] One paper working on efficient, effective vision language pre-training (M-Flag) got accepted to MICCAI 2023. Congrats to Che LIU!
+  <div class="date"> 19/07/2023</div>
+    One paper working on efficient, effective vision language pre-training (M-Flag) got accepted to MICCAI 2023. Congrats to Che LIU!
   </div>
   <div class="news-item">
    <div class="date">17/05/2023
