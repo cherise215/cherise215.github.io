@@ -30,7 +30,9 @@ I am extremely interested in their applications including:
 Motto
 -----
 
-> Be water. 居善地，心善渊，与善仁，言善信，政善治，事善能，动善时。
+> Be water. 
+>
+> 居善地，心善渊，与善仁，言善信，政善治，事善能，动善时。
 >
 > Best be like water.
 > Live in the right place;
@@ -42,8 +44,7 @@ Motto
 > Move at the right time;
 > Only the non-competing shall have no resentment.
 >
->
-> -- Laozi, "Tao Te Ching". translated by Tony Jiang.
+> å-- Laozi, "Tao Te Ching". translated by Tony Jiang.
 
 Opening
 -------
