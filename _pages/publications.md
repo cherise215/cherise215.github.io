@@ -30,7 +30,7 @@ MICCAI, 2022.\[[code](https://github.com/cherise215/MaxStyle/) [pdf](https://arx
 <div class="publication">
     <div class="video-container">
         <!-- Embed your video here, e.g., using an iframe for a YouTube video -->
-        <iframe src="https://www.youtube.com/watch?v=TI7iwB9SbmA" frameborder="0" allowfullscreen></iframe>
+        <iframe width="300" src="https://www.youtube.com/embed/TI7iwB9SbmA?si=scW7HO_51u8xcQ_9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
     </div>
     <div class="publication-links">
         <h3>MaxStyle: Adversarial Style Composition for Robust Medical Image Segmentatio</h3>
@@ -39,6 +39,8 @@ MICCAI, 2022.\[[code](https://github.com/cherise215/MaxStyle/) [pdf](https://arx
         <a href="https://github.com/cherise215/MaxStyle/">Code</a>
     </div>
 </div>
+
+
 
 <br />
 <br />
