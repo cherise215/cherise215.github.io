@@ -12,11 +12,18 @@ For a full list of our publications, please refer to my [Google Scholar profile]
 
 Selected Publications
 ------
+<img align="left" width="300" src="/images/adaatlas.gif" style="margin-right: 15px" /> 
+
+**Pay Attention to the Atlas: Atlas-Guided Test-Time Adaptation Method for Robust 3D Medical Image Segmentation**\
+Jingjie Guo, Weitong Zhang, Matthew Sinclair, Daniel Rueckert, **Chen Chen** \
+MICCAI, 2023, BTSD workshop (oral).\[[pdf](https://arxiv.org/abs/2307.00676)\] <br />
+<br />
+
 <img align="left" width="300" src="/images/maxstyle.png" style="margin-right: 15px" /> 
 
 **MaxStyle: Adversarial Style Composition for Robust Medical Image Segmentation**\
 **Chen Chen**, Zeju Li, Cheng Ouyang, Matthew Sinclair, Wenjia Bai & Daniel Rueckert \
-MICCAI, 2022.\[[code](https://github.com/cherise215/MaxStyle/)\]<br />
+MICCAI, 2022.\[[code](https://github.com/cherise215/MaxStyle/) [pdf](https://arxiv.org/abs/2206.01737)\] <br />
 <br />
 
 <img align="left" width="300" src="/images/adversarialDA.jpg" style="margin-right: 15px" /> 
