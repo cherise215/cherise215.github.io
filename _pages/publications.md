@@ -14,9 +14,22 @@ Selected Publications
 ------
 <img align="left" width="300" src="/images/adversarialDA.jpg" style="margin-right: 15px" /> 
 
+**MaxStyle: Adversarial Style Composition for Robust Medical Image Segmentation**\
+**Chen Chen**, Zeju Li, Cheng Ouyang, Matthew Sinclair, Wenjia Bai & Daniel Rueckert \[[code](https://github.com/cherise215/MaxStyle/)\]<br />
+<br />
+
+<img align="left" width="300" src="/images/adversarialDA.jpg" style="margin-right: 15px" /> 
+
 **Enhancing MR image segmentation with realistic adversarial data augmentation**\
 **Chen Chen**, Chen Qin, Cheng Ouyang, Zeju Li, Shuo Wang, Huaqi Qiu, Liang Chen, Giacomo Tarroni, Wenjia Bai, Daniel Rueckert\
-Medical Image Analysis, 2022. \[[code](https://github.com/cherise215/advchain)\]<br />
+Medical Image Analysis, 2022. \[[code](https://github.com/cherise215/advchain)\] <br />
+<br />
+
+<img align="left" width="300" src="/images/fss.png" style="margin-right: 15px" /> 
+
+**Self-Supervision with Superpixels: Training Few-shot Medical Image Segmentation without Annotation**\
+Cheng Ouyang, Carlo Biffi, **Chen Chen**, Turkay Kart, Huaqi Qiu, Daniel Rueckert\
+ECCV, 2022. \[[code](https://github.com/cheng-01037/Self-supervised-Fewshot-Medical-Image-Segmentation)\]<br />
 <br />
 
 
