@@ -16,7 +16,8 @@ Selected Publications
 
 **Pay Attention to the Atlas: Atlas-Guided Test-Time Adaptation Method for Robust 3D Medical Image Segmentation**\
 Jingjie Guo, Weitong Zhang, Matthew Sinclair, Daniel Rueckert, **Chen Chen** \
-MICCAI, 2023, BTSD workshop (oral).\[[pdf](https://arxiv.org/abs/2307.00676)\] <br />
+MICCAI, 2023, BTSD workshop (oral).\[[pdf](https://arxiv.org/abs/2307.00676)\] 
+<br />
 <br />
 
 <!-- <img align="left" width="300" src="/images/maxstyle.png" style="margin-right: 15px" /> 
