@@ -54,7 +54,9 @@ News
 <div class="news-container">
   <div class="news-item">
   <div class="date">12/01/2024</div>
-  One article was accepted by IEEE TMI on synthetic data generation for retinal vessel segmentation. Congrats to Linus Kreitner!
+    <div class="p">
+    One article was accepted by IEEE TMI on synthetic data generation for retinal vessel segmentation. Congrats to Linus Kreitner!
+    </div>
   </div>
   <div class="news-item">
   <div class="date"> 06/11/2023</div>
