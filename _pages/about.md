@@ -7,12 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Motto
------
  <div class="motto-section">
  <p class="motto">
-  > Be water. 
-  > 居善地，心善渊，与善仁，言善信，政善治，事善能，动善时。
+  Be water. 居善地，心善渊，与善仁，言善信，政善治，事善能，动善时。
  </p>
 </div>
 
