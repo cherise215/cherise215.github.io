@@ -13,6 +13,8 @@ redirect_from:
  </p>
 </div>
 
+Bio
+-----------------
 Dr Chen (Cherise) Chen is a Lecturer in Computer Vision, at the Department of Computer Science, [University of Sheffield](https://www.sheffield.ac.uk/), a core member of [Insigeno Institute](https://www.sheffield.ac.uk/insigneo) and [Shef.AI](https://shef-ai.github.io/) community. She also currently holds honorary research fellow positions at both the University of Oxford and Imperial College London. Previously, she was a post-doc at [Oxford BioMedIA](https://eng.ox.ac.uk/biomedical-image-analysis/#ourresearch) group, University of Oxford, and the Computing Department at [Imperial College London](https://www.imperial.ac.uk/) (ICL). She was also a research scientist at [HeartFlow](https://www.heartflow.com/). In 2022, she obtained her Ph.D. from the Department of Computing at Imperial College London, working closely with [Prof. Daniel Rueckert ](https://www.imperial.ac.uk/people/d.rueckert)and [Dr. Wenjia Bai](https://www.imperial.ac.uk/people/w.bai). Her doctoral thesis, entitled "Improving the domain generalization and robustness of neural networks for medical imaging," was featured in ComputerVisionNews magazine in 2022.
 
 Research Interest
