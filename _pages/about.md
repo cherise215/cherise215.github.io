@@ -30,7 +30,7 @@ I am extremely interested in their applications including:
 Opening
 -------
 
-We have opening positions for PhD students on robust and adaptive AI for healthcare, see [Vancancies](https://cherise215.github.io/vacancies/) for details. 
+We have opening positions for PhD students on robust and adaptive AI for healthcare, see [Vacancies](https://cherise215.github.io/vacancies/) for details. 
 
 News
 -------
