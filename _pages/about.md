@@ -28,29 +28,31 @@ I am extremely interested in their applications including:
 * brain image segmentation and surface reconstruction for clinical applications.
 
 Motto
--------
-<div class="motto">
-Be water. 
-居善地，心善渊，与善仁，言善信，政善治，事善能，动善时。
-Best be like water.
-Live in the right place;
-Keep your heart at peace;
-Communicate with honesty;
-Speak with trust;
-Rule with legitimacy;
-Act according to your capabilities;
-Move at the right time;
-Only the non-competing shall have no resentment.
--- Laozi, "Tao Te Ching". translated by Tony Jiang. 
-<div>
+-----
+
+> Be water. 居善地，心善渊，与善仁，言善信，政善治，事善能，动善时。
+>
+> Best be like water.
+> Live in the right place;
+> Keep your heart at peace;
+> Communicate with honesty;
+> Speak with trust;
+> Rule with legitimacy;
+> Act according to your capabilities;
+> Move at the right time;
+> Only the non-competing shall have no resentment.
+>
+>
+> -- Laozi, "Tao Te Ching". translated by Tony Jiang.
 
 Opening
 -------
 
-We have opening positions for PhD students on robust and adaptive AI for healthcare, see [Vacancies](https://cherise215.github.io/vacancies/) for details. 
+We have opening positions for PhD students on robust and adaptive AI for healthcare, see [Vacancies](https://cherise215.github.io/vacancies/) for details.
 
 News
--------
+----
+
 <div class="news-container">
   <div class="news-item">
   <div class="date">12/01/2024</div>
@@ -82,9 +84,9 @@ News
   </div>
 </div>
 
-
 Awards and honours
--------
+------------------
+
 - 2023: IEEE TMI *Gold-level* Distinguished Reviewer (2022-2023)
 - 2023: MICCAI 2013 Outstanding Reviewer (top 12)
 - 2022: IEEE TMI *Gold-level* Distinguished Reviewer (2020-2022)
