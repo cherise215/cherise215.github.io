@@ -46,7 +46,7 @@ Medical Image Analysis, 2023. \[[code](https://github.com/cq615/BIGM-motion-trac
 
 **Biomechanics-Informed Neural Networks for Myocardial Motion Tracking in MRI**\
 Chen Qin, Shuo Wang, **Chen Chen**, Huaqi Qiu, Wenjia Bai, Daniel Rueckert\
-International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI), 2020. \[[code](https://github.com/cq615/Biomechanics-informed-motion-tracking)\] <br /> -->
+International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI), 2020. \[[code](https://github.com/cq615/Biomechanics-informed-motion-tracking)\] <br /> 
 <br />
 
 <img align="left" width="300" src="/images/overview.jpeg" style="margin-right: 15px" /> 
@@ -55,4 +55,4 @@ International Conference on Medical Image Computing and Computer-Assisted Interv
 **Chen Chen**, Chen Qin, Huaqi Qiu, Giacomo Tarroni, Jinming Duan, Wenjia Bai, Daniel Rueckert\
 Frontiers in Cardiovascular Medicine, 2020. <br />
 <br /><br />
- -->
+
