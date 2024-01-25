@@ -18,7 +18,7 @@ author_profile: true
 * [03/02/2023] [CCVL](https://ccvl.jhu.edu/) (Computational Cognition, Vision, and Learning) research group at Johns Hopkins University, US
 * [02/12/2022] [SenseTime](https://www.sensetime.com/en/?utm_source=google&utm_medium=cpc&utm_campaign=EU-Brand-SenseTime&utm_content=SenseTime&utm_term=sensetime%20ai&utm_source=google&utm_medium=cpc&utm_campaign=SEA-Brand-SenseTime&utm_content=SenseTime&utm_term=sensetime%20ai&gclid=CjwKCAiAuOieBhAIEiwAgjCvcsAZauJIUVzQVt0gouXkBD2x0ckarTQ1yof5FcT0rRdueP81uByfiBoCldQQAvD_BwE), China
 * [05/2022] Heartflow, UK
-* [03/08/2022] [TUM AI in Medicine lab](https://aim-lab.io/), Germany.
+* [03/08/2022] [TUM AI in Medicine lab](https://aim-lab.io/), Germany 
 
 **"Towards Robust AI: Advanced Data Augmentation"**
 

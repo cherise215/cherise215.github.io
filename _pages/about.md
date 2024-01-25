@@ -39,6 +39,9 @@ News
   [12/01/2024] One article was accepted by IEEE TMI on synthetic data generation for retinal vessel segmentation. Congrats to Linus Kreitner!
   </div>
   <div class="news-item">
+  [06/11/2023] Joined the Department of Computer Science at Uni of Sheffield as a Lecturer/Assistant Professor in Computer Vision
+  </div>
+  <div class="news-item">
   [12/10/2023] Received IEEE TMI Gold-level Distinguished Reviewer Award (2022-2023)!
   </div>
   <!-- More news items -->
