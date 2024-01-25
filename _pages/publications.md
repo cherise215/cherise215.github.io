@@ -19,12 +19,29 @@ Jingjie Guo, Weitong Zhang, Matthew Sinclair, Daniel Rueckert, **Chen Chen** \
 MICCAI, 2023, BTSD workshop (oral).\[[pdf](https://arxiv.org/abs/2307.00676)\] <br />
 <br />
 
-<img align="left" width="300" src="/images/maxstyle.png" style="margin-right: 15px" /> 
+<!-- <img align="left" width="300" src="/images/maxstyle.png" style="margin-right: 15px" /> 
 
 **MaxStyle: Adversarial Style Composition for Robust Medical Image Segmentation**\
 **Chen Chen**, Zeju Li, Cheng Ouyang, Matthew Sinclair, Wenjia Bai & Daniel Rueckert \
 MICCAI, 2022.\[[code](https://github.com/cherise215/MaxStyle/) [pdf](https://arxiv.org/abs/2206.01737)\] <br />
+<br /> -->
+
+<div class="publication">
+    <div class="video-container">
+        <!-- Embed your video here, e.g., using an iframe for a YouTube video -->
+        <iframe src="https://www.youtube.com/watch?v=TI7iwB9SbmA" frameborder="0" allowfullscreen></iframe>
+    </div>
+    <div class="publication-links">
+        <h3>MaxStyle: Adversarial Style Composition for Robust Medical Image Segmentatio</h3>
+        <p>**Chen Chen**, Zeju Li, Cheng Ouyang, Matthew Sinclair, Wenjia Bai & Daniel Rueckert</p>
+        <a href="https://arxiv.org/abs/2206.01737">PDF</a>
+        <a href="https://github.com/cherise215/MaxStyle/">Code</a>
+    </div>
+</div>
+
 <br />
+<br />
+
 
 <img align="left" width="300" src="/images/adversarialDA.jpg" style="margin-right: 15px" /> 
 

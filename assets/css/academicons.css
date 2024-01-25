@@ -372,3 +372,32 @@
   /* Optional: Add a text shadow for better readability on complex backgrounds */
   text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
 }
+
+
+.publication {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}
+
+.video-container iframe {
+  width: 480px; /* Adjust the size as needed */
+  height: 270px; /* Based on a 16:9 aspect ratio */
+}
+
+.publication-links {
+  flex-grow: 1;
+  margin-left: 20px;
+}
+
+.publication-links h3 {
+  margin-top: 0;
+}
+
+.publication-links a {
+  display: block; /* Makes each link take its own line */
+  margin-bottom: 10px;
+  color: #007bff; /* Example link color */
+  text-decoration: none;
+}
