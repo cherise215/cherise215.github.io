@@ -15,7 +15,8 @@ Selected Publications
 <img align="left" width="300" src="/images/maxstyle.png" style="margin-right: 15px" /> 
 
 **MaxStyle: Adversarial Style Composition for Robust Medical Image Segmentation**\
-**Chen Chen**, Zeju Li, Cheng Ouyang, Matthew Sinclair, Wenjia Bai & Daniel Rueckert \[[code](https://github.com/cherise215/MaxStyle/)\]<br />
+**Chen Chen**, Zeju Li, Cheng Ouyang, Matthew Sinclair, Wenjia Bai & Daniel Rueckert \
+MICCAI, 2022.\[[code](https://github.com/cherise215/MaxStyle/)\]<br />
 <br />
 
 <img align="left" width="300" src="/images/adversarialDA.jpg" style="margin-right: 15px" /> 
