@@ -49,15 +49,27 @@ News
   [19/07/2023] Received one of the top 12 Outstanding Reviewer awards in MICCAI 2023!
   </div>
   <div class="news-item">
-  [19/07/2023] One paper working on efficient, effective vision language pre-training got accepted to MICCAI 2023. Congrats to Che LIU! [link](https://arxiv.org/abs/2307.08347)
+  [19/07/2023] One paper working on efficient, effective vision language pre-training (M-Flag) got accepted to MICCAI 2023. Congrats to Che LIU!
   </div>
   <div class="news-item">
-  [17/05/2023] Invited to give a talk at NCT Data Science Seminar 2023 at the [German Cancer Research Center (DKFZ)](https://www.dkfz.de/en/index.html), Germany. [link](https://www.dkfz.de/en/datascience/seminar/Chen.html)
+   <div class="date">17/05/2023
+  </div>
+     Invited to give a talk at NCT Data Science Seminar 2023 at the German Cancer Research Center (DKFZ)
   </div>
 </div>
+
+
+Awards and honours
+-------
+- 2023:IEEE TMI *Gold-level* Distinguished Reviewer (2022-2023)
+- 2023: MICCAI 2013 Outstanding Reviewer (top 12)
+- 2022: IEEE TMI *Gold-level* Distinguished Reviewer (2020-2022)
+- 2022: *Winner* of the Fetal Tissue Annotation and Segmentation Challenge (FeTA) Challenge
+- 2019: *Winner* of the Multi-sequence Cardiac MR Segmentation Challenge 2019
+- 2012&2013: China National Scholarships (twice) (top 0.2%): The highest level of national scholarships in China.
 
 Contact
 -------
 
-Email: chen dot chen2 at sheffield dot ac dot uk
-Address: Regent court, Department of Computer Science, University of Sheffield, Sheffield.
+- Email: chen dot chen2 at sheffield dot ac dot uk
+- Address: Regent court, Department of Computer Science, University of Sheffield, Sheffield.

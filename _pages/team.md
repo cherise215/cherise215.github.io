@@ -9,12 +9,12 @@ author_profile: true
 PhD Students
 ------------
 
-University of Sheffield
+University of Sheffield:
 
 * Sijie Li (co-supervised with Prof. [Jungong Han](https://scholar.google.co.uk/citations?user=hNi1gxAAAAAJ&hl=en)) (2023-)
 * Farheen Ramzan (co-supervised with Prof. [Richard Clayton](https://www.sheffield.ac.uk/dcs/people/academic/richard-clayton) (2022-)
 
-Technical University of Munich
+Technical University of Munich:
 
 * [Jiazhen Pan](https://aim-lab.io/author/jiazhen-pan/) (co-advised with Prof. [Daniel Rueckert](https://scholar.google.com/citations?user=H0O0WnQAAAAJ&hl=en)) (2020-)
 
