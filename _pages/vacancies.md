@@ -4,40 +4,41 @@ title: "Vacancies"
 permalink: /vacancies/
 author_profile: true
 ---
-
 {% include base_path %}
 
-Research Assistant / Associate in Machine Learning for Motion-Robust MRI - Up to 12 Months Part Time/Full Time
-------
-We are looking for an enthusiastic research assistant (pre-doctoral) / research associate (post-doctoral) to make a leading contribution to a project on Motion-Robust and Efficient Functional MRI. The objective of the post is to develop novel machine learning models for functional MRI (fMRI) motion correction, incorporating infant motion as a target domain. fMRI is a leading non-invasive modality to measure brain activity and connectivity and is used throughout the lifespan. However, subject motion represents a formidable challenge for fMRI and thus limits its clinical applications. This project will aim to enable the advancement towards motion-robust and efficient fMRI, through exploring advanced machine learning techniques for fMRI motion correction. The project will involve interdisciplinary research and close international collaborations with academic and industrial partners at Trinity College Dublin and Siemens Healthineers. 
+**PhD in Robust and Adaptive AI for Medical Imaging and Precision Medicine**
 
-For more details on the application, please find it here: [https://www.imperial.ac.uk/jobs/description/ENG02769/research-assistantassociate-trustworthy-ai-mri-reconstruction/](https://www.imperial.ac.uk/jobs/description/ENG02769/research-assistantassociate-trustworthy-ai-mri-reconstruction/)
+A 3.5-year funded PhD studentship is available in the Department of Computer Science at University of Sheffield, working on the topic of robust and adaptive AI-enabled vision system for medical imaging and precision medicine.
 
+**About the project**
 
-Research Assistant / Associate in Trustworthy AI for MRI Reconstruction - Up to 32 Months Full Time
-------
-We are looking for an enthusiastic research assistant (pre-doctoral) / research associate (post-doctoral) to make a leading contribution to a project on TrustMRI: Trustworthy and Robust Magnetic Resonance Image Reconstruction with Uncertainty Modelling and Deep Learning. The TrustMRI project aims to tackle the critical and growing problem of artificial intelligence (AI) trustworthiness for AI-enabled magnetic resonance image (MRI) reconstruction from accelerated acquisitions. MRI is the leading diagnostic modality for a wide range of exams, but unfortunately the physics of its data acquisition process makes it inherently slow. Recently, AI techniques have opened the possibility to accelerate this considerably. However, the lack of consideration of their trustworthiness and failure management on unseen cases limits their translational potential in clinical practice. The objective of the post is to enable the advancement towards trustworthy and robust AI-based MRI reconstruction, through equipping them with the ability to model uncertainty and handle cases outside distribution. The research will develop advanced deep learning (DL) methods that can quantify, evaluate, and leverage predictive uncertainty for reliable and robust MRI reconstruction. The project will involve interdisciplinary research and close collaborations with academic and industrial partners.
+The field of medical imaging and precision medicine has seen remarkable advancements in recent years, driven by the potential of artificial intelligence (AI) technologies, such as transformers, powerful foundation models, multi-modal learning algorithms, and large language models [1]. These technologies can revolutionize healthcare by enabling accurate diagnosis, personalized treatment planning, and improved patient outcomes. This project will focus on developing robust and adaptive AI models that can handle the complexities of medical imaging data as well as the domain gap and knowledge gap across different scenarios, and further adapt to individual patient needs. Depending on the profile of the student, a particular focus would be identifying pitfalls of current AI models with adversarial machine learning techniques and/or explainable AI (XAI) to enhance the reliability and applicability of AI algorithms for healthcare applications.
 
-For more details on the application, please find it here: [https://www.imperial.ac.uk/jobs/description/ENG02761/research-assistantassociate-machine-learning-motion-robust-fmri](https://www.imperial.ac.uk/jobs/description/ENG02761/research-assistantassociate-machine-learning-motion-robust-fmri)
+The starting date for this position is negotiable, preferred to be in Sep. 2024.
 
-Successful candidates will be jointly hosted by Department of Electrical and Electronic Engineering and the College’s new [I-X initiative](https://ix.imperial.ac.uk/), under the supervision of Dr Chen Qin, and work with a team of researchers and PhD students. Department of Electrical and Electronic Engineering has a long and proud history of world-class research and innovation and is at the forefront of tackling the most urgent global challenges in energy, healthcare, smart technology, and communications. It ranked the 1st in the UK (Engineering) in REF 2021 based on the proportion of world-leading research (4*). I-X is a new collaborative environment for research, education, and entrepreneurship across the areas of artificial intelligence, machine learning, data science, statistics, and digital technologies. I-X benefits from a strategic investment by the College, which includes new facilities on Imperial’s White City and South Kensington campuses. The successful candidate will also be part of the [BioMedIA group]([https://biomedia.doc.ic.ac.uk/]).
+[1] Moor, M, et al. Foundation models for generalist medical artificial intelligence. Nature, 2023
 
-To apply for these positions, you must have a strong background in a subject relevant to computer science, mathematics, medical imaging or a closely related discipline, and have experience, including a proven publication track-record, in one or more of the following areas: computer vision, machine learning and/or medical imaging.
+**About the Department and Research Groups**
 
-You should also have:
-- Excellent communication and academic writing skills, demonstrated through a publication track record and/or presentations at scientific events
-- The ability to organise and prioritise your own work with minimal supervision
-- Strong analytical, problem-solving, organizational, and interpersonal skills
-- At Research Assistant level you will need to have a good (1st or 2.1) undergraduate degree in a relevant discipline.
-- At Research Associate level you must have been awarded a PhD (or equivalent) in a subject relevant to the post.
+The successful candidate will join the Computer Vision group in the Department of Computer Science, led by Prof. Jungong Han. As a PhD candidate, you will have access to state-of-the-art facilities, extensive resources, AI-focused community ([https://shef-ai.github.io/](https://shef-ai.github.io/)) and a collaborative research ecosystem, incl. partnerships with Insigneo —the largest institute in Europe dedicated to in silico medicine technologies ([www.sheffield.ac.uk/insigneo](http://www.sheffield.ac.uk/insigneo)).  Chen's team is closely collaborating with researchers at the University of Oxford and Imperial College London. :) 
 
-If you are interested in these positions, please feel free to get in touch with Dr Chen Qin - c.qin15@imperial.ac.uk, indicate which position you are interested in and attach:
-- A full CV, with a list of all publications
-- A short statement indicating what you see are interesting research issues relating to the above post and why your expertise is relevant.
-- Any element relating your experience / passion for software engineering (blog, open source projects, GitHub repositories, and others) will be carefully inspected.
+**Candidate requirements**
 
-Should you require any further details on the role please contact: Dr Chen Qin – c.qin15@imperial.ac.uk.
+* Being self-motivated and enthusiastic about doing research in AI for healthcare and a commitment to supporting high quality research.
+* Have a good first degree in computer science, statistics, physics, engineering, or any-related field.
+* Experiences with AI for healthcare related projects using PyTorch and/or TensorFlow libraries.
+* Strong programming skills such as Python, C++, C, Java are preferred.
+* Excellent oral and written communication skills.
+* Strong problem-solving abilities.
+* Experiences of presenting or preparing scientific manuscripts in journals or conferences is preferred.
 
+Information on the English language requirements can be found here: [https://www.sheffield.ac.uk/postgraduate/english-language](https://www.sheffield.ac.uk/postgraduate/english-language)
 
+**Funding information**
 
+3.5 years studentship covering UK home fees only (overseas applicants are welcome to apply, but they must be able to fund the difference between home fees and overseas fees themselves/through additional funding).
 
+**How to apply**
+
+* Please fill out the Google [form](https://forms.gle/qXHpvGHwnMqNxov78) first to register your interest and send an email expressing interest to [work.cherise@gmail.com](mailto:work.cherise@gmail.com) including your CV, transcript, and one of your research papers/thesis/research proposal if applicable. Due to the large amount of emails I receive, I may not be able to respond to each one individually. Please help me catch your email by inserting '[PHD-robustAI]' in the subject title. Please strictly follow the instructions :).
+* Submit the full application to the University of Sheffield’s Postgraduate Online Application Portal via the ' **Apply** ' button above ([www.sheffield.ac.uk/postgradapplication/](http://www.sheffield.ac.uk/postgradapplication/)). Please name Chen Chen as your supervisor. You must include your CV, research proposal, two academic reference letters and proof of degree with transcripts. See [http://www.sheffield.ac.uk/postgraduate/phd/apply/applying](http://www.sheffield.ac.uk/postgraduate/phd/apply/applying) for more details.
