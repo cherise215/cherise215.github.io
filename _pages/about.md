@@ -32,14 +32,14 @@ I am extremely interested in their applications including:
 Opening
 -------
 
-**We have opening positions for PhD on robust and adaptive AI for healthcare **[**[application portal](https://www.sheffield.ac.uk/postgraduate/phd/apply/applying)]**. If you're interested in doing a Ph.D. with me,  please first fillout the Google [form](https://forms.gle/qXHpvGHwnMqNxov78) first and send an email expressing interest to [work.cherise@gmail.com](mailto:work.cherise@gmail.com) including your CV, transcript, and one of your research papers/thesis if applicable. Due to the large amount of emails I receive (50-100 emails per day), I may not be able to respond to each one individually. Please help me catch your email by inserting '[PHD-robustAI]' in the subject title. Please strictly follow the instructions :)
+**We have opening positions for PhD students on robust and adaptive AI for healthcare **[**[application portal](https://www.sheffield.ac.uk/postgraduate/phd/apply/applying)]**. If you're interested in doing a Ph.D. with me,  please first fill out the Google [form](https://forms.gle/qXHpvGHwnMqNxov78) first and send an email expressing interest to [work.cherise@gmail.com](mailto:work.cherise@gmail.com) including your CV, transcript, and one of your research papers/thesis if applicable. Due to the large amount of emails I receive, I may not be able to respond to each one individually. Please help me catch your email by inserting '[PHD-robustAI]' in the subject title. Please strictly follow the instructions :).
 
 My team is closely collaborating with researchers at the University of Oxford and Imperial College London. :) Prospective students will have a good first degree (e.g., top 10%) in Computer Science, Statistics, Software Engineering, Physics, Maths, Medicine,  or other STEM and engineering-related disciplines and more importantly, be passionate about AI for healthcare.
 
 News
 ----
 
-[12/01/2024] One article was accepted by IEEE TMI on synthetic data generation for retinal vessel segmentation. Congrats to****Linus Kreitner!
+[12/01/2024] One article was accepted by IEEE TMI on synthetic data generation for retinal vessel segmentation. Congrats to Linus Kreitner!
 
 [12/10/2023] Received IEEE TMI Gold-level Distinguished Reviewer Award (2022-2023)!
 
