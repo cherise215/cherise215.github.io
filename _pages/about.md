@@ -61,7 +61,7 @@ News
 
 Awards and honours
 -------
-- 2023:IEEE TMI *Gold-level* Distinguished Reviewer (2022-2023)
+- 2023: IEEE TMI *Gold-level* Distinguished Reviewer (2022-2023)
 - 2023: MICCAI 2013 Outstanding Reviewer (top 12)
 - 2022: IEEE TMI *Gold-level* Distinguished Reviewer (2020-2022)
 - 2022: *Winner* of the Fetal Tissue Annotation and Segmentation Challenge (FeTA) Challenge
@@ -72,4 +72,4 @@ Contact
 -------
 
 - Email: chen dot chen2 at sheffield dot ac dot uk
-- Address: Regent court, Department of Computer Science, University of Sheffield, Sheffield.
+- Address: Regent court, Department of Computer Science, University of Sheffield, Sheffield, UK. S1 4DP
