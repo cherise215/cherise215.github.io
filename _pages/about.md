@@ -44,7 +44,8 @@ Motto
 > Move at the right time;
 > Only the non-competing shall have no resentment.
 >
-> å-- Laozi, "Tao Te Ching". translated by Tony Jiang.
+>
+> by Laozi, "Tao Te Ching". translated by Tony Jiang.
 
 Opening
 -------

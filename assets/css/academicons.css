@@ -357,7 +357,7 @@
 }
 
 .motto-section {
-  background-image: url('path/to/your/background.jpg'); /* Add your image path */
+  background-image: "/images/bg.png"; /* Add your image path */
   background-size: cover; /* Ensures the image covers the entire section */
   background-position: center; /* Centers the image */
   text-align: center;
