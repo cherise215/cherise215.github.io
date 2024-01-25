@@ -20,19 +20,21 @@ MICCAI, 2023, BTSD workshop (oral).\[[pdf](https://arxiv.org/abs/2307.00676)\] <
 <br />
 <br />
 <br />
+<br />
+<br />
 
 <img align="left" width="300" src="/images/framework_v1.png" style="margin-right: 15px" /> 
 
 **Generative myocardial motion tracking via latent space exploration with biomechanics-informed prior**\
 Chen Qin, Shuo Wang, **Chen Chen**, Wenjia Bai, Daniel Rueckert\
-Medical Image Analysis, 2023. \[[pdf](https://arxiv.org/abs/2206.03830)[code](https://github.com/cq615/BIGM-motion-tracking)\]<br />
+Medical Image Analysis, 2023. \[[pdf](https://arxiv.org/abs/2206.03830)\]\[[code](https://github.com/cq615/BIGM-motion-tracking)\]<br />
 <br />
 
 <img align="left" width="300" src="/images/maxstyle.png" style="margin-right: 15px" /> 
 
 **MaxStyle: Adversarial Style Composition for Robust Medical Image Segmentation**\
 **Chen Chen**, Zeju Li, Cheng Ouyang, Matthew Sinclair, Wenjia Bai & Daniel Rueckert \
-MICCAI, 2022.\[[pdf](https://arxiv.org/abs/2206.01737)[code](https://github.com/cherise215/MaxStyle/) [video](https://www.youtube.com/watch?v=TI7iwB9SbmA)\] <br />
+MICCAI, 2022.\[[pdf](https://arxiv.org/abs/2206.01737)\]\[[code](https://github.com/cherise215/MaxStyle/)\]\[[video](https://www.youtube.com/watch?v=TI7iwB9SbmA)\] <br />
 <br />
 
 
@@ -41,14 +43,14 @@ MICCAI, 2022.\[[pdf](https://arxiv.org/abs/2206.01737)[code](https://github.com/
 
 **Enhancing MR image segmentation with realistic adversarial data augmentation**\
 **Chen Chen**, Chen Qin, Cheng Ouyang, Zeju Li, Shuo Wang, Huaqi Qiu, Liang Chen, Giacomo Tarroni, Wenjia Bai, Daniel Rueckert\
-Medical Image Analysis, 2022. \[[pdf](https://arxiv.org/abs/2108.03429)[code](https://github.com/cherise215/advchain)\] <br />
+Medical Image Analysis, 2022. \[[pdf](https://arxiv.org/abs/2108.03429)\]\[[code](https://github.com/cherise215/advchain)\] <br />
 <br />
 
 <img align="left" width="300" src="/images/fss.png" style="margin-right: 15px" /> 
 
 **Self-Supervision with Superpixels: Training Few-shot Medical Image Segmentation without Annotation**\
 Cheng Ouyang, Carlo Biffi, **Chen Chen**, Turkay Kart, Huaqi Qiu, Daniel Rueckert\
-ECCV, 2022. \[[pdf](https://arxiv.org/abs/2007.09886)[code](https://github.com/cheng-01037/Self-supervised-Fewshot-Medical-Image-Segmentation)\]<br />
+ECCV, 2022. \[[pdf](https://arxiv.org/abs/2007.09886)\]\[[code](https://github.com/cheng-01037/Self-supervised-Fewshot-Medical-Image-Segmentation)\]<br />
 <br />
 
 
@@ -56,7 +58,7 @@ ECCV, 2022. \[[pdf](https://arxiv.org/abs/2007.09886)[code](https://github.com/c
 
 **Biomechanics-Informed Neural Networks for Myocardial Motion Tracking in MRI**\
 Chen Qin, Shuo Wang, **Chen Chen**, Huaqi Qiu, Wenjia Bai, Daniel Rueckert\
-International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI), 2020. \[[paper](https://arxiv.org/abs/2006.04725)[code](https://github.com/cq615/Biomechanics-informed-motion-tracking)\] <br /> 
+International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI), 2020. \[[paper](https://arxiv.org/abs/2006.04725)\]\[[code](https://github.com/cq615/Biomechanics-informed-motion-tracking)\] <br /> 
 <br />
 
 <img align="left" width="300" src="/images/overview.jpeg" style="margin-right: 15px" /> 
