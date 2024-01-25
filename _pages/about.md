@@ -27,6 +27,23 @@ I am extremely interested in their applications including:
 * prostate image analysis together with pathological image analysis, risk prediction, treatment planning
 * brain image segmentation and surface reconstruction for clinical applications.
 
+Motto
+-------
+<div class="motto">
+Be water. 
+居善地，心善渊，与善仁，言善信，政善治，事善能，动善时。
+Best be like water.
+Live in the right place;
+Keep your heart at peace;
+Communicate with honesty;
+Speak with trust;
+Rule with legitimacy;
+Act according to your capabilities;
+Move at the right time;
+Only the non-competing shall have no resentment.
+-- Laozi, "Tao Te Ching". translated by Tony Jiang. 
+<div>
+
 Opening
 -------
 
