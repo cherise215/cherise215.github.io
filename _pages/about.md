@@ -88,5 +88,5 @@ Awards and honours
 Contact
 -------
 
-- Email: chen dot chen2 at sheffield dot ac dot uk
+- Email: chen (dot) chen2 (at) sheffield (dot) ac (dot) uk
 - Address: Regent court, Department of Computer Science, University of Sheffield, Sheffield, UK. S1 4DP

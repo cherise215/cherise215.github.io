@@ -6,6 +6,7 @@ author_profile: true
 ---
 **"Towards Trustworthy AI in Healthcare: Enhancing Model Robustness, Reliability, and Adaptability"**
 
+* [29/01/2024] Shenzhen University, Shenzhen, China
 * [05/01/2024] Zhejiang-UIUC Institute, Zhejiang, China
 * [03/01/2024] Guest lecture at University of Science and Technology of China, Suzhou, China
 * [11/2023] Alan Turing Institute, London, UK
@@ -22,4 +23,4 @@ author_profile: true
 
 **"Towards Robust AI: Advanced Data Augmentation"**
 
-* [14/11/2022] Guest lecture: Towards Robust AI: Advanced Data Augmentation
+* [14/11/2022] Guest lecture: Towards Robust AI: Advanced Data Augmentation, TUM, Germany
