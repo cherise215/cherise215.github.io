@@ -39,6 +39,11 @@ MICCAI, 2022 (early accept).\[[pdf](https://arxiv.org/abs/2206.01737)\]\[[code](
 **Chen Chen**, Kerstin Hammernik, Cheng Ouyang, Chen Qin, Wenjia Bai, Daniel Rueckert
 MICCAI, 2021 (oral).[[Poster](https://drive.google.com/file/d/1wU7bHgIyRQJM5rCVpIx89X2XBUBPv0Ug/view?usp=sharing)] [[Paper](https://arxiv.org/abs/2107.01079)][[Slides](https://drive.google.com/file/d/1AjwtFt1HuCOeno6wAhydiIyKfNOUnmCS/view?usp=sharing)] [[Code](https://github.com/cherise215/Cooperative_Training_and_Latent_Space_Data_Augmentation)][[Video](https://www.youtube.com/watch?v=Q2ipVU-YuwQ&t=3s)]<br />
 <br />
+<br /><br />
+<br /><br />
+<br /><br />
+<br /><br />
+
 <img align="left" width="300" src="/images/adversarialDA.jpg" style="margin-right: 15px" />
 
 **AdvChain: Enhancing MR image segmentation with realistic adversarial data augmentation**
