@@ -45,6 +45,12 @@ News
 ----
 
 <div class="news-container">
+ <div class="news-item">
+  <div class="date">01/02/2024</div>
+    <div class="p">
+     I am invited to be the area chair (AC) for MICCAI 2024!
+    </div>
+  </div>
   <div class="news-item">
   <div class="date">12/01/2024</div>
     <div class="p">

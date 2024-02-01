@@ -9,6 +9,8 @@ author_profile: true
 Program Committee
 -----------------
 
+Area Chair, [MICCAI 2024](https://conferences.miccai.org/2024/en/)
+
 [MICCAI 2023 DALI workshop](https://dali-miccai.github.io/), MICCAI 2023
 
 [CMRxMotion ](http://cmr.miccai.cloud/)Challenge in the STACOM 2022 workshop, MICCAI 2022
