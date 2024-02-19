@@ -85,7 +85,7 @@ Awards and honours
 ------------------
 
 - 2023: IEEE TMI *Gold-level* Distinguished Reviewer (2022-2023)
-- 2023: MICCAI 2013 Outstanding Reviewer (top 12)
+- 2023: MICCAI 2023 Outstanding Reviewer (top 12)
 - 2022: IEEE TMI *Gold-level* Distinguished Reviewer (2020-2022)
 - 2022: *Winner* of the Fetal Tissue Annotation and Segmentation Challenge (FeTA) Challenge
 - 2019: *Winner* of the Multi-sequence Cardiac MR Segmentation Challenge 2019
