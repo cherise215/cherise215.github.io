@@ -6,7 +6,10 @@ author_profile: true
 ---
 {% include base_path %}
 
-**PhD in Robust and Adaptive AI for Medical Imaging and Precision Medicine**
+**We have vacancies for both new PhD and visiting students.**
+
+# Funded project
+## PhD in Robust and Adaptive AI for Medical Imaging and Precision Medicine**
 
 A 3.5-year funded PhD studentship is available in the Department of Computer Science at University of Sheffield, working on the topic of robust and adaptive AI-enabled vision system for medical imaging and precision medicine.
 
@@ -20,7 +23,7 @@ The starting date for this position is negotiable, preferred to be in Sep. 2024.
 
 **About the Department and Research Groups**
 
-The successful candidate will join the Computer Vision group in the Department of Computer Science, led by Prof. Jungong Han. As a PhD candidate, you will have access to state-of-the-art facilities, extensive resources, AI-focused community ([https://shef-ai.github.io/](https://shef-ai.github.io/)) and a collaborative research ecosystem, incl. partnerships with Insigneo —the largest institute in Europe dedicated to in silico medicine technologies ([www.sheffield.ac.uk/insigneo](http://www.sheffield.ac.uk/insigneo)).  Chen's team is closely collaborating with researchers at the University of Oxford and Imperial College London. :) 
+The successful candidate will join the Computer Vision group in the Department of Computer Science, led by Prof. Jungong Han. As a PhD candidate, you will have access to state-of-the-art facilities, extensive resources, AI-focused community ([https://shef-ai.github.io/](https://shef-ai.github.io/)) and a collaborative research ecosystem, incl. partnerships with Insigneo —the largest institute in Europe dedicated to in silico medicine technologies ([www.sheffield.ac.uk/insigneo](http://www.sheffield.ac.uk/insigneo)).  Chen's team is closely collaborating with researchers at the University of Oxford and Imperial College London. :)
 
 **Candidate requirements**
 
@@ -42,3 +45,27 @@ Information on the English language requirements can be found here: [https://www
 
 * Please fill out the Google [form](https://forms.gle/qXHpvGHwnMqNxov78) first to register your interest and send an email expressing interest to [work.cherise@gmail.com](mailto:work.cherise@gmail.com) including your CV, transcript, and one of your research papers/thesis/research proposal if applicable. Due to the large amount of emails I receive, I may not be able to respond to each one individually. Please help me catch your email by inserting '[PHD-robustAI]' in the subject title. Please strictly follow the instructions :).
 * Submit the full application to the University of Sheffield’s Postgraduate Online Application Portal via the ' **Apply** ' button above ([www.sheffield.ac.uk/postgradapplication/](http://www.sheffield.ac.uk/postgradapplication/)). Please name Chen Chen as your supervisor. You must include your CV, research proposal, two academic reference letters and proof of degree with transcripts. See [http://www.sheffield.ac.uk/postgraduate/phd/apply/applying](http://www.sheffield.ac.uk/postgraduate/phd/apply/applying) for more details.
+
+# Others scholarships
+
+**China Scholarship Council (CSC) Scholarships**
+- for Chinese applicants [details](https://www.sheffield.ac.uk/postgraduate/phd/scholarships/csc).
+
+**COMMONWEALTH PHD SCHOLARSHIPS**
+- for both students from [low-income countries](https://cscuk.fcdo.gov.uk/scholarships/commonwealth-phd-scholarships-for-least-developed-countries-and-fragile-states/) and [high-income contries](https://cscuk.fcdo.gov.uk/scholarships/commonwealth-phd-scholarships-for-high-income-countries/)
+
+**University scholarships**
+- [details](https://www.sheffield.ac.uk/postgraduate/phd/scholarships)
+
+
+# Visiting opportunities
+**Visiting students (3 month - 1 year)**
+- You have to be registered on a PhD at another institution to undertake research as a visiting student.
+- Tuition fees: You can register for up to three months without a tuition fee being charged. Subject to departmental and faculty approval, in exceptional circumstances the fee-free registration period may be extended to a maximum of twelve months.
+- You need to meet the university's English requirements. 
+- [details](https://www.sheffield.ac.uk/study/visiting)
+- Funding opportunities
+    - [Research Mobility Programme](https://www.sheffield.ac.uk/internationalpartnerships/wun/rmp). This program provides 2 weeks to 3 months for Staff and PGs to work with hosts in any WUN partner [details](https://wun.ac.uk/mobility/).
+    - [China Scholarship Council](https://www.csc.edu.cn/chuguo)
+    - [COMMONWEALTH SPLIT-SITE PHD SCHOLARSHIPS](https://cscuk.fcdo.gov.uk/scholarships/commonwealth-split-site-scholarships-for-low-and-middle-income-countries/)
+
