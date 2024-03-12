@@ -45,6 +45,13 @@ News
 ----
 
 <div class="news-container">
+<div class="news-item">
+  <div class="date">03/2024</div>
+    <div class="p">
+     Happy to announce that a Joint Workshop on Advancing Data Solutions in Medical Imaging AI (ADSMI)x The 4th Workshop on Data Augmentation, Labeling, and Imperfections (DALI) will be held in MICCAI 2024.
+    </div>
+  </div>
+
  <div class="news-item">
   <div class="date">01/02/2024</div>
     <div class="p">
