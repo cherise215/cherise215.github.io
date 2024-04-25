@@ -22,3 +22,4 @@ Outreach
 --------
 
 [GirlWhoML] I am a lecturer in the [GirlWhoML](https://girlswhoml.com/) program sponsored by Microsoft, teaching Logistic Regression to female students and researchers from all backgrounds who are interested in learning AI/ML.
+[MICCAI student society]  I am invited as a lead panelist on the MICCAI student webinar: A Panel Discussion on the Trips & Tips of MICCAI Review, Rebuttal, Challenge, and Workshop! [recording](https://youtube.com/playlist?list=PLc4GZu166CDWP3Al45qWGEYHsjDk3CJDq). [Slides](https://slideshare.net/slideshow/chen-cherise-chen-tips-and-tricks-for-miccai-review/267129348)

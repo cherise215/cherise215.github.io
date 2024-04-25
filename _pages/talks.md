@@ -4,8 +4,14 @@ title: "Invited Talks"
 permalink: /talks/
 author_profile: true
 ---
-**"Towards Trustworthy AI in Healthcare: Enhancing Model Robustness, Reliability, and Adaptability"**
+**"Unlocking the Value of Single Modality through Multi-Modal Knowledge Transfer with Large Language Models for Healthcare"**
+* [24/04/2024] BMVA One Day Meeting: Trustworthy Multimodal Learning with Foundation Models: Bridging the Gap between AI Research and Real World Applications
+syposium, British Computer Society, London, UK
 
+
+**"Towards Trustworthy AI in Healthcare: Enhancing Model Robustness, Reliability, and Adaptability"**
+* [25/04/2024] University of Nottingham, UK
+* [09/04/2024] Research Computing@Sheffield, University of Sheffield, UK
 * [29/01/2024] Shenzhen University, Shenzhen, China
 * [05/01/2024] Zhejiang-UIUC Institute, Zhejiang, China
 * [03/01/2024] Guest lecture at University of Science and Technology of China, Suzhou, China
