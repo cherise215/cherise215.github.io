@@ -50,7 +50,6 @@ News
      Invited to give a talk at BMVA symposium on "Trustworthy Multimodal Learning with Foundation Models: Bridging the Gap between AI Research and Real World Applications", British Computer Society (BCS), London. [link](https://www.bmva.org/meetings/24-04-24-Multimodal%20Learning.html).
     </div>
   </div>
-<div class="news-container">
 <div class="news-item">
   <div class="date">05/04/2024</div>
     <div class="p">
@@ -58,7 +57,6 @@ News
     </div>
   </div>
 
-<div class="news-container">
 <div class="news-item">
   <div class="date">03/2024</div>
     <div class="p">
