@@ -48,14 +48,14 @@ News
   <div class="date">24/04/2024</div>
     <div class="p">
      Invited to give a talk at BMVA symposium on "Trustworthy Multimodal Learning with Foundation Models: Bridging the Gap between AI Research and Real World Applications", British Computer Society (BCS), London. 
-      <a href="link"> https://www.bmva.org/meetings/24-04-24-Multimodal%20Learning.html</a>
+      <a href="https://www.bmva.org/meetings/24-04-24-Multimodal%20Learning.html">[More]</a>
     </div>
   </div>
 <div class="news-item">
   <div class="date">05/04/2024</div>
     <div class="p">
      Invited as a lead panelist on the MICCAI student webinar: A Panel Discussion on the Trips & Tips of MICCAI Review, Rebuttal, Challenge, and Workshop! 
-     <a href="recording"> https://youtube.com/playlist?list=PLc4GZu166CDWP3Al45qWGEYHsjDk3CJDq </a>
+     <a href="https://youtube.com/playlist?list=PLc4GZu166CDWP3Al45qWGEYHsjDk3CJDq">[More] </a>
 
     </div>
   </div>
