@@ -18,23 +18,6 @@ Bio
 
 Dr Chen (Cherise) Chen is a Lecturer in Computer Vision, at the Department of Computer Science, [University of Sheffield](https://www.sheffield.ac.uk/), and a core member of [Insigeno Institute](https://www.sheffield.ac.uk/insigneo), [Center for Machine Intelligence](https://www.sheffield.ac.uk/machine-intelligence), and [Shef.AI](https://shef-ai.github.io/) community. She is one of six academics leading the [Computer Vision research group](https://www.sheffield.ac.uk/dcs/research/groups/computer-vision) at Sheffield. She also currently holds honorary research fellow positions at both the University of Oxford and Imperial College London. Previously, she was a post-doc at [Oxford BioMedIA](https://eng.ox.ac.uk/biomedical-image-analysis/#ourresearch) group, University of Oxford, and the Computing Department at [Imperial College London](https://www.imperial.ac.uk/) (ICL). She was also a research scientist at [HeartFlow](https://www.heartflow.com/). In 2022, she obtained her Ph.D. from the Department of Computing at Imperial College London, working closely with [Prof. Daniel Rueckert ](https://www.imperial.ac.uk/people/d.rueckert)and [Dr. Wenjia Bai](https://www.imperial.ac.uk/people/w.bai). Her doctoral thesis, entitled "Improving the domain generalization and robustness of neural networks for medical imaging," was featured in ComputerVisionNews magazine in 2022.
 
-Research Interest
------------------
-
-My main research interest lies in the interdisciplinary area of artificial intelligence (AI) and healthcare with a particular focus on medical image analysis, e.g., medical image segmentation, focusing on building and verifying robust, data-efficient, reliable machine learning algorithms to scale up AI-powered medical image analysis in real-world applications. Below are some topics I have explored:
-
-* Adversarial data augmentation
-* Robust machine learning
-* Data-efficient learning: self-supervised learning, few-shot learning, semi-supervised learning
-* Multi-task and multi-modal learning
-* Adaptive machine learning, including unsupervised domain adaptation at training/test time
-* Algorithms with fairness, privacy, robustness, and interpretability in mind, including uncertainty-aware training, test time model calibration
-
-I am extremely interested in their applications including:
-
-* cardiac image analysis (segmentation, registration, and shape remodeling) with quality control (e.g. topology preserving, uncertainty measurement), follow-up motion/shape analysis, survival prediction, treatment planning
-* prostate image analysis together with pathological image analysis, risk prediction, treatment planning
-* brain image segmentation and surface reconstruction for clinical applications.
 
 Opening
 -------
@@ -102,6 +85,24 @@ News
      Invited to give a talk at NCT Data Science Seminar 2023 at the German Cancer Research Center (DKFZ)
   </div>
 </div>
+
+Research Interest
+-----------------
+
+My main research interest lies in the interdisciplinary area of artificial intelligence (AI) and healthcare with a particular focus on medical image analysis, e.g., medical image segmentation, focusing on building and verifying robust, data-efficient, reliable machine learning algorithms to scale up AI-powered medical image analysis in real-world applications. Below are some topics I have explored:
+
+* Adversarial data augmentation
+* Robust machine learning
+* Data-efficient learning: self-supervised learning, few-shot learning, semi-supervised learning
+* Multi-task and multi-modal learning
+* Adaptive machine learning, including unsupervised domain adaptation at training/test time
+* Algorithms with fairness, privacy, robustness, and interpretability in mind, including uncertainty-aware training, test time model calibration
+
+I am extremely interested in their applications including:
+
+* cardiac image analysis (segmentation, registration, and shape remodeling) with quality control (e.g. topology preserving, uncertainty measurement), follow-up motion/shape analysis, survival prediction, treatment planning
+* prostate image analysis together with pathological image analysis, risk prediction, treatment planning
+* brain image segmentation and surface reconstruction for clinical applications.
 
 Awards and honours
 ------------------
