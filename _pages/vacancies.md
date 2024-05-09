@@ -9,42 +9,17 @@ author_profile: true
 **We have vacancies for both new PhD and visiting students.**
 
 # Funded project
-## PhD in Robust and Adaptive AI for Medical Imaging and Precision Medicine
+**AI for Multi-modal Healthcare**
+- Project description: In recent years, artificial intelligence (AI) technologies, such as foundation models, multi-modal learning algorithms, generative models, and large language models [1], have made seen remarkable advancements in the field of healthcare. It can lead to more accurate diagnosis, personalized treatment planning, and improved patient outcomes. This project will focus on developing multi-modal AI models that can handle the complexities of medical data as well as the domain gap and knowledge gap across different scenarios, and further adapt to individual patient needs. Depending on the profile of the student, a particular focus would be utilizing large language models and explainable AI (XAI) to enhance the reliability and applicability of AI algorithms for healthcare applications [2] and/or identifying pitfalls of current AI models using adversarial machine learning.
 
-A 3.5-year funded PhD studentship is available in the Department of Computer Science at University of Sheffield, working on the topic of robust and adaptive AI-enabled vision system for medical imaging and precision medicine.
+ - References
+    [1] Moor, M, et al. Foundation models for generalist medical artificial intelligence. Nature, 2023
+    [2] Chen, Chen, et al. "Large Language Model-informed ECG Dual Attention Network for Heart Failure Risk Prediction." 2024
 
-**About the project**
 
-The field of medical imaging and precision medicine has seen remarkable advancements in recent years, driven by the potential of artificial intelligence (AI) technologies, such as transformers, powerful foundation models, multi-modal learning algorithms, and large language models [1]. These technologies can revolutionize healthcare by enabling accurate diagnosis, personalized treatment planning, and improved patient outcomes. This project will focus on developing robust and adaptive AI models that can handle the complexities of medical imaging data as well as the domain gap and knowledge gap across different scenarios, and further adapt to individual patient needs. Depending on the profile of the student, a particular focus would be identifying pitfalls of current AI models with adversarial machine learning techniques and/or explainable AI (XAI) to enhance the reliability and applicability of AI algorithms for healthcare applications.
+- Funding notes: The PhD studentship will cover standard UK home tuition fees and provide a tax-free stipend at the standard UK Research Council rate (currently £19,237 for the 2024/25 academic year) for 3.5 years. If you are an overseas student, you are eligible to apply but you must have the means to pay the difference between the UK and overseas tuition fees by securing additional funding or self-funding. Further information on International fees can be found here: View Website
+- [More details](https://www.findaphd.com/phds/project/ai-for-multi-modal-healthcare/?p171830)
 
-The starting date for this position is negotiable, preferred to be in Sep. 2024.
-
-[1] Moor, M, et al. Foundation models for generalist medical artificial intelligence. Nature, 2023
-
-**About the Department and Research Groups**
-
-The successful candidate will join the Computer Vision group in the Department of Computer Science, led by Prof. Jungong Han. As a PhD candidate, you will have access to state-of-the-art facilities, extensive resources, AI-focused community ([https://shef-ai.github.io/](https://shef-ai.github.io/)) and a collaborative research ecosystem, incl. partnerships with Insigneo —the largest institute in Europe dedicated to in silico medicine technologies ([www.sheffield.ac.uk/insigneo](http://www.sheffield.ac.uk/insigneo)).  Chen's team is closely collaborating with researchers at the University of Oxford and Imperial College London. :)
-
-**Candidate requirements**
-
-* Being self-motivated and enthusiastic about doing research in AI for healthcare and a commitment to supporting high quality research.
-* Have a good first degree in computer science, statistics, physics, engineering, or any-related field.
-* Experiences with AI for healthcare related projects using PyTorch and/or TensorFlow libraries.
-* Strong programming skills such as Python, C++, C, Java are preferred.
-* Excellent oral and written communication skills.
-* Strong problem-solving abilities.
-* Experiences of presenting or preparing scientific manuscripts in journals or conferences is preferred.
-
-Information on the English language requirements can be found here: [https://www.sheffield.ac.uk/postgraduate/english-language](https://www.sheffield.ac.uk/postgraduate/english-language)
-
-**Funding information**
-
-3.5 years studentship covering UK home fees only (overseas applicants are welcome to apply, but they must be able to fund the difference between home fees and overseas fees themselves/through additional funding).
-
-**How to apply**
-
-* Please fill out the Google [form](https://forms.gle/qXHpvGHwnMqNxov78) first to register your interest and send an email expressing interest to [work.cherise@gmail.com](mailto:work.cherise@gmail.com) including your CV, transcript, and one of your research papers/thesis/research proposal if applicable. Due to the large amount of emails I receive, I may not be able to respond to each one individually. Please help me catch your email by inserting '[PHD-robustAI]' in the subject title. Please strictly follow the instructions :).
-* Submit the full application to the University of Sheffield’s Postgraduate Online Application Portal via the `**Apply**' button above ([www.sheffield.ac.uk/postgradapplication/](http://www.sheffield.ac.uk/postgradapplication/)). Please name Chen Chen as your supervisor. You must include your CV, research proposal, two academic reference letters and proof of degree with transcripts. See [http://www.sheffield.ac.uk/postgraduate/phd/apply/applying](http://www.sheffield.ac.uk/postgraduate/phd/apply/applying) for more details.
 
 # Others scholarships
 
@@ -59,6 +34,7 @@ Information on the English language requirements can be found here: [https://www
 
 
 # Visiting opportunities
+
 **Visiting students (3 month - 1 year)**
 - Our [sheffield computer vision group](https://www.sheffield.ac.uk/dcs/research/groups/computer-vision) has vacancies for visiting students.
 - You have to be registered on a PhD at another institution to undertake research as a visiting student.
