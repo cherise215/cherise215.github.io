@@ -13,8 +13,8 @@ author_profile: true
 - Project description: In recent years, artificial intelligence (AI) technologies, such as foundation models, multi-modal learning algorithms, generative models, and large language models [1], have made seen remarkable advancements in the field of healthcare. It can lead to more accurate diagnosis, personalized treatment planning, and improved patient outcomes. This project will focus on developing multi-modal AI models that can handle the complexities of medical data as well as the domain gap and knowledge gap across different scenarios, and further adapt to individual patient needs. Depending on the profile of the student, a particular focus would be utilizing large language models and explainable AI (XAI) to enhance the reliability and applicability of AI algorithms for healthcare applications [2] and/or identifying pitfalls of current AI models using adversarial machine learning.
 
 - References
-[1] Moor, M, et al. Foundation models for generalist medical artificial intelligence. Nature, 2023
-[2] Chen, Chen, et al. "Large Language Model-informed ECG Dual Attention Network for Heart Failure Risk Prediction." 2024
+    - [1] Moor, M, et al. Foundation models for generalist medical artificial intelligence. Nature, 2023
+    - [2] Chen, Chen, et al. "Large Language Model-informed ECG Dual Attention Network for Heart Failure Risk Prediction." 2024
 
 
 - Funding notes: The PhD studentship will cover standard UK home tuition fees and provide a tax-free stipend at the standard UK Research Council rate (currently £19,237 for the 2024/25 academic year) for 3.5 years. If you are an overseas student, you are eligible to apply but you must have the means to pay the difference between the UK and overseas tuition fees by securing additional funding or self-funding. Further information on International fees can be found here: View Website
