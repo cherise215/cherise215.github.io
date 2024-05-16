@@ -31,7 +31,6 @@ News
   <div class="date">14/05/2024</div>
     <div class="p">
      Two papers got early accepted by MICCAI 2024!  
-     </a>
     </div>
   </div>
 <div class="news-item">
