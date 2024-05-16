@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Teaching"
+title: "Teaching and Outreach"
 permalink: /teaching/
 author_profile: true
 ---
@@ -15,8 +15,18 @@ I was a teaching assistant/tutorial instructor for the following courses at Impe
 * 70015 (Autumn Term): [Mathematics for Machine Learning ](https://www.imperial.ac.uk/computing/current-students/courses/70015/)
 * 70014 (Autumn Term): [Machine Learning for Imaging](https://www.imperial.ac.uk/computing/current-students/courses/70014/)
 
+
+Guest Lecturer
+-------
 I was a guest lecturer for the following courses:
-* TUM MSc course: Advanced Machine Learning (2022): Specialized topic: Advanced Data Augmentation
+* Technical University of Munich: 
+    - course name: Advanced Machine Learning (2022)
+    - level: Post-graduate (MSc)
+    - topic: Specialized topic: Advanced Data Augmentation
+* University of Sheffield:
+    - course name: AI group project (2024, COM21002) 
+    - level: Under-graduate (Year 2)
+    - topic: Advanced Data Augmentation and Sythesis
 
 Outreach
 --------

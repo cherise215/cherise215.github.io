@@ -5,11 +5,12 @@ permalink: /talks/
 author_profile: true
 ---
 **"Unlocking the Value of Single Modality through Multi-Modal Knowledge Transfer with Large Language Models for Healthcare"**
-* [24/04/2024] BMVA One Day Meeting: Trustworthy Multimodal Learning with Foundation Models: Bridging the Gap between AI Research and Real World Applications
-syposium, British Computer Society, London, UK
 
+* [24/04/2024] BMVA One Day Meeting: Trustworthy Multimodal Learning with Foundation Models: Bridging the Gap between AI Research and Real World Applications
+  syposium, British Computer Society, London, UK
 
 **"Towards Trustworthy AI in Healthcare: Enhancing Model Robustness, Reliability, and Adaptability"**
+
 * [25/04/2024] University of Nottingham, UK
 * [09/04/2024] Research Computing@Sheffield, University of Sheffield, UK
 * [29/01/2024] Shenzhen University, Shenzhen, China
@@ -27,7 +28,3 @@ syposium, British Computer Society, London, UK
 * [02/12/2022] [SenseTime](https://www.sensetime.com/en/?utm_source=google&utm_medium=cpc&utm_campaign=EU-Brand-SenseTime&utm_content=SenseTime&utm_term=sensetime%20ai&utm_source=google&utm_medium=cpc&utm_campaign=SEA-Brand-SenseTime&utm_content=SenseTime&utm_term=sensetime%20ai&gclid=CjwKCAiAuOieBhAIEiwAgjCvcsAZauJIUVzQVt0gouXkBD2x0ckarTQ1yof5FcT0rRdueP81uByfiBoCldQQAvD_BwE), China
 * [05/2022] Heartflow, UK
 * [03/08/2022] [TUM AI in Medicine lab](https://aim-lab.io/), Germany
-
-**"Towards Robust AI: Advanced Data Augmentation"**
-
-* [14/11/2022] Guest lecture: Towards Robust AI: Advanced Data Augmentation, TUM, Germany
