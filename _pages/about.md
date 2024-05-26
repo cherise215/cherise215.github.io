@@ -112,9 +112,10 @@ Research Interest
 
 My main research interest lies in the interdisciplinary area of artificial intelligence (AI) and healthcare with a particular focus on medical image and signal analysis, e.g., medical image segmentation, focusing on building and verifying robust, data-efficient, reliable machine learning algorithms to scale up AI-powered medical image and signal analysis in real-world applications. Below are some topics I have explored:
 
-* Multi-modal learning, incl. vision-language, signal-language pretraining using large language models (LLMs)
-* Advanced data augmentation incl. adversarial data augmentation and generative models
+* Multi-modal learning for healthcare, incl. image, signal, and texts (medical report)
 * Robust machine learning
+* Explainable machine learning
+* Advanced data augmentation incl. adversarial data augmentation and generative models
 * Data-efficient learning: self-supervised learning, few-shot learning, semi-supervised learning
 * Multi-task and multi-modal learning
 * Adaptive machine learning, including unsupervised domain adaptation at training/test time
