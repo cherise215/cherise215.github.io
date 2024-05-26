@@ -33,6 +33,14 @@ News
      Two papers got early accepted by MICCAI 2024!  
     </div>
   </div>
+
+<div class="news-item">
+  <div class="date">28/04/2024</div>
+    <div class="p">
+     One paper got accepted by CVPR 2024 Workshop DCA in MI (Data Curation and Augmentation in Medical Imaging). 
+      <a href="https://dca-in-mi.github.io/">[More]</a>
+    </div>
+  </div>
 <div class="news-item">
   <div class="date">24/04/2024</div>
     <div class="p">
@@ -40,16 +48,22 @@ News
       <a href="https://www.bmva.org/meetings/24-04-24-Multimodal%20Learning.html">[More]</a>
     </div>
   </div>
+  
 <div class="news-item">
   <div class="date">05/04/2024</div>
     <div class="p">
      Invited as a lead panelist on the MICCAI student webinar: A Panel Discussion on the Trips & Tips of MICCAI Review, Rebuttal, Challenge, and Workshop! 
      <a href="https://youtube.com/playlist?list=PLc4GZu166CDWP3Al45qWGEYHsjDk3CJDq">[More] </a>
-
-    `</div>`
+    </div>
 
 </div>
-
+<div class="news-item">
+  <div class="date">03/2024</div>
+    <div class="p">
+     Invited to present our MaxStyle work at AI UK 2024, ECR connect.
+      <a href="https://ai-uk.turing.ac.uk/">[More] </a>
+    </div>
+  </div>
 <div class="news-item">
   <div class="date">03/2024</div>
     <div class="p">
@@ -96,9 +110,10 @@ News
 Research Interest
 -----------------
 
-My main research interest lies in the interdisciplinary area of artificial intelligence (AI) and healthcare with a particular focus on medical image analysis, e.g., medical image segmentation, focusing on building and verifying robust, data-efficient, reliable machine learning algorithms to scale up AI-powered medical image analysis in real-world applications. Below are some topics I have explored:
+My main research interest lies in the interdisciplinary area of artificial intelligence (AI) and healthcare with a particular focus on medical image and signal analysis, e.g., medical image segmentation, focusing on building and verifying robust, data-efficient, reliable machine learning algorithms to scale up AI-powered medical image and signal analysis in real-world applications. Below are some topics I have explored:
 
-* Adversarial data augmentation
+* Multi-modal learning, incl. vision-language, signal-language pretraining using large language models (LLMs)
+* Advanced data augmentation incl. adversarial data augmentation and generative models
 * Robust machine learning
 * Data-efficient learning: self-supervised learning, few-shot learning, semi-supervised learning
 * Multi-task and multi-modal learning
@@ -108,8 +123,8 @@ My main research interest lies in the interdisciplinary area of artificial intel
 I am extremely interested in their applications including:
 
 * cardiac image analysis (segmentation, registration, and shape remodeling) with quality control (e.g. topology preserving, uncertainty measurement), follow-up motion/shape analysis, survival prediction, treatment planning
-* prostate image analysis together with pathological image analysis, risk prediction, treatment planning
-* brain image segmentation and surface reconstruction for clinical applications.
+* Other medical image analysis inlc. prostate image analysis together with pathological image analysis, risk prediction, treatment planning; brain image segmentation and surface reconstruction for clinical applications.
+* Signal processing and analysis, incl. ECG signal 
 
 Awards and honours
 ------------------
