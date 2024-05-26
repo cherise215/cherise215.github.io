@@ -117,7 +117,7 @@ My main research interest lies in the interdisciplinary area of artificial intel
 * Explainable machine learning
 * Advanced data augmentation incl. adversarial data augmentation and generative models
 * Data-efficient learning: self-supervised learning, few-shot learning, semi-supervised learning
-* Multi-task and multi-modal learning
+* Multi-task learning
 * Adaptive machine learning, including unsupervised domain adaptation at training/test time
 * Algorithms with fairness, privacy, robustness, and interpretability in mind, including uncertainty-aware training, test time model calibration
 
