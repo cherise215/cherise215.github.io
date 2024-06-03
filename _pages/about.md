@@ -28,6 +28,12 @@ News
 
 <div class="news-container">
 <div class="news-item">
+  <div class="date">03/06/2024</div>
+    <div class="p">
+     I am going to give a Talk at CAMCA AIxMedicine, Massachusetts General Hospital and Harvard Medical School.
+    </div>
+  </div>
+<div class="news-item">
   <div class="date">14/05/2024</div>
     <div class="p">
      Two papers got early accepted by MICCAI 2024!  
