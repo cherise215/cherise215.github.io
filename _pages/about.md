@@ -113,11 +113,13 @@ News
     One paper working on efficient, effective vision language pre-training (M-Flag) got accepted to MICCAI 2023. Congrats to Che LIU!
   </div>
   <div class="news-item">
-   <div class="date">17/05/2023
-  </div>
+   <div class="date">17/05/2023</div>
      Invited to give a talk at NCT Data Science Seminar 2023 at the German Cancer Research Center (DKFZ)
   </div>
 </div>
+
+
+
 
 Research Interest
 -----------------
