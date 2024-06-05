@@ -28,9 +28,15 @@ News
 
 <div class="news-container">
 <div class="news-item">
+  <div class="date">19/06/2024</div>
+    <div class="p">
+     Invited to give a seminar at University of Birmingham.
+    </div>
+  </div>
+<div class="news-item">
   <div class="date">03/06/2024</div>
     <div class="p">
-     I am going to give a Talk at CAMCA AIxMedicine, Massachusetts General Hospital and Harvard Medical School.
+     I am going to give a talk at CAMCA AIxMedicine, Massachusetts General Hospital and Harvard Medical School.
     </div>
   </div>
 <div class="news-item">
