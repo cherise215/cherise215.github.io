@@ -29,6 +29,8 @@ Selected Jounal & Conference Reviewer
 
 IEEE Transactions on Medical Imaging (TMI)
 
+IEEE Transactions on Image Processing (TIP)
+
 IEEE Journal of Biomedical and Health Informatics (JBHI)
 
 IEEE Access
