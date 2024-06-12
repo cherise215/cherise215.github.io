@@ -33,9 +33,10 @@ News
      Invited to give a seminar at University of Birmingham.
     </div>
   </div>
+  <div class="news-item">
    <div class="date">11/06/2024</div>
     <div class="p">
-    One paper got accepted at COMPUTING IN CARDIOLOGY (CINC) 2024. Congrats to Farheen.
+    One paper got accepted at COMPUTING IN CARDIOLOGY (CINC) 2024. C
     </div>
   </div>
 <div class="news-item">
