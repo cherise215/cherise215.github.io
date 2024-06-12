@@ -35,7 +35,7 @@ News
   </div>
    <div class="date">11/06/2024</div>
     <div class="p">
-    One paper got accepted at COMPUTING IN CARDIOLOGY (CINC) 2024.
+    One paper got accepted at COMPUTING IN CARDIOLOGY (CINC) 2024. Congrats to Farheen.
     </div>
   </div>
 <div class="news-item">
