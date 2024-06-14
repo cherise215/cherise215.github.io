@@ -34,12 +34,12 @@ News
      Invited to give a seminar at University of Birmingham.
     </div>
   </div>
-  <div class="news-item">
+  <!-- <div class="news-item">
   <div class="date">14/06/2024</div>
     <div class="p">
     One work was accepted and will present at <a href="https://sites.google.com/view/robustml2024/robust-llms-workshop">ELLIS Robust LLMs Workshop</a>
     </div>
-  </div>
+  </div> -->
   <div class="news-item">
    <div class="date">11/06/2024</div>
     <div class="p">
