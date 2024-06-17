@@ -6,7 +6,8 @@ author_profile: true
 ---
 {% include base_path %}
 
-**We have vacancies for both new PhD and visiting students.**
+**We have vacancies for both new PhD and visiting students at Sheffield.**
+According to CS ranking, University of Sheffield is ranked at top 5 in UK for rearch in relevant AI/CV/NLP/ML/Complexity areas [link](https://csrankings.org/#/index?ai&vision&mlmining&nlp&act&uk).
 
 # Funded project
 **AI for Multi-modal Healthcare**
