@@ -8,7 +8,7 @@ author_profile: true
 
 **We have vacancies for both new PhD and visiting students at Sheffield.**
 
-University of Sheffield is ranked as *5th* in UK for research in relevant AI/CV/NLP/ML/Complexity areas [CSRanking](https://csrankings.org/#/index?ai&vision&mlmining&nlp&act&uk).
+University of Sheffield is ranked as *5th* in the UK, *17th* in Europe for research in relevant AI/CV/NLP/ML/Complexity areas [CSRanking](https://csrankings.org/#/index?ai&vision&mlmining&nlp&act&uk).
 
 # Funded project
 **AI for Multi-modal Healthcare**
