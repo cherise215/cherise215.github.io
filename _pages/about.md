@@ -27,6 +27,12 @@ News
 ----
 
 <div class="news-container">
+<div class="news-item">
+  <div class="date">21/06/2024</div>
+    <div class="p">
+     One article was accepted by IEEE trans on Big Data.
+    </div>
+  </div>
 
 <div class="news-item">
   <div class="date">19/06/2024</div>
