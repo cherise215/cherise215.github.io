@@ -4,6 +4,10 @@ title: "Invited Talks"
 permalink: /talks/
 author_profile: true
 ---
+**"Unlocking the Value of Single Modality through Multi-Modal Knowledge Transfer for Healthcare"**
+* [19/06/2024] University of Birmingham, UK
+* [03/06/2024] Harvard Medical School, US
+
 **"Unlocking the Value of Single Modality through Multi-Modal Knowledge Transfer with Large Language Models for Healthcare"**
 
 * [24/04/2024] BMVA One Day Meeting: Trustworthy Multimodal Learning with Foundation Models: Bridging the Gap between AI Research and Real World Applications
