@@ -11,6 +11,11 @@ Program Committee
 
 Area Chair, [MICCAI 2024](https://conferences.miccai.org/2024/en/)
 
+Workshop lead Organizer [MICCAI ADSMI 2024](https://adsmi-miccai.github.io/)
+
+Workshop  Co-organizer [The second workshop on Multimodal AI (UK)](https://multimodalai.github.io/)
+
+
 Workshop lead Organizer, [MICCAI 2023 DALI workshop](https://dali-miccai.github.io/), MICCAI 2023
 
 Challenge organizer, [CMRxMotion ](http://cmr.miccai.cloud/)Challenge in the STACOM 2022 workshop, MICCAI 2022
