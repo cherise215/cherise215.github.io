@@ -28,6 +28,12 @@ News
 
 <div class="news-container">
 <div class="news-item">
+  <div class="date">15/07/2024</div>
+    <div class="p">
+     Invited to give a talk at University of Munich and Helmholtz Munich.
+    </div>
+  </div>
+<div class="news-item">
   <div class="date">21/06/2024</div>
     <div class="p">
      One article was accepted by IEEE trans on Big Data.
