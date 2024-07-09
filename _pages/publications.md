@@ -14,14 +14,14 @@ Selected Publications
 ****
 <img align="left" width="300" src="/images/network.png" style="margin-right: 15px" />
 **Large Language Model-informed ECG Dual Attention Network for Heart Failure Risk Prediction**
-**Chen Chen**, Lei Li, Marcel Beetz, Abhirup Banerjee, Ramneek Gupta, Vicente Grau. `IEEE trans on Big Data, 2024` \[[pdf](https://arxiv.org/abs/2403.10581)\]<br />
+**Chen Chen**, Lei Li, Marcel Beetz, Abhirup Banerjee, Ramneek Gupta, Vicente Grau. ==IEEE trans on Big Data, 2024== \[[pdf](https://arxiv.org/abs/2403.10581)\]<br />
 <br /><br />
 <br /><br /><br />
 <br /><br />
 
 <img align="left" width="300" src="/images/4d_cardiac_representation.png" style="margin-right: 15px" />
 **Whole Heart 3D+ T Representation Learning Through Sparse 2D Cardiac MR Images**
-Yundi Zhang, **Chen Chen**, Suprosanna Shit, Sophie Starck, Daniel Rueckert, Jiazhen Pan, `MICCAI 2024` \[[pdf](https://arxiv.org/abs/2406.00329)\]<br />
+Yundi Zhang, **Chen Chen**, Suprosanna Shit, Sophie Starck, Daniel Rueckert, Jiazhen Pan, ==MICCAI 2024== \[[pdf](https://arxiv.org/abs/2406.00329)\]<br />
 <br /><br />
 <br /><br /><br />
 <br /><br />
@@ -29,16 +29,17 @@ Yundi Zhang, **Chen Chen**, Suprosanna Shit, Sophie Starck, Daniel Rueckert, Jia
 <img align="left" width="300" src="/images/low-cost-PAWP.png" style="margin-right: 15px" />
 **Multimodal Variational Autoencoder for Low-cost Cardiac Hemodynamics Instability Detection**
 Mohammod NI Suvon, Prasun C Tripathi, Wenrui Fan, Shuo Zhou, Xianyuan Liu, Samer Alabed, Venet Osmani, Andrew J Swift, **Chen Chen**, Haiping Lu
-`MICCAI 2024` \[[pdf](https://arxiv.org/abs/2403.13658)\]<br />
+==MICCAI 2024== \[[pdf](https://arxiv.org/abs/2403.13658)\]<br />
 <br /><br />
 <br /><br /><br />
+<br /><br />
 <br /><br />
 
 <img align="left" width="300" src="/images/adaatlas.gif" style="margin-right: 15px" />
 
 **Pay Attention to the Atlas: Atlas-Guided Test-Time Adaptation Method for Robust 3D Medical Image Segmentation**
 Jingjie Guo, Weitong Zhang, Matthew Sinclair, Daniel Rueckert, **Chen Chen** 
-MICCAI, 2023, BTSD workshop (oral).\[[pdf](https://arxiv.org/abs/2307.00676)\] <br />
+==MICCAI, 2023, BTSD workshop== (oral:+1:).\[[pdf](https://arxiv.org/abs/2307.00676)\] <br />
 <br /><br /><br />
 <br /><br />
 
@@ -60,7 +61,7 @@ MICCAI, 2022 (early accept).\[[pdf](https://arxiv.org/abs/2206.01737)\]\[[code](
 
 **Cooperative Training and Latent Space Data Augmentation for Robust Medical Image Segmentation**
 **Chen Chen**, Kerstin Hammernik, Cheng Ouyang, Chen Qin, Wenjia Bai, Daniel Rueckert
-MICCAI, 2021 (oral).[[Poster](https://drive.google.com/file/d/1wU7bHgIyRQJM5rCVpIx89X2XBUBPv0Ug/view?usp=sharing)] [[Paper](https://arxiv.org/abs/2107.01079)][[Slides](https://drive.google.com/file/d/1AjwtFt1HuCOeno6wAhydiIyKfNOUnmCS/view?usp=sharing)] [[Code](https://github.com/cherise215/Cooperative_Training_and_Latent_Space_Data_Augmentation)][[Video](https://www.youtube.com/watch?v=Q2ipVU-YuwQ&t=3s)]<br />
+MICCAI, 2021 (oral:+1:).[[Poster](https://drive.google.com/file/d/1wU7bHgIyRQJM5rCVpIx89X2XBUBPv0Ug/view?usp=sharing)] [[Paper](https://arxiv.org/abs/2107.01079)][[Slides](https://drive.google.com/file/d/1AjwtFt1HuCOeno6wAhydiIyKfNOUnmCS/view?usp=sharing)] [[Code](https://github.com/cherise215/Cooperative_Training_and_Latent_Space_Data_Augmentation)][[Video](https://www.youtube.com/watch?v=Q2ipVU-YuwQ&t=3s)]<br />
 <br />
 <br /><br />
 <br /><br />
@@ -92,7 +93,7 @@ International Conference on Medical Image Computing and Computer-Assisted Interv
 
 **AdvBias:Realistic Adversarial Data Augmentation for MR Image Segmentation**
 **Chen Chen**, Chen Qin, Huaqi Qiu, Cheng Ouyang, Shuo Wang, Liang Chen, Giacomo Tarroni, Wenjia Bai, Daniel Rueckert
-International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI), 2020. **[**[Abstract](https://drive.google.com/file/d/1oW03bKRLXrQ4-gnUiwMPmGd12qZijvTS/view?usp=sharing)]**[**[Poster](https://drive.google.com/file/d/1hSMgMrVwHrPY_uJbZVjO8iUZfSwdQBF5/view?usp=sharing)]**[**[Paper](https://arxiv.org/abs/2006.13322)][[Slides](https://drive.google.com/file/d/1Jk1MMcJAQ7tfsrMWW47nzgF6cDLhX0eG/view?usp=sharing)][[Code](https://github.com/cherise215/AdvBias)]<br />
+International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI), 2020. (Oral:+1:) **[**[Abstract](https://drive.google.com/file/d/1oW03bKRLXrQ4-gnUiwMPmGd12qZijvTS/view?usp=sharing)]**[**[Poster](https://drive.google.com/file/d/1hSMgMrVwHrPY_uJbZVjO8iUZfSwdQBF5/view?usp=sharing)]**[**[Paper](https://arxiv.org/abs/2006.13322)][[Slides](https://drive.google.com/file/d/1Jk1MMcJAQ7tfsrMWW47nzgF6cDLhX0eG/view?usp=sharing)][[Code](https://github.com/cherise215/AdvBias)]<br />
 <br />
 
 <img align="left" width="300" src="/images/overview.jpeg" style="margin-right: 15px" />
