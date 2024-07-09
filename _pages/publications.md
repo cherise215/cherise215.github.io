@@ -39,8 +39,9 @@ Mohammod NI Suvon, Prasun C Tripathi, Wenrui Fan, Shuo Zhou, Xianyuan Liu, Samer
 
 **Pay Attention to the Atlas: Atlas-Guided Test-Time Adaptation Method for Robust 3D Medical Image Segmentation**
 Jingjie Guo, Weitong Zhang, Matthew Sinclair, Daniel Rueckert, **Chen Chen** 
-`MICCAI, 2023, BTSD workshop` (oral)  :+1:.\[[pdf](https://arxiv.org/abs/2307.00676)\] <br />
+`MICCAI, 2023, BTSD workshop` (oral) \[[pdf](https://arxiv.org/abs/2307.00676)\] <br />
 <br /><br /><br />
+<br /><br />
 <br /><br />
 
 <img align="left" width="300" src="/images/framework_v1.png" style="margin-right: 15px" />
@@ -61,7 +62,7 @@ Medical Image Analysis, 2023. \[[pdf](https://arxiv.org/abs/2206.03830)\]\[[code
 
 **Cooperative Training and Latent Space Data Augmentation for Robust Medical Image Segmentation**
 **Chen Chen**, Kerstin Hammernik, Cheng Ouyang, Chen Qin, Wenjia Bai, Daniel Rueckert
-`MICCAI, 2021` (oral :+1:) [[Poster](https://drive.google.com/file/d/1wU7bHgIyRQJM5rCVpIx89X2XBUBPv0Ug/view?usp=sharing)] [[Paper](https://arxiv.org/abs/2107.01079)][[Slides](https://drive.google.com/file/d/1AjwtFt1HuCOeno6wAhydiIyKfNOUnmCS/view?usp=sharing)] [[Code](https://github.com/cherise215/Cooperative_Training_and_Latent_Space_Data_Augmentation)][[Video](https://www.youtube.com/watch?v=Q2ipVU-YuwQ&t=3s)]<br />
+`MICCAI, 2021` (oral) [[Poster](https://drive.google.com/file/d/1wU7bHgIyRQJM5rCVpIx89X2XBUBPv0Ug/view?usp=sharing)] [[Paper](https://arxiv.org/abs/2107.01079)][[Slides](https://drive.google.com/file/d/1AjwtFt1HuCOeno6wAhydiIyKfNOUnmCS/view?usp=sharing)] [[Code](https://github.com/cherise215/Cooperative_Training_and_Latent_Space_Data_Augmentation)][[Video](https://www.youtube.com/watch?v=Q2ipVU-YuwQ&t=3s)]<br />
 <br />
 <br /><br />
 <br /><br />
@@ -93,7 +94,7 @@ International Conference on Medical Image Computing and Computer-Assisted Interv
 
 **AdvBias:Realistic Adversarial Data Augmentation for MR Image Segmentation**
 **Chen Chen**, Chen Qin, Huaqi Qiu, Cheng Ouyang, Shuo Wang, Liang Chen, Giacomo Tarroni, Wenjia Bai, Daniel Rueckert
-International Conference on Medical Image Computing and Computer-Assisted Intervention `MICCAI 2020` (Oral  :+1: ) **[**[Abstract](https://drive.google.com/file/d/1oW03bKRLXrQ4-gnUiwMPmGd12qZijvTS/view?usp=sharing)]**[**[Poster](https://drive.google.com/file/d/1hSMgMrVwHrPY_uJbZVjO8iUZfSwdQBF5/view?usp=sharing)]**[**[Paper](https://arxiv.org/abs/2006.13322)][[Slides](https://drive.google.com/file/d/1Jk1MMcJAQ7tfsrMWW47nzgF6cDLhX0eG/view?usp=sharing)][[Code](https://github.com/cherise215/AdvBias)]<br />
+International Conference on Medical Image Computing and Computer-Assisted Intervention `MICCAI 2020` (Oral) **[**[Abstract](https://drive.google.com/file/d/1oW03bKRLXrQ4-gnUiwMPmGd12qZijvTS/view?usp=sharing)]**[**[Poster](https://drive.google.com/file/d/1hSMgMrVwHrPY_uJbZVjO8iUZfSwdQBF5/view?usp=sharing)]**[**[Paper](https://arxiv.org/abs/2006.13322)][[Slides](https://drive.google.com/file/d/1Jk1MMcJAQ7tfsrMWW47nzgF6cDLhX0eG/view?usp=sharing)][[Code](https://github.com/cherise215/AdvBias)]<br />
 <br />
 
 <img align="left" width="300" src="/images/overview.jpeg" style="margin-right: 15px" />
