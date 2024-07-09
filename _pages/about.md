@@ -28,6 +28,12 @@ News
 
 <div class="news-container">
 <div class="news-item">
+  <div class="date">20/09/2024</div>
+    <div class="p">
+     Invited to give a talk at the British Society of Cardiovascular Imaging and British Society of Cardiovascular Computed Tomography (BSCI/BSCCT) Annual Scientific Meeting.
+    </div>
+  </div>
+<div class="news-item">
   <div class="date">15/07/2024</div>
     <div class="p">
      Invited to give a seminar at University of Munich and Helmholtz Munich.

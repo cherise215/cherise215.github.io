@@ -11,6 +11,13 @@ For a full list of our publications, please refer to my [Google Scholar profile]
 Selected Publications
 ---------------------
 
+****
+<img align="left" width="300" src="/images/network.png" style="margin-right: 15px" />
+**Chen Chen**, Lei Li, Marcel Beetz, Abhirup Banerjee, Ramneek Gupta, Vicente Grau. IEEE trans on Big Data, 2024 \[[pdf](https://arxiv.org/abs/2403.10581)\]<br />
+<br /><br />
+<br /><br /><br />
+<br /><br />
+
 <img align="left" width="300" src="/images/adaatlas.gif" style="margin-right: 15px" />
 
 **Pay Attention to the Atlas: Atlas-Guided Test-Time Adaptation Method for Robust 3D Medical Image Segmentation**

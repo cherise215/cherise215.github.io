@@ -36,6 +36,8 @@ IEEE Transactions on Medical Imaging (TMI)
 
 IEEE Transactions on Image Processing (TIP)
 
+IEEE Transactions on Big Data (TBD)
+
 IEEE Journal of Biomedical and Health Informatics (JBHI)
 
 IEEE Access
