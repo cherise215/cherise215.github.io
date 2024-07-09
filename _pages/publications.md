@@ -13,7 +13,23 @@ Selected Publications
 
 ****
 <img align="left" width="300" src="/images/network.png" style="margin-right: 15px" />
-**Chen Chen**, Lei Li, Marcel Beetz, Abhirup Banerjee, Ramneek Gupta, Vicente Grau. IEEE trans on Big Data, 2024 \[[pdf](https://arxiv.org/abs/2403.10581)\]<br />
+**Large Language Model-informed ECG Dual Attention Network for Heart Failure Risk Prediction**
+**Chen Chen**, Lei Li, Marcel Beetz, Abhirup Banerjee, Ramneek Gupta, Vicente Grau. `IEEE trans on Big Data, 2024` \[[pdf](https://arxiv.org/abs/2403.10581)\]<br />
+<br /><br />
+<br /><br /><br />
+<br /><br />
+
+<img align="left" width="300" src="/images/4d_cardiac_representation.png" style="margin-right: 15px" />
+**Whole Heart 3D+ T Representation Learning Through Sparse 2D Cardiac MR Images**
+Yundi Zhang, **Chen Chen**, Suprosanna Shit, Sophie Starck, Daniel Rueckert, Jiazhen Pan, `MICCAI 2024` \[[pdf](https://arxiv.org/abs/2406.00329)\]<br />
+<br /><br />
+<br /><br /><br />
+<br /><br />
+
+<img align="left" width="300" src="/images/low-cost-PAWP.png" style="margin-right: 15px" />
+**Multimodal Variational Autoencoder for Low-cost Cardiac Hemodynamics Instability Detection**
+Mohammod NI Suvon, Prasun C Tripathi, Wenrui Fan, Shuo Zhou, Xianyuan Liu, Samer Alabed, Venet Osmani, Andrew J Swift, **Chen Chen**, Haiping Lu
+`MICCAI 2024` \[[pdf](https://arxiv.org/abs/2403.13658)\]<br />
 <br /><br />
 <br /><br /><br />
 <br /><br />
