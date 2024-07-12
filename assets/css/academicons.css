@@ -401,3 +401,10 @@
   color: #007bff; /* Example link color */
   text-decoration: none;
 }
+
+.about-text, .interests, .education {
+  margin-top: 20px;
+}
+.about-text p {
+  margin: 10px 0;
+}
