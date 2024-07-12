@@ -16,7 +16,8 @@ Selected Publications
 <img align="left" width="300" src="/images/network.png" style="margin-right: 15px" />
 **Large Language Model-informed ECG Dual Attention Network for Heart Failure Risk Prediction**
 <br />
-**Chen Chen**, Lei Li, Marcel Beetz, Abhirup Banerjee, Ramneek Gupta, Vicente Grau. `IEEE trans on Big Data, 2024` \[[pdf](https://arxiv.org/abs/2403.10581)\]<br />
+**Chen Chen**, Lei Li, Marcel Beetz, Abhirup Banerjee, Ramneek Gupta, Vicente Grau.
+<br /> `IEEE trans on Big Data, 2024` \[[pdf](https://arxiv.org/abs/2403.10581)\]<br />
 <br /><br />
 <br /><br /><br />
 <br /><br />
@@ -25,16 +26,14 @@ Selected Publications
 **Whole Heart 3D+ T Representation Learning Through Sparse 2D Cardiac MR Images**
 <br />
 Yundi Zhang, **Chen Chen**, Suprosanna Shit, Sophie Starck, Daniel Rueckert, Jiazhen Pan
-<br />
-`MICCAI 2024`\[[pdf](https://arxiv.org/abs/2406.00329)\]<br />
+<br /> `MICCAI 2024`\[[pdf](https://arxiv.org/abs/2406.00329)\]<br />
 <br /><br />
 <br /><br /><br />
 <br /><br />
 
 <img align="left" width="300" src="/images/low-cost-PAWP.png" style="margin-right: 15px" />
 **Multimodal Variational Autoencoder for Low-cost Cardiac Hemodynamics Instability Detection**
-<br />
-Mohammod NI Suvon, Prasun C Tripathi, Wenrui Fan, Shuo Zhou, Xianyuan Liu, Samer Alabed, Venet Osmani, Andrew J Swift, **Chen Chen**, Haiping Lu
+<br /> Mohammod NI Suvon, Prasun C Tripathi, Wenrui Fan, Shuo Zhou, Xianyuan Liu, Samer Alabed, Venet Osmani, Andrew J Swift, **Chen Chen**, Haiping Lu
 <br />
 `MICCAI 2024` \[[pdf](https://arxiv.org/abs/2403.13658)\]<br />
 <br /><br />
@@ -113,7 +112,8 @@ Cheng Ouyang, Carlo Biffi, **Chen Chen**, Turkay Kart, Huaqi Qiu, Daniel Ruecker
 **Biomechanics-Informed Neural Networks for Myocardial Motion Tracking in MRI**
 <br />
 Chen Qin, Shuo Wang, **Chen Chen**, Huaqi Qiu, Wenjia Bai, Daniel Rueckert
-International Conference on Medical Image Computing and Computer-Assisted Intervention. `MICCAI 2020`. \[[paper](https://arxiv.org/abs/2006.04725)\]\[[code](https://github.com/cq615/Biomechanics-informed-motion-tracking)\] <br />
+<br />
+`MICCAI 2020`. \[[paper](https://arxiv.org/abs/2006.04725)\]\[[code](https://github.com/cq615/Biomechanics-informed-motion-tracking)\] <br />
 <br />
 
 <img align="left" width="300" src="/images/adv_bias.png" style="margin-right: 15px" />
@@ -121,12 +121,12 @@ International Conference on Medical Image Computing and Computer-Assisted Interv
 **AdvBias:Realistic Adversarial Data Augmentation for MR Image Segmentation**
 <br />
 **Chen Chen**, Chen Qin, Huaqi Qiu, Cheng Ouyang, Shuo Wang, Liang Chen, Giacomo Tarroni, Wenjia Bai, Daniel Rueckert
-International Conference on Medical Image Computing and Computer-Assisted Intervention `MICCAI 2020` (Oral) **[**[Abstract](https://drive.google.com/file/d/1oW03bKRLXrQ4-gnUiwMPmGd12qZijvTS/view?usp=sharing)]**[**[Poster](https://drive.google.com/file/d/1hSMgMrVwHrPY_uJbZVjO8iUZfSwdQBF5/view?usp=sharing)]**[**[Paper](https://arxiv.org/abs/2006.13322)][[Slides](https://drive.google.com/file/d/1Jk1MMcJAQ7tfsrMWW47nzgF6cDLhX0eG/view?usp=sharing)][[Code](https://github.com/cherise215/AdvBias)]<br />
+<br /> `MICCAI 2020` (Oral) **[**[Abstract](https://drive.google.com/file/d/1oW03bKRLXrQ4-gnUiwMPmGd12qZijvTS/view?usp=sharing)]**[**[Poster](https://drive.google.com/file/d/1hSMgMrVwHrPY_uJbZVjO8iUZfSwdQBF5/view?usp=sharing)]**[**[Paper](https://arxiv.org/abs/2006.13322)][[Slides](https://drive.google.com/file/d/1Jk1MMcJAQ7tfsrMWW47nzgF6cDLhX0eG/view?usp=sharing)][[Code](https://github.com/cherise215/AdvBias)]<br />
 <br />
 
 <img align="left" width="300" src="/images/overview.jpeg" style="margin-right: 15px" />
 
 **Deep learning for cardiac image segmentation: a review**
 **Chen Chen**, Chen Qin, Huaqi Qiu, Giacomo Tarroni, Jinming Duan, Wenjia Bai, Daniel Rueckert
-`Frontiers in Cardiovascular Medicine (2020)`.  \[[paper](https://www.frontiersin.org/articles/10.3389/fcvm.2020.00025/full)\] <br />
+<br /> `Frontiers in Cardiovascular Medicine (2020)`.  \[[paper](https://www.frontiersin.org/articles/10.3389/fcvm.2020.00025/full)\] <br />
 <br /><br />
