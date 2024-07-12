@@ -129,6 +129,7 @@ Chen Qin, Shuo Wang, **Chen Chen**, Huaqi Qiu, Wenjia Bai, Daniel Rueckert
 <img align="left" width="300" src="/images/overview.jpeg" style="margin-right: 15px" />
 
 **Deep learning for cardiac image segmentation: a review**
+<br />
 **Chen Chen**, Chen Qin, Huaqi Qiu, Giacomo Tarroni, Jinming Duan, Wenjia Bai, Daniel Rueckert
 <br /> `Frontiers in Cardiovascular Medicine (2020)`.  \[[paper](https://www.frontiersin.org/articles/10.3389/fcvm.2020.00025/full)\] <br />
 <br /><br />
