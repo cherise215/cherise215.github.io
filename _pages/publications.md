@@ -20,12 +20,16 @@ Selected Publications
 **Chen Chen**, Lei Li, Marcel Beetz, Abhirup Banerjee, Ramneek Gupta, Vicente Grau.
 <br /> `IEEE trans on Big Data, 2024` \[[pdf](https://arxiv.org/abs/2403.10581)\]<br />
 <br /><br />
+<br /><br />
+<br /><br />
 
 <img align="left" width="300" src="/images/4d_cardiac_representation.png" style="margin-right: 15px" />
 **Whole Heart 3D+ T Representation Learning Through Sparse 2D Cardiac MR Images**
 <br />
 Yundi Zhang, **Chen Chen**, Suprosanna Shit, Sophie Starck, Daniel Rueckert, Jiazhen Pan
 <br /> `MICCAI 2024`\[[pdf](https://arxiv.org/abs/2406.00329)\]<br />
+<br /><br />
+<br /><br />
 <br /><br />
 
 <img align="left" width="300" src="/images/low-cost-PAWP.png" style="margin-right: 15px" />
@@ -34,6 +38,9 @@ Yundi Zhang, **Chen Chen**, Suprosanna Shit, Sophie Starck, Daniel Rueckert, Jia
 <br />
 `MICCAI 2024` \[[pdf](https://arxiv.org/abs/2403.13658)\]<br />
 <br /><br />
+<br /><br />
+<br /><br />
+
 
 ## 2023
 <br />
