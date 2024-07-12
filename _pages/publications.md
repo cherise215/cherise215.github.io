@@ -42,9 +42,9 @@ Yundi Zhang, **Chen Chen**, Suprosanna Shit, Sophie Starck, Daniel Rueckert, Jia
 <br /><br />
 <br /><br />
 
-<img align="left" width="300" src="/images/adaatlas.gif" style="margin-right: 15px" />
-
 ## 2023
+<br />
+<img align="left" width="300" src="/images/adaatlas.gif" style="margin-right: 15px" />
 <br />
 **Pay Attention to the Atlas: Atlas-Guided Test-Time Adaptation Method for Robust 3D Medical Image Segmentation**
 <br />
