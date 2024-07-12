@@ -13,6 +13,7 @@ Selected Publications
 
 ****
 ## 2024
+<br />
 <img align="left" width="300" src="/images/network.png" style="margin-right: 15px" />
 **Large Language Model-informed ECG Dual Attention Network for Heart Failure Risk Prediction**
 <br />
@@ -44,6 +45,7 @@ Yundi Zhang, **Chen Chen**, Suprosanna Shit, Sophie Starck, Daniel Rueckert, Jia
 <img align="left" width="300" src="/images/adaatlas.gif" style="margin-right: 15px" />
 
 ## 2023
+<br />
 **Pay Attention to the Atlas: Atlas-Guided Test-Time Adaptation Method for Robust 3D Medical Image Segmentation**
 <br />
 Jingjie Guo, Weitong Zhang, Matthew Sinclair, Daniel Rueckert, **Chen Chen** 
@@ -63,6 +65,7 @@ Medical Image Analysis (2023). \[[pdf](https://arxiv.org/abs/2206.03830)\]\[[cod
 <br /><br />
 
 ## 2022
+<br />
 <img align="left" width="300" src="/images/maxstyle.png" style="margin-right: 15px" />
 
 **MaxStyle: Adversarial Style Composition for Robust Medical Image Segmentation**
@@ -91,7 +94,7 @@ Cheng Ouyang, Carlo Biffi, **Chen Chen**, Turkay Kart, Huaqi Qiu, Daniel Ruecker
 <br /><br />
 
 ## 2021
-
+<br />
 <img align="left" width="300" src="/images/coop.png" style="margin-right: 15px" />
 
 **Cooperative Training and Latent Space Data Augmentation for Robust Medical Image Segmentation**
@@ -106,7 +109,7 @@ Cheng Ouyang, Carlo Biffi, **Chen Chen**, Turkay Kart, Huaqi Qiu, Daniel Ruecker
 <br /><br />
 
 ## 2020
-
+<br />
 <img align="left" width="300" src="/images/BINN.png" style="margin-right: 15px" />
 
 **Biomechanics-Informed Neural Networks for Myocardial Motion Tracking in MRI**
