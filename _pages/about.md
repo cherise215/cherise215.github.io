@@ -28,8 +28,7 @@ Dr Chen (Cherise) Chen is a Lecturer in Computer Vision, at the Department of Co
       <li>Trustworthy Machine Learning</li>
       <li>Data-efficient Learning</li>
       <li>Generative Modelling and Data Synthesis</li>
-
-    `</ul>`
+    </ul>
 
 </div>
   <div class="column">
@@ -37,17 +36,16 @@ Dr Chen (Cherise) Chen is a Lecturer in Computer Vision, at the Department of Co
     <ul>
       <li>Post-doc at Oxford Institute of Biomedical Engineering, University of Oxford</li>
       <li>PhD at BioMedIA group, Imperial College London</li>
-      <li>MEng in Advanced Computing, Imperial College London</li>
+      <li>MSc in Advanced Computing, Imperial College London</li>
       <li>BEng in Internet of Things Engineering, Harbin Institute of Technology</li>
     </ul>
   </div>
   </div>
 
 
-  
 
 
-  Opening
+Opening
 -------
 
 We have opening positions for PhD students on robust and adaptive AI for healthcare, see [Vacancies](https://cherise215.github.io/vacancies/) for details.
