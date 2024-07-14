@@ -56,7 +56,7 @@ News
 <div class="news-item">
   <div class="date">15/07/2024</div>
     <div class="p">
-     Invited to give a seminar at University of Munich and Helmholtz Munich.
+     Invited to give a seminar at Technical University of Munich (TUM) and Helmholtz Munich.
     </div>
   </div>
 <div class="news-item">
