@@ -268,6 +268,15 @@ defaults:
       layout: vacancies
       author_profile: true
       share: true
+  # _outreach
+  - scope:
+      path: ""
+      type: outreach
+    values:
+      layout: outreach
+      author_profile: true
+      share: true
+  # _services
 
 # Sass/SCSS
 sass:
