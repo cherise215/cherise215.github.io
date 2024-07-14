@@ -21,10 +21,12 @@ Dr Chen (Cherise) Chen is a Lecturer in Computer Vision, at the Department of Co
 <div class="column">
     <h3>Interests</h3>
     <ul>
-      <li>Artificial Intelligence in Healthcare</li>
-      <li>Robust Machine Learning</li>
-      <li>Multi-modal Learning</li>
+      <li>Artificial Intelligence in Healthcare (e.g., Cardiac care)</li>
+      <li>Multi-modal Learning (images, signals, and language)</li>
       <li>Computer Vision</li>
+      <li>Trustworthy Machine Learning (Robustness,Reliability/Uncertainty/Explainability,Adaptability)</li>
+      <li>Data-efficient Learning (self-supervised, semi-supervised, unsupervised learning, few-shot learning)</li>
+      <li></li>
     </ul>
   </div>
   <div class="column">
@@ -37,6 +39,8 @@ Dr Chen (Cherise) Chen is a Lecturer in Computer Vision, at the Department of Co
     </ul>
   </div>
   </div>
+
+</br>
 
 Opening
 -------
@@ -169,28 +173,6 @@ News
   </div>
 </div>
 
-
-
-
-Research Interest
------------------
-
-My main research interest lies in the interdisciplinary area of artificial intelligence (AI) and healthcare with a particular focus on medical image and signal analysis, e.g., medical image segmentation, focusing on building and verifying robust, data-efficient, reliable machine learning algorithms to scale up AI-powered medical image and signal analysis in real-world applications. Below are some topics I have explored:
-
-* Multi-modal learning for healthcare, incl. image, signal, and texts (medical report) using large language models
-* Robust machine learning
-* Explainable machine learning
-* Advanced data augmentation incl. adversarial data augmentation and generative models
-* Data-efficient learning: self-supervised learning, few-shot learning, semi-supervised learning
-* Multi-task learning
-* Adaptive machine learning, including unsupervised domain adaptation at training/test time
-* Algorithms with fairness, privacy, robustness, and interpretability in mind, including uncertainty-aware training, test time model calibration
-
-I am extremely interested in their applications including:
-
-* cardiac image analysis (segmentation, registration, and shape remodeling) with quality control (e.g. topology preserving, uncertainty measurement), follow-up motion/shape analysis, survival prediction, treatment planning
-* Other medical image analysis inlc. prostate image analysis together with pathological image analysis, risk prediction, treatment planning; brain image segmentation and surface reconstruction for clinical applications.
-* Signal processing and analysis, incl. ECG signal 
 
 Awards and honours
 ------------------
