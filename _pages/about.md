@@ -26,6 +26,8 @@ Dr Chen (Cherise) Chen is a Lecturer in Computer Vision, at the Department of Co
       <li>Computer Vision and Signal Processing</li>
       <li>Trustworthy Machine Learning</li>
       <li>Data-efficient Learning</li>
+      <li>Generative Modelling and Data Synthesis</li>
+
     </ul>
   </div>
   <div class="column">
