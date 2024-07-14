@@ -10,7 +10,7 @@ author_profile: true
 
 ## 2024
 
-- [Sheffield Outreach Team member] I am a member of outreach team in the school of Computer Science, University of Sheffield.
+- [Sheffield Outreach Team member] I am a member of the Outreach team in the School of Computer Science, University of Sheffield.
     - [07/24] I am demonstrating to the public how adversarial noise can attack modern computer vision models for traffic sign recognition during the Open Day!
         <p align="center"> 
         <img width="600" src="/images/20240712.jpg" />
