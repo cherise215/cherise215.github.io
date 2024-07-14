@@ -39,8 +39,9 @@ Dr Chen (Cherise) Chen is a Lecturer in Computer Vision, at the Department of Co
   </div>
   </div>
 
-<h>
-</h>
+
+
+
 Opening
 -------
 
