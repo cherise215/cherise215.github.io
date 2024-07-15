@@ -6,6 +6,11 @@ author_profile: true
 ---
 {% include base_path %}
 
+Opening
+-------
+
+We have opening positions for PhD students on robust and adaptive AI for healthcare, see [Vacancies](https://cherise215.github.io/vacancies/) for details.
+
 PhD Students
 ------------
 

@@ -44,15 +44,6 @@ Dr Chen (Cherise) Chen is a Lecturer in Computer Vision, at the Department of Co
   </div><br /><br />
 
 
-
-
-
-
-Opening
--------
-
-We have opening positions for PhD students on robust and adaptive AI for healthcare, see [Vacancies](https://cherise215.github.io/vacancies/) for details.
-
 News
 ----
 
