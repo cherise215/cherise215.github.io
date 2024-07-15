@@ -35,7 +35,7 @@ Dr Chen (Cherise) Chen is a Lecturer in Computer Vision, at the Department of Co
     <h3>Academic journey</h3>
     <ul>
       <li>Post-doc at Oxford Institute of Biomedical Engineering, University of Oxford, UK</li>
-      <li>RA and ost-doc at BioMedIA group, Imperial College London, UK</li>
+      <li>RA and Post-doc at BioMedIA group, Imperial College London, UK</li>
       <li>PhD at BioMedIA group, Imperial College London, UK</li>
       <li>MSc in Advanced Computing, Imperial College London, UK</li>
       <li>BEng in Internet of Things Engineering, Harbin Institute of Technology, China</li>
