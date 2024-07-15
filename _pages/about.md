@@ -25,7 +25,7 @@ Dr Chen (Cherise) Chen is a Lecturer in Computer Vision, at the Department of Co
       <li>Artificial Intelligence in Healthcare (e.g., Cardiac care)</li>
       <li>Multi-modal Learning (images, signals, and language)</li>
       <li>Computer Vision and Signal Processing</li>
-      <li>Trustworthy Machine Learning</li>
+      <li>Trustworthy Machine Learning (Robustness and Explainability)</li>
       <li>Data-efficient Learning</li>
       <li>Generative Modelling and Data Synthesis</li>
     </ul>
