@@ -41,13 +41,12 @@ Dr Chen (Cherise) Chen is a Lecturer in Computer Vision, at the Department of Co
       <li>BEng in Internet of Things Engineering, Harbin Institute of Technology, China</li>
     </ul>
   </div>
-  </div>
+  </div><br /><br />
 
 
 
-<div class="row">
-  <h3></h3>
-</div>
+
+
 
 Opening
 -------
