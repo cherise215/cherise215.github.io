@@ -5,6 +5,8 @@ permalink: /talks/
 author_profile: true
 ---
 **"Unlocking the Value of Single Modality through Multi-Modal Knowledge Transfer for Healthcare"**
+* [07/11/2024] Queen Mary University of London, UK
+* [15/07/2024] Technical University of Munich (TUM) and Helmholtz Munich, Germany
 * [19/06/2024] University of Birmingham, UK
 * [03/06/2024] Harvard Medical School, US
 
