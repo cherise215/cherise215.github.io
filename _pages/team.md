@@ -19,6 +19,8 @@ University of Sheffield:
 * [Sijie Li ](https://lezj.github.io/sijieli.github.io/)(co-supervised with Prof. [Jungong Han](https://scholar.google.co.uk/citations?user=hNi1gxAAAAAJ&hl=en)) (2023-)
 * [Farheen Ramzan](https://scholar.google.com/citations?user=PlJD884AAAAJ&hl=en&inst=12733411405069140160) (co-supervised with Prof. [Richard Clayton](https://www.sheffield.ac.uk/dcs/people/academic/richard-clayton)) (2022-)
 * [Wenjie Peng](https://scholar.google.com/citations?user=RjVHi_wAAAAJ&hl=en&inst=12733411405069140160) (co-supervised with Prof. [Thomas Hain](https://scholar.google.com/citations?user=x03kgyEAAAAJ&hl=en&inst=12733411405069140160)) (2023-)
+<!-- * [Wenrui Fan](https://wenruifan.github.io/) (co-supervised with Prof. [Haiping Lu](https://www.sheffield.ac.uk/cs/people/academic/haiping-lu)) (2023-)
+* [Wenrui Fan](https://wenruifan.github.io/) (co-supervised with Prof. [Haiping Lu](https://www.sheffield.ac.uk/cs/people/academic/haiping-lu)) (2023-) -->
 
 Technical University of Munich:
 
