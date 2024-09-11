@@ -58,14 +58,14 @@ News
 <div class="news-item">
   <div class="date">10/10/2024</div>
     <div class="p">
-   We are organizing MICCAI Workshop on Advancing Data Solutions in Medical Imaging AI, 2024!<a href="https://adsmi-miccai.github.io/"></a>
+   We will be organizing <a href="https://adsmi-miccai.github.io/">MICCAI Workshop on Advancing Data Solutions in Medical Imaging AI, in Marrakesh, Morocco</a>!
     </div>
   </div>
 <div class="news-item">
   <div class="date">10/2024</div>
     <div class="p">
-     The paper: Whole Heart 3D+T Representation Learning Through Sparse
-2D Cardiac MR Images is selected to give an oral presentation at MICCAI 2024! <a href="https://arxiv.org/abs/2406.00329"></a> Congrats to Yundi Zhang!
+     The paper:<a href="https://arxiv.org/abs/2406.00329"> Whole Heart 3D+T Representation Learning Through Sparse
+2D Cardiac MR Images</a> is selected to give an oral presentation at MICCAI 2024! Congrats to Yundi Zhang!
     </div>
   </div>
 <div class="news-item">
