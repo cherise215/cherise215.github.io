@@ -54,13 +54,12 @@ News
      Invited to give a talk at Queen Mary University of London.
     </div>
   </div>
-<div class="news-container">
 <div class="news-item">
   <div class="date">10/10/2024</div>
     <div class="p">
-   We will be organizing <a href="https://adsmi-miccai.github.io/">MICCAI Workshop on Advancing Data Solutions in Medical Imaging AI</a> in Marrakesh, Morocco!
-    </div>
-  </div>
+   We will be organizing <a href="https://adsmi-miccai.github.io/">MICCAI Workshop on Advancing Data Solutions in Medical Imaging AI</a> in Marrakesh, Morocco!</div>
+   </div>
+
 <div class="news-item">
   <div class="date">10/2024</div>
     <div class="p">
