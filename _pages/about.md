@@ -58,7 +58,7 @@ News
 <div class="news-item">
   <div class="date">10/10/2024</div>
     <div class="p">
-   We will be organizing <a href="https://adsmi-miccai.github.io/">MICCAI Workshop on Advancing Data Solutions in Medical Imaging AI, in Marrakesh, Morocco</a>!
+   We will be organizing <a href="https://adsmi-miccai.github.io/">MICCAI Workshop on Advancing Data Solutions in Medical Imaging AI</a> in Marrakesh, Morocco!
     </div>
   </div>
 <div class="news-item">
