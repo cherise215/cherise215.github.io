@@ -25,13 +25,6 @@ Technical University of Munich:
 
 * [Jiazhen Pan](https://aim-lab.io/author/jiazhen-pan/) (co-advised with Prof. [Daniel Rueckert](https://scholar.google.com/citations?user=H0O0WnQAAAAJ&hl=en)) (2020-)
 
-MSc Students
-------------
-
-University of Sheffield:
-
-* Yanran Zhang (2023-2024)
-* Yichi Zhang (2023-2024)
 
 Alumni
 ------
