@@ -9,7 +9,7 @@ author_profile: true
 Courses
 -------
 I will be a lecturer in the following courses at University of Sheffield:
-* COM31006 [Computer Vision](https://www.sheffield.ac.uk/programmeregulationsfinder/unit?code=COM31006&org=SHEFFIELD&start=05-Feb-2024&loc=SHEFFIELD&cal=SPR%20SEM&year=2023) (School of Computer Science)
+* COM31006 (Spring Term): [Computer Vision](https://www.sheffield.ac.uk/programmeregulationsfinder/unit?code=COM31006&org=SHEFFIELD&start=05-Feb-2024&loc=SHEFFIELD&cal=SPR%20SEM&year=2023) (School of Computer Science)
 
 
 I was a teaching assistant/tutorial instructor for the following courses at Imperial College London:
