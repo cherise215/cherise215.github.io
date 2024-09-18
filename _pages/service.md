@@ -8,6 +8,7 @@ author_profile: true
 
 Program Committee
 -----------------
+Program Chair, [MIDL 2025](https://2025.midl.io/)
 
 Area Chair, [MICCAI 2024](https://conferences.miccai.org/2024/en/)
 
