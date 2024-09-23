@@ -20,8 +20,10 @@ University of Sheffield is ranked as *5th* in the UK, *17th* in Europe for resea
 
 
 - Funding notes: The PhD studentship will cover standard UK home tuition fees and provide a tax-free stipend at the standard UK Research Council rate (currently £19,237 for the 2024/25 academic year) for 3.5 years. If you are an overseas student, you are eligible to apply but you must have the means to pay the difference between the UK and overseas tuition fees by securing additional funding or self-funding. Further information on International fees can be found here: View Website
-- [More details](https://www.findaphd.com/phds/project/ai-for-multi-modal-healthcare/?p171830)
 
+- How to apply: 
+    - Please send me your CV (grade, ranking, research experience included), transcripts, *first-authored* papers/thesis and other supporting materials (such as slides to show your research experience, or github website to show your past projects), to work.cherise@gmail.com. Please quote "[PHD_AI4Health] - Your Current Programme – Name-You Preferred Starting Date". E.g, "[PHD_AI4Health] - MSc-University of Sheffield–Chen Chen-2025 Spring" in your email subject. 
+    - Due to the high volume of emails I receive, emails without strictly having this quote in the subject title may be automatically classified as spam and ignored. So please help me to catch up your email.  I am sorry that it is difficult to provide feedback to every applicant. Only shortlisted candidates will be noticed (usually within 1-2 weeks, you will receive my response asking you to fill a Google form for the next step). Please understand that failing to receive my response does not reflect your qualifications or potential for other PhD programs.
 
 # Others scholarships
 
