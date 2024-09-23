@@ -8,17 +8,16 @@ author_profile: true
 
 Opening
 -------
-
-We have opening positions for PhD students on robust and adaptive AI for healthcare, see [Vacancies](https://cherise215.github.io/vacancies/) for details.
+I have been fortunate to work with a stream of talented students and colleagues. 
 
 PhD Students
 ------------
 
 University of Sheffield:
-
+* [Wenrui Fan](https://wenruifan.github.io/)(co-supervised with Prof. [Haiping Lu](https://haipinglu.github.io/)) (2023-)
 * [Sijie Li ](https://lezj.github.io/sijieli.github.io/)(co-supervised with Prof. [Jungong Han](https://scholar.google.co.uk/citations?user=hNi1gxAAAAAJ&hl=en)) (2023-)
-* [Farheen Ramzan](https://scholar.google.com/citations?user=PlJD884AAAAJ&hl=en&inst=12733411405069140160) (co-supervised with Prof. [Richard Clayton](https://www.sheffield.ac.uk/dcs/people/academic/richard-clayton)) (2022-)
 * [Wenjie Peng](https://scholar.google.com/citations?user=RjVHi_wAAAAJ&hl=en&inst=12733411405069140160) (co-supervised with Prof. [Thomas Hain](https://scholar.google.com/citations?user=x03kgyEAAAAJ&hl=en&inst=12733411405069140160)) (2023-)
+* [Farheen Ramzan](https://scholar.google.com/citations?user=PlJD884AAAAJ&hl=en&inst=12733411405069140160) (co-supervised with Prof. [Richard Clayton](https://www.sheffield.ac.uk/dcs/people/academic/richard-clayton)) (2022-)
 
 
 Technical University of Munich:
@@ -32,3 +31,8 @@ Alumni
 Technical University of Munich:
 
 * [Jingjie Guo ](https://www.linkedin.com/in/jingjie-g-6897a4247/)(MSc, 2022-2023, Now Data Scientist @Schwarz IT).
+
+
+Join us
+------
+We have opening positions for PhD students on robust and adaptive AI for healthcare, see [Vacancies](https://cherise215.github.io/vacancies/) for details.
