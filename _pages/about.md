@@ -57,7 +57,8 @@ News
   <div class="news-item">
   <div class="date">22/10/2024</div>
     <div class="p">
-   Dr Chen is invited to present our most recent work: large language model informed AI-ECG model for heart failure risk prediction at <a href="">Healthy Lifespan Institute (HELSI) Annual Meeting,  2024</a><a href="https://arxiv.org/abs/2403.10581">Paper</a></div>
+   Dr Chen is invited to present our most recent work: <a href="https://arxiv.org/abs/2403.10581">Large Language Model-informed ECG Dual Attention Network for Heart Failure Risk Prediction</a>
+ at <a href="">Healthy Lifespan Institute (HELSI) Annual Meeting,  2024</a></div>
    </div>
 <div class="news-item">
   <div class="date">10/10/2024</div>
