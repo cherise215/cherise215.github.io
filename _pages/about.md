@@ -54,6 +54,11 @@ News
      Invited to give a talk at Queen Mary University of London.
     </div>
   </div>
+  <div class="news-item">
+  <div class="date">22/10/2024</div>
+    <div class="p">
+   Dr Chen is invited to present our most recent work: large language model informed AI-ECG model for heart failure risk prediction at <a href="">Healthy Lifespan Institute (HELSI) Annual Meeting,  2024</a><a href="https://arxiv.org/abs/2403.10581">Paper</a></div>
+   </div>
 <div class="news-item">
   <div class="date">10/10/2024</div>
     <div class="p">
