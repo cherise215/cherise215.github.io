@@ -58,7 +58,7 @@ News
   <div class="date">22/10/2024</div>
     <div class="p">
    Dr Chen is invited to present our most recent work: <a href="https://arxiv.org/abs/2403.10581">Large Language Model-informed ECG Dual Attention Network for Heart Failure Risk Prediction</a>
- at <a href="">Healthy Lifespan Institute (HELSI) Annual Meeting,  2024</a></div>
+ at <a href="https://sites.google.com/sheffield.ac.uk/helsi-annual-meeting-24/home">Healthy Lifespan Institute (HELSI) Annual Meeting,  2024</a></div>
    </div>
 <div class="news-item">
   <div class="date">10/10/2024</div>
