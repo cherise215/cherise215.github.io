@@ -50,9 +50,7 @@ Yundi Zhang, **Chen Chen**, Suprosanna Shit, Sophie Starck, Daniel Rueckert, Jia
                 <span class="conference">IEEE trans on Medical Imaging (2024)</span>
             </div>
             <div class="authors">
-                <span>Linus Kreitner, Johannes C. Paetzold, Nikolaus Rauch, **Chen Chen**, Ahmed M.Hagag,
-Alaa E. Fayed, Sobha Sivaprasad, Sebastian Rausch, Julian Weichsel, Bjoern H. Menze,
-Matthias Harders, Benjamin Knier, Daniel Rueckert and Martin J. Menten</span>
+                <span>Linus Kreitner, Johannes C. Paetzold, Nikolaus Rauch, **Chen Chen**, Ahmed M.Hagag, Alaa E. Fayed, Sobha Sivaprasad, Sebastian Rausch, Julian Weichsel, Bjoern H. Menze, Matthias Harders, Benjamin Knier, Daniel Rueckert and Martin J. Menten</span>
             </div>
             <div class="links">
                 <a href="https://ieeexplore.ieee.org/abstract/document/10400503" class="pdf">PDF</a>
