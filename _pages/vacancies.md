@@ -49,3 +49,30 @@ University of Sheffield is ranked as *5th* in the UK, *17th* in Europe for resea
     - [China Scholarship Council](https://www.csc.edu.cn/chuguo)
     - [Commonwealth Split-site PhD Scholarship](https://cscuk.fcdo.gov.uk/scholarships/commonwealth-split-site-scholarships-for-low-and-middle-income-countries/)
 
+
+
+# About University of Sheffield and Sheffield
+
+## University of Sheffield
+The University of Sheffield is renowned for its groundbreaking research, with a legacy of producing Nobel Prize winners and global thought leaders. *Six members* of our staff have been awarded a prestigious *Nobel Prize*. Notable alumni include Sir Harry Kroto, who was awarded the Nobel Prize in Chemistry for the discovery of fullerenes, showcasing Sheffield’s role in pioneering research that transforms the scientific world. Sheffield’s research excellence spans across disciplines, including science, engineering, medicine, and social sciences, consistently ranked in the top universities globally for research impact.
+
+The university also provides strong professional development support, with comprehensive training programs, research community and workshops that help students enhance their research skills, gain expertise in cutting-edge methodologies, and prepare for careers in both academia and industry. Sheffield’s vibrant academic community regularly hosts seminars, conferences, and networking events, creating opportunities for you to present your work, receive feedback, and build valuable connections with leading researchers.
+
+Relevant research communities in the University:
+1. Workshop on Multimodal AI is held in Sheffield annually.[link](https://multimodalai.github.io/)
+2. The Insigneo Institute is driving innovative research at the interface of healthcare, engineering and science to transform the future of healthcare technology.[link](https://www.sheffield.ac.uk/insigneo)
+3. The EPSRC funded South Yorkshire Digital Health Hub will use cutting-edge research to develop innovative digital technologies for disease diagnosis and treatment by leveraging smartphone, wearable, and sensor data alongside NHS data to create new clinical tools.[link](https://www.sheffield.ac.uk/sydhh)
+4. The Healthy Lifespan Institute is transforming the experience of ageing. We’re the UK’s first interdisciplinary research institute dedicated to understanding and preventing multimorbidity and frailty - to help everyone live healthier lives for longer. [link](https://www.sheffield.ac.uk/sydhh)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WJZnQCJqUqw?si=ztnCYit8R1sVrxD4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## Living in the Sheffield
+<img src= /images/view-bamford-edge-peak-district-national-park-20496258.jpg>
+
+The balance of city life and natural beauty is one of Sheffield's key attractions. It’s a friendly, safe, and inclusive city that offers something for everyone—whether you’re looking to immerse yourself in academic life or explore new hobbies. The city is culturally rich, with a thriving arts scene, music venues, and a vibrant café culture, providing plenty of ways to unwind and socialize. For nature lovers, Sheffield is known as the “Outdoor City”,  with the beautiful [Peak District National Park](https://www.peakdistrict.gov.uk/home) on its doorstep (e.g., 20 minutes by bus/train), offering a perfect escape for hiking, climbing, and cycling.
+
+Sheffield’s public transport is well-developed, making it easy to get around the city and beyond. Plus, with major cities like Manchester and Leeds close by, and *London only two hours away by train*, Sheffield offers excellent connectivity.
+
+Sheffield is considered to be more affordable than other cities in the UK. Cost of Living Including Rent in Sheffield is *41.6% lower than in London*. See [details]((https://cscuk.fcdo.gov.uk/scholarships/commonwealth-split-site-scholarships-for-low-and-middle-income-countries/)).
+
+
