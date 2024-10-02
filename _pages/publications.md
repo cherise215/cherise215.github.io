@@ -55,7 +55,9 @@ Synthetic Optical Coherence Tomography Angiographs for Detailed Retinal Vessel S
  <a href="https://github.com/cherise215/LLM-ECG-Dual-Attention/" class="code">CODE</a>
 </div>
 </div>
-<img src="/images/synthetic_retina.png" alt="Synthetic AI for retina image" class="publication-image" onclick="expandImage(this)"/>
+![Publication Thumbnail](/images/synthetic_retina.png "Click to expand"){: .publication-image onclick="expandImage(this)" }
+
+<!-- <img src="/images/synthetic_retina.png" alt="Synthetic AI for retina image" class="publication-image" onclick="expandImage(this)"/> -->
 </div>
 
 
@@ -161,14 +163,14 @@ Chen Qin, Shuo Wang, **Chen Chen**, Huaqi Qiu, Wenjia Bai, Daniel Rueckert
 
 <script>
     function expandImage(img) {
-        const modal = document.getElementById("modal");
-        const expandedImg = document.getElementById("expandedImage");
-        expandedImg.src = img.src; // Set the modal image to the clicked image
-        modal.style.display = "block"; // Show the modal
+        var modal = document.getElementById("modal");
+        var expandedImg = document.getElementById("expandedImage");
+        expandedImg.src = img.src;  // Use the same image source
+        modal.style.display = "block";  // Display modal
     }
 
     function closeModal() {
-        const modal = document.getElementById("modal");
-        modal.style.display = "none"; // Hide the modal
+        var modal = document.getElementById("modal");
+        modal.style.display = "none";  // Hide modal
     }
 </script>
