@@ -547,7 +547,7 @@
 }
 
 .publication-image {
-  width: 200px;
-  height: 200px;
-  object-fit: cover;
+  width: 100%; /* Make image responsive */
+  height: auto; /* Maintain aspect ratio */
+  border-radius: 8px 0 0 8px; /* Rounded corners on the left */
 }
