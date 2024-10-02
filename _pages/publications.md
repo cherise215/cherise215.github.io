@@ -53,8 +53,8 @@ Yundi Zhang, **Chen Chen**, Suprosanna Shit, Sophie Starck, Daniel Rueckert, Jia
                 <span>Linus Kreitner, Johannes C. Paetzold, Nikolaus Rauch, **Chen Chen**, Ahmed M.Hagag, Alaa E. Fayed, Sobha Sivaprasad, Sebastian Rausch, Julian Weichsel, Bjoern H. Menze, Matthias Harders, Benjamin Knier, Daniel Rueckert and Martin J. Menten</span>
             </div>
             <div class="links">
-                <a href="https://ieeexplore.ieee.org/abstract/document/10400503" class="pdf">PDF</a>
-                <a href="https://github.com/cherise215/LLM-ECG-Dual-Attention/tree/dev" class="code">CODE</a>
+                <a href="https://ieeexplore.ieee.org/abstract/document/10400503" class="pdf">[PDF]</a>
+                <a href="https://github.com/cherise215/LLM-ECG-Dual-Attention/tree/dev" class="code">[CODE]</a>
             </div>
         </div>
             <img src="/images/synthetic_retina.png" alt="Synthetic AI for retina image" class="publication-image"/>
