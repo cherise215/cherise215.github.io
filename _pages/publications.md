@@ -49,16 +49,21 @@ Yundi Zhang, **Chen Chen**, Suprosanna Shit, Sophie Starck, Daniel Rueckert, Jia
 
 <div class="bottom-panel">
  <div class="text-content">
-        <h1>Synthetic Optical Coherence Tomography Angiographs for Detailed Retinal Vessel Segmentation Without Human Annotations</h1>
+        <h3>Synthetic Optical Coherence Tomography Angiographs for Detailed Retinal Vessel Segmentation Without Human Annotations</h3>
         <p>
-            Linus Kreitner, Johannes C. Paetzold, Nikolaus Rauch, *Chen Chen*, Ahmed M.Hagag,
+            Linus Kreitner, Johannes C. Paetzold, Nikolaus Rauch, **Chen Chen**, Ahmed M.Hagag,
 Alaa E. Fayed, Sobha Sivaprasad, Sebastian Rausch, Julian Weichsel, Bjoern H. Menze,
 Matthias Harders, Benjamin Knier, Daniel Rueckert and Martin J. Menten
         </p>
-        <br />
-`IEEE transaction on Medical Imaging (2024)` \[[pdf(https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10400503)<br />
+        <p>
+        `IEEE transaction on Medical Imaging (2024)` 
+\[[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10400503)\]
+        </p>
+        
 </div>
 </div>
+
+
 
 ## 2023
 <br />
