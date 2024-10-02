@@ -508,7 +508,6 @@
 
 
 .publication-image {
-  width: 500px;  /* Fixed width for images */
   height: auto;  /* Fixed height for images */
   object-fit: cover;  /* Ensures the image fits the dimensions without distortion */
   margin-right: 15px;  /* Space between image and text */
