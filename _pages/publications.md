@@ -44,7 +44,7 @@ Yundi Zhang, **Chen Chen**, Suprosanna Shit, Sophie Starck, Daniel Rueckert, Jia
 
 
 <div class="publication-block">
-<img src="/images/synthetic_retina.png" alt="Publication 1 Thumbnail" class="publication-image" onclick="expandImage(this)">
+<img src="/images/synthetic_retina.png" alt="Publication 1 Thumbnail" class="publication-image" onclick="expandImage(this, '/images/synthetic_retina.png')">
 
 <div class="publication-info">
 <div class="publication-title">
@@ -161,10 +161,10 @@ Chen Qin, Shuo Wang, **Chen Chen**, Huaqi Qiu, Wenjia Bai, Daniel Rueckert
 </div>
 
 <script>
-    function expandImage(img) {
+    function expandImage(img, fullsizeSrc) {
         var modal = document.getElementById("modal");
         var expandedImg = document.getElementById("expandedImage");
-        expandedImg.src = img.src;  // Set the modal image source to the clicked image
+        expandedImg.src = fullsizeSrc;  // Set the modal image source to the full-size image
         modal.style.display = "block";  // Show modal
     }
 
