@@ -74,18 +74,6 @@ Synthetic Optical Coherence Tomography Angiographs for Detailed Retinal Vessel S
 
 
 ## 2023
-<br />
-<img align="left" width="300" src="/images/adaatlas.gif" style="margin-right: 15px" />
-<br />
-**Pay Attention to the Atlas: Atlas-Guided Test-Time Adaptation Method for Robust 3D Medical Image Segmentation**
-<br />
-Jingjie Guo, Weitong Zhang, Matthew Sinclair, Daniel Rueckert, **Chen Chen** 
-<br />
-`MICCAI 2023, BTSD workshop` (oral) \[[pdf](https://arxiv.org/abs/2307.00676)\] <br />
-<br /><br /><br />
-<br /><br />
-<br /><br />
-
 <div class="publication-block">
     <div class="publication-info">
         <div class="publication-title">
