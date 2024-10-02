@@ -508,6 +508,7 @@
 
 
 .publication-image {
+  align-items: center;
   height: 200px;  /* Fixed height for images */
   object-fit: cover;  /* Ensures the image fits the dimensions without distortion */
   margin-right: 15px;  /* Space between image and text */
