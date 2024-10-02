@@ -573,6 +573,8 @@
   display: block;
   width: 80%; /* Width of the modal image */
   max-width: 700px; /* Max width */
+  height: auto;  /* Keeps aspect ratio for the modal image */
+
 }
 
 .close {

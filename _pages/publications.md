@@ -155,7 +155,7 @@ Chen Qin, Shuo Wang, **Chen Chen**, Huaqi Qiu, Wenjia Bai, Daniel Rueckert
 <br /> `Frontiers in Cardiovascular Medicine (2020)`.  \[[paper](https://www.frontiersin.org/articles/10.3389/fcvm.2020.00025/full)\] <br />
 <br /><br />
 
-
+<!-- Modal to display any clicked image -->
 <div id="modal" class="modal">
     <span class="close" onclick="closeModal()">&times;</span>
     <img class="modal-content" id="expandedImage">
