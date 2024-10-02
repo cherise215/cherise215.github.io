@@ -508,7 +508,7 @@
 
 
 .publication-image {
-  height: auto;  /* Fixed height for images */
+  height: 200px;  /* Fixed height for images */
   object-fit: cover;  /* Ensures the image fits the dimensions without distortion */
   margin-right: 15px;  /* Space between image and text */
   cursor: pointer;  /* Cursor changes to pointer indicating it's clickable */
@@ -516,7 +516,7 @@
 }
 
 .publication-image:hover {
-  transform: scale(1.2);  /* Slight zoom effect on hover */
+  transform: scale(1.1);  /* Slight zoom effect on hover */
 }
 
 
