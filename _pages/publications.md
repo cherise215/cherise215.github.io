@@ -48,9 +48,9 @@ Yundi Zhang, **Chen Chen**, Suprosanna Shit, Sophie Starck, Daniel Rueckert, Jia
 <div class="publication-title">
 Synthetic Optical Coherence Tomography Angiographs for Detailed Retinal Vessel Segmentation Without Human Annotations
 </div>
-<img src="/images/synthetic_retina.png" alt="Publication 1 Thumbnail" class="publication-image" onclick="expandImage(this, '/images/synthetic_retina.png')">
+<img src="/images/synthetic_retina.png" alt="Publication 1 Thumbnail" class="publication-image" onclick="expandImage(this, '/images/synthetic_retina.png')"><br />
 <h3 class="conference-name">IEEE trans on Medical Imaging (2024)</h3>        
-<p class="author-name">Linus Kreitner, Johannes C. Paetzold, Nikolaus Rauch, *Chen Chen, Ahmed M.Hagag, Alaa E. Fayed, Sobha Sivaprasad, Sebastian Rausch, Julian Weichsel, Bjoern H. Menze, Matthias Harders, Benjamin Knier, Daniel Rueckert and Martin J. Menten</p>
+<p class="author-name">Linus Kreitner, Johannes C. Paetzold, Nikolaus Rauch, *Chen Chen*, Ahmed M.Hagag, Alaa E. Fayed, Sobha Sivaprasad, Sebastian Rausch, Julian Weichsel, Bjoern H. Menze, Matthias Harders, Benjamin Knier, Daniel Rueckert and Martin J. Menten</p>
 <div class="links">
 <a href="https://ieeexplore.ieee.org/abstract/document/10400503" class="pdf">PDF</a>
  <a href="https://github.com/cherise215/LLM-ECG-Dual-Attention/" class="code">CODE</a>
