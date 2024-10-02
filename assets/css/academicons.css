@@ -526,13 +526,12 @@
   margin-bottom: 10px; /* Space below the conference name */
 }
 
-
-
-.authors {
-  margin: 10px 0;
+/* Author name styling */
+.author-name {
+  font-size: 16px;
+  margin: 5px 0;
   color: #555;
 }
-
 .links a {
   text-decoration: none;
   color: white;
