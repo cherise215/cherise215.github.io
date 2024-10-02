@@ -18,7 +18,7 @@ Selected Publications
 **Large Language Model-informed ECG Dual Attention Network for Heart Failure Risk Prediction**
 <br />
 **Chen Chen**, Lei Li, Marcel Beetz, Abhirup Banerjee, Ramneek Gupta, Vicente Grau.
-<br /> `IEEE trans on Big Data, 2024` \[[pdf](https://arxiv.org/abs/2403.10581)\]<br />
+<br /> `IEEE Transaction on Big Data, 2024` \[[pdf](https://arxiv.org/abs/2403.10581)\]<br />
 <br /><br />
 <br /><br />
 <br /><br />
@@ -51,11 +51,11 @@ Synthetic Optical Coherence Tomography Angiographs for Detailed Retinal Vessel S
 <h3 class="conference-name">IEEE trans on Medical Imaging (2024)</h3>        
 <p class="author-name">Linus Kreitner, Johannes C. Paetzold, Nikolaus Rauch, *Chen Chen, Ahmed M.Hagag, Alaa E. Fayed, Sobha Sivaprasad, Sebastian Rausch, Julian Weichsel, Bjoern H. Menze, Matthias Harders, Benjamin Knier, Daniel Rueckert and Martin J. Menten</p>
 <div class="links">
-<a href="https://ieeexplore.ieee.org/abstract/document/10400503" class="pdf">[PDF]</a>
- <a href="https://github.com/cherise215/LLM-ECG-Dual-Attention/tree/dev" class="code">[CODE]</a>
+<a href="https://ieeexplore.ieee.org/abstract/document/10400503" class="pdf">PDF</a>
+ <a href="https://github.com/cherise215/LLM-ECG-Dual-Attention/" class="code">CODE</a>
 </div>
 </div>
-<img src="/images/synthetic_retina.png" alt="Synthetic AI for retina image" class="publication-image"/>
+<img src="/images/synthetic_retina.png" alt="Synthetic AI for retina image" class="publication-image" onclick="expandImage(this)"/>
 </div>
 
 
@@ -152,3 +152,23 @@ Chen Qin, Shuo Wang, **Chen Chen**, Huaqi Qiu, Wenjia Bai, Daniel Rueckert
 **Chen Chen**, Chen Qin, Huaqi Qiu, Giacomo Tarroni, Jinming Duan, Wenjia Bai, Daniel Rueckert
 <br /> `Frontiers in Cardiovascular Medicine (2020)`.  \[[paper](https://www.frontiersin.org/articles/10.3389/fcvm.2020.00025/full)\] <br />
 <br /><br />
+
+
+<div id="modal" class="modal">
+    <span class="close" onclick="closeModal()">&times;</span>
+    <img class="modal-content" id="expandedImage">
+</div>
+
+<script>
+    function expandImage(img) {
+        const modal = document.getElementById("modal");
+        const expandedImg = document.getElementById("expandedImage");
+        expandedImg.src = img.src; // Set the modal image to the clicked image
+        modal.style.display = "block"; // Show the modal
+    }
+
+    function closeModal() {
+        const modal = document.getElementById("modal");
+        modal.style.display = "none"; // Hide the modal
+    }
+</script>
