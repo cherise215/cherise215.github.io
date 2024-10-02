@@ -516,7 +516,7 @@
 }
 
 .publication-image:hover {
-  transform: scale(1.5);  /* Slight zoom effect on hover */
+  transform: scale(1.2);  /* Slight zoom effect on hover */
 }
 
 
