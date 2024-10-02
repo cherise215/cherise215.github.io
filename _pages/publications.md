@@ -44,21 +44,15 @@ Yundi Zhang, **Chen Chen**, Suprosanna Shit, Sophie Starck, Daniel Rueckert, Jia
 
 
 <div class="publication-block">
-        <div class="publication-info">
-            <div class="publication-title">
-                <h2>Synthetic Optical Coherence Tomography Angiographs for Detailed Retinal Vessel Segmentation Without Human Annotations</h2>
-                <h3 class="conference-name">IEEE trans on Medical Imaging (2024)</h3>
-            </div>
-            <div class="authors">
-                <span>Linus Kreitner, Johannes C. Paetzold, Nikolaus Rauch, **Chen Chen**, Ahmed M.Hagag, Alaa E. Fayed, Sobha Sivaprasad, Sebastian Rausch, Julian Weichsel, Bjoern H. Menze, Matthias Harders, Benjamin Knier, Daniel Rueckert and Martin J. Menten</span>
-            </div>
-            <div class="links">
-                <a href="https://ieeexplore.ieee.org/abstract/document/10400503" class="pdf">[PDF]</a>
-                <a href="https://github.com/cherise215/LLM-ECG-Dual-Attention/tree/dev" class="code">[CODE]</a>
-            </div>
-        </div>
-            <img src="/images/synthetic_retina.png" alt="Synthetic AI for retina image" class="publication-image"/>
-    </div>
+<h2 class="publication-title"> Synthetic Optical Coherence Tomography Angiographs for Detailed Retinal Vessel Segmentation Without Human Annotations</h2>
+<h3 class="conference-name">IEEE trans on Medical Imaging (2024)</h3>        
+<p class="author-name">Linus Kreitner, Johannes C. Paetzold, Nikolaus Rauch, *Chen Chen, Ahmed M.Hagag, Alaa E. Fayed, Sobha Sivaprasad, Sebastian Rausch, Julian Weichsel, Bjoern H. Menze, Matthias Harders, Benjamin Knier, Daniel Rueckert and Martin J. Menten</p>
+<div class="links">
+<a href="https://ieeexplore.ieee.org/abstract/document/10400503" class="pdf">[PDF]</a>
+ <a href="https://github.com/cherise215/LLM-ECG-Dual-Attention/tree/dev" class="code">[CODE]</a>
+</div>
+<img src="/images/synthetic_retina.png" alt="Synthetic AI for retina image" class="publication-image"/>
+</div>
 
 
 
