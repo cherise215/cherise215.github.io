@@ -57,7 +57,7 @@ Yundi Zhang, **Chen Chen**, Suprosanna Shit, Sophie Starck, Daniel Rueckert, Jia
                 <a href="https://github.com/cherise215/LLM-ECG-Dual-Attention/tree/dev" class="code">CODE</a>
             </div>
         </div>
-            <img src="/images/synthetic_retina.png" alt="Synthetic AI for retina image", class="publication-image">
+            <img src="/images/synthetic_retina.png" alt="Synthetic AI for retina image" class="publication-image"/>
     </div>
 
 
