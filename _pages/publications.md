@@ -153,22 +153,22 @@ Chen Qin, Shuo Wang, **Chen Chen**, Huaqi Qiu, Wenjia Bai, Daniel Rueckert
 <br /> `Frontiers in Cardiovascular Medicine (2020)`.  \[[paper](https://www.frontiersin.org/articles/10.3389/fcvm.2020.00025/full)\] <br />
 <br /><br />
 
-<!-- Modal for displaying any clicked image -->
-<div id="modal" class="modal">
-    <span class="close" onclick="closeModal()">&times;</span>
-    <img class="modal-content" id="expandedImage">
+<!-- Separate image box for expanded view -->
+<div id="imageBox" class="image-box" style="display: none;">
+    <span class="close" onclick="closeImageBox()">&times;</span>
+    <img class="full-image" id="expandedImage" src="" alt="Expanded Image">
 </div>
 
 <script>
-    function expandImage(img, fullsizeSrc) {
-        var modal = document.getElementById("modal");
+    function expandImage(fullsizeSrc) {
+        var imageBox = document.getElementById("imageBox");
         var expandedImg = document.getElementById("expandedImage");
-        expandedImg.src = fullsizeSrc;  // Set the modal image source to the full-size image
-        modal.style.display = "block";  // Show modal
+        expandedImg.src = fullsizeSrc;  // Set the source of the full-size image
+        imageBox.style.display = "block";  // Show the image box
     }
 
-    function closeModal() {
-        var modal = document.getElementById("modal");
-        modal.style.display = "none";  // Hide modal
+    function closeImageBox() {
+        var imageBox = document.getElementById("imageBox");
+        imageBox.style.display = "none";  // Hide the image box
     }
 </script>
