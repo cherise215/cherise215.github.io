@@ -44,8 +44,6 @@ Yundi Zhang, **Chen Chen**, Suprosanna Shit, Sophie Starck, Daniel Rueckert, Jia
 
 
 <div class="publication-block">
-<img src="/images/synthetic_retina.png" alt="Publication 1 Thumbnail" class="publication-image" onclick="expandImage(this, '/images/synthetic_retina.png')">
-
 <div class="publication-info">
 <div class="publication-title">
 Synthetic Optical Coherence Tomography Angiographs for Detailed Retinal Vessel Segmentation Without Human Annotations
@@ -56,6 +54,7 @@ Synthetic Optical Coherence Tomography Angiographs for Detailed Retinal Vessel S
 <a href="https://ieeexplore.ieee.org/abstract/document/10400503" class="pdf">PDF</a>
  <a href="https://github.com/cherise215/LLM-ECG-Dual-Attention/" class="code">CODE</a>
 </div>
+<img src="/images/synthetic_retina.png" alt="Publication 1 Thumbnail" class="publication-image" onclick="expandImage(this, '/images/synthetic_retina.png')">
 </div>
 </div>
 

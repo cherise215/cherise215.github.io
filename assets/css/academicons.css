@@ -508,8 +508,8 @@
 
 
 .publication-image {
-  width: 200px;  /* Fixed width for images */
-  height: 200px;  /* Fixed height for images */
+  width: 500px;  /* Fixed width for images */
+  height: auto;  /* Fixed height for images */
   object-fit: cover;  /* Ensures the image fits the dimensions without distortion */
   margin-right: 15px;  /* Space between image and text */
   cursor: pointer;  /* Cursor changes to pointer indicating it's clickable */
