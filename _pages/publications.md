@@ -44,6 +44,8 @@ Yundi Zhang, **Chen Chen**, Suprosanna Shit, Sophie Starck, Daniel Rueckert, Jia
 
 
 <div class="publication-block">
+<img src="/images/synthetic_retina.png" alt="Publication 1 Thumbnail" class="publication-image" onclick="expandImage(this)">
+
 <div class="publication-info">
 <div class="publication-title">
 Synthetic Optical Coherence Tomography Angiographs for Detailed Retinal Vessel Segmentation Without Human Annotations
@@ -55,9 +57,6 @@ Synthetic Optical Coherence Tomography Angiographs for Detailed Retinal Vessel S
  <a href="https://github.com/cherise215/LLM-ECG-Dual-Attention/" class="code">CODE</a>
 </div>
 </div>
-![Publication Thumbnail](/images/synthetic_retina.png "Click to expand"){: .publication-image onclick="expandImage(this)" }
-
-<!-- <img src="/images/synthetic_retina.png" alt="Synthetic AI for retina image" class="publication-image" onclick="expandImage(this)"/> -->
 </div>
 
 
@@ -155,7 +154,7 @@ Chen Qin, Shuo Wang, **Chen Chen**, Huaqi Qiu, Wenjia Bai, Daniel Rueckert
 <br /> `Frontiers in Cardiovascular Medicine (2020)`.  \[[paper](https://www.frontiersin.org/articles/10.3389/fcvm.2020.00025/full)\] <br />
 <br /><br />
 
-<!-- Modal to display any clicked image -->
+<!-- Modal for displaying any clicked image -->
 <div id="modal" class="modal">
     <span class="close" onclick="closeModal()">&times;</span>
     <img class="modal-content" id="expandedImage">
@@ -165,8 +164,8 @@ Chen Qin, Shuo Wang, **Chen Chen**, Huaqi Qiu, Wenjia Bai, Daniel Rueckert
     function expandImage(img) {
         var modal = document.getElementById("modal");
         var expandedImg = document.getElementById("expandedImage");
-        expandedImg.src = img.src;  // Use the same image source
-        modal.style.display = "block";  // Display modal
+        expandedImg.src = img.src;  // Set the modal image source to the clicked image
+        modal.style.display = "block";  // Show modal
     }
 
     function closeModal() {
