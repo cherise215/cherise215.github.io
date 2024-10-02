@@ -95,7 +95,7 @@ Synthetic Optical Coherence Tomography Angiographs for Detailed Retinal Vessel S
             MaxStyle: Adversarial Style Composition for Robust Medical Image Segmentation
         </div>
         <img src="/images/maxstyle.png" alt="MaxStyle Thumbnail" class="publication-image" onclick="expandImage(this, '/images/maxstyle.png')"><br />
-        <p class="author-name">Chen Chen, Zeju Li, Cheng Ouyang, Matthew Sinclair, Wenjia Bai & Daniel Rueckert</p>
+        <p class="author-name"><strong>Chen Chen</strong>, Zeju Li, Cheng Ouyang, Matthew Sinclair, Wenjia Bai & Daniel Rueckert</p>
         <h3 class="conference-name">MICCAI 2022 (early accept)</h3>
         <div class="links">
             <a href="https://arxiv.org/abs/2206.01737" class="pdf">PDF</a> | 
@@ -112,7 +112,7 @@ Synthetic Optical Coherence Tomography Angiographs for Detailed Retinal Vessel S
             AdvChain: Enhancing MR image segmentation with realistic adversarial data augmentation
         </div>
         <img src="/images/adversarialDA.jpg" alt="AdvChain Thumbnail" class="publication-image" onclick="expandImage(this, '/images/adversarialDA.jpg')"><br />
-        <p class="author-name">Chen Chen, Chen Qin, Cheng Ouyang, Zeju Li, Shuo Wang, Huaqi Qiu, Liang Chen, Giacomo Tarroni, Wenjia Bai, Daniel Rueckert</p>
+        <p class="author-name"><strong>Chen Chen</strong>, Chen Qin, Cheng Ouyang, Zeju Li, Shuo Wang, Huaqi Qiu, Liang Chen, Giacomo Tarroni, Wenjia Bai, Daniel Rueckert</p>
         <h3 class="conference-name">Medical Image Analysis (2022)</h3>
         <div class="links">
             <a href="https://arxiv.org/abs/2108.03429" class="pdf">PDF</a> | 
