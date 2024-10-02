@@ -486,8 +486,62 @@
 }
 
 
+
+
 @media screen and (max-width: 600px) {
   .column {
     width: 100%;
   }
+}
+
+.publication-block {
+  display: flex;
+  background: white;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+  margin-bottom: 20px;
+  overflow: hidden;
+}
+
+.publication-info {
+  padding: 20px;
+  flex: 1;
+}
+
+.publication-title h2 {
+  margin: 0;
+  font-size: 1.5em;
+  color: #333;
+}
+
+.conference {
+  display: block;
+  font-weight: bold;
+  margin-top: 5px;
+}
+
+.authors {
+  margin: 10px 0;
+  color: #555;
+}
+
+.links a {
+  text-decoration: none;
+  color: white;
+  background: #6a5acd;
+  padding: 5px 10px;
+  margin-right: 5px;
+  border-radius: 4px;
+  transition: background 0.3s;
+}
+
+.links a:hover {
+  background: #5c4dcd;
+}
+
+.publication-image {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
 }

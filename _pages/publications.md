@@ -2,7 +2,7 @@
 layout: archive
 title: "Publications"
 permalink: /publications/
-author_profile: true
+author_profile: false
 ---
 {% include base_path %}
 
@@ -43,25 +43,24 @@ Yundi Zhang, **Chen Chen**, Suprosanna Shit, Sophie Starck, Daniel Rueckert, Jia
 <br /><br />
 
 
-<div class="top-pane">
-    <img src="/images/synthetic_retina.png" alt="Synthetic AI for retina image">
-</div>
-
-<div class="bottom-panel">
- <div class="text-content">
-        <h3>Synthetic Optical Coherence Tomography Angiographs for Detailed Retinal Vessel Segmentation Without Human Annotations</h3>
-        <p>
-            Linus Kreitner, Johannes C. Paetzold, Nikolaus Rauch, **Chen Chen**, Ahmed M.Hagag,
+<div class="publication-block">
+        <div class="publication-info">
+            <div class="publication-title">
+                <h2>Synthetic Optical Coherence Tomography Angiographs for Detailed Retinal Vessel Segmentation Without Human Annotations</h2>
+                <span class="conference">IEEE trans on Medical Imaging (2024)</span>
+            </div>
+            <div class="authors">
+                <span>Linus Kreitner, Johannes C. Paetzold, Nikolaus Rauch, **Chen Chen**, Ahmed M.Hagag,
 Alaa E. Fayed, Sobha Sivaprasad, Sebastian Rausch, Julian Weichsel, Bjoern H. Menze,
-Matthias Harders, Benjamin Knier, Daniel Rueckert and Martin J. Menten
-        </p>
-        <p>
-        `IEEE transaction on Medical Imaging (2024)` 
-\[[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10400503)\]
-        </p>
-        
-</div>
-</div>
+Matthias Harders, Benjamin Knier, Daniel Rueckert and Martin J. Menten</span>
+            </div>
+            <div class="links">
+                <a href="https://ieeexplore.ieee.org/abstract/document/10400503" class="pdf">PDF</a>
+                <a href="https://github.com/cherise215/LLM-ECG-Dual-Attention/tree/dev" class="code">CODE</a>
+            </div>
+        </div>
+            <img src="/images/synthetic_retina.png" alt="Synthetic AI for retina image", class="publication-image">
+    </div>
 
 
 
