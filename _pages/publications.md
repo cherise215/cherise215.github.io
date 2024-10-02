@@ -2,7 +2,7 @@
 layout: archive
 title: "Publications"
 permalink: /publications/
-author_profile: false
+author_profile: true
 ---
 {% include base_path %}
 
@@ -47,7 +47,7 @@ Yundi Zhang, **Chen Chen**, Suprosanna Shit, Sophie Starck, Daniel Rueckert, Jia
         <div class="publication-info">
             <div class="publication-title">
                 <h2>Synthetic Optical Coherence Tomography Angiographs for Detailed Retinal Vessel Segmentation Without Human Annotations</h2>
-                <span class="conference">IEEE trans on Medical Imaging (2024)</span>
+                <h3 class="conference-name">IEEE trans on Medical Imaging (2024)</h3>
             </div>
             <div class="authors">
                 <span>Linus Kreitner, Johannes C. Paetzold, Nikolaus Rauch, **Chen Chen**, Ahmed M.Hagag, Alaa E. Fayed, Sobha Sivaprasad, Sebastian Rausch, Julian Weichsel, Bjoern H. Menze, Matthias Harders, Benjamin Knier, Daniel Rueckert and Martin J. Menten</span>

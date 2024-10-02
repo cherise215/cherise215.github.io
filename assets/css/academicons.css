@@ -515,11 +515,18 @@
   color: #333;
 }
 
-.conference {
-  display: block;
-  font-weight: bold;
-  margin-top: 5px;
+/* Conference name styling */
+.conference-name {
+  background-color: #9b59b6; /* Purple background */
+  color: white; /* White text */
+  display: inline-block; /* Allow background color to fit text */
+  padding: 5px 10px; /* Padding around the text */
+  border-radius: 4px; /* Rounded corners */
+  font-size: 14px; /* Smaller font size */
+  margin-bottom: 10px; /* Space below the conference name */
 }
+
+
 
 .authors {
   margin: 10px 0;
