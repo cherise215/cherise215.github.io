@@ -218,7 +218,7 @@ Contact
 -------
 
 - Email: 
-  - For invitations to review, call for paper submissions, and/or event/workshop/code enquiries, please contact me via: **work (dot) cherise (at) gmail.com**
+  - For invitations to grant/paper/journal review, calls for paper submissions, and/or event/workshop/code enquiries, please contact me via: **work (dot) cherise (at) gmail.com**
   - For PhD/Visting student enquries: please contact me via **enquiry (dot) ai4health (at) gmail.com**
-  - Other urgent staff: please contact my primary email box **chen (dot) chen2 (at) sheffield.ac.uk**
+  - For other urgent stuff, please contact my primary email box **chen (dot) chen2 (at) sheffield.ac.uk** 
 - Address: Regent court 222, School of Computer Science, University of Sheffield, Sheffield, UK. S1 4DP
