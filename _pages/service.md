@@ -30,6 +30,7 @@ Associate editor: Journal of Visual Communication and Image Representation
 
 Chair editor: Generative Machine Learning Models in Medical Image Computing (A book will be published w/ Springer Nature)
 
+
 Selected Jounal & Conference Reviewer
 -------------------------------------
 
@@ -58,3 +59,5 @@ International Conference on Information Processing in Medical Imaging (IPMI)
 International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)
 
 International Conference on **Medical Imaging with Deep Learning (MIDL)
+
+
