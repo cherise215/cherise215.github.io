@@ -44,6 +44,7 @@ Dr Chen (Cherise) Chen is a Lecturer in Computer Vision, at the Department of Co
   </div><br /><br /><br /><br /><br /><br />
 
 
+
 News
 ----
 
@@ -209,12 +210,15 @@ Awards and honours
 - 2023: IEEE TMI *Gold-level* Distinguished Reviewer (2022-2023)
 - 2023: MICCAI 2023 Outstanding Reviewer (top 12)
 - 2022: IEEE TMI *Gold-level* Distinguished Reviewer (2020-2022)
-- 2022: *Winner* of the Fetal Tissue Annotation and Segmentation Challenge (FeTA) Challenge
+- 2022: *Winner* of the Fetal Tissue Annotation and Segmentation Challenge (FeTA) 2022
 - 2019: *Winner* of the Multi-sequence Cardiac MR Segmentation Challenge 2019
 - 2012&2013: China National Scholarships (twice) (top 0.2%): The highest level of national scholarships in China.
 
 Contact
 -------
 
-- Email: chen (dot) chen2 (at) sheffield (dot) ac (dot) uk
-- Address: Regent court, Department of Computer Science, University of Sheffield, Sheffield, UK. S1 4DP
+- Email: 
+  - For invitations to review, call for paper submissions, and/or event/workshop/code enquiries, please contact me via: **work (dot) cherise (at) gmail.com**
+  - For PhD/Visting student enquries: please contact me via **enquiry (dot) ai4health (at) gmail.com**
+  - Other urgent staff: please contact my primary email box **chen (dot) chen2 (at) sheffield.ac.uk**
+- Address: Regent court 222, School of Computer Science, University of Sheffield, Sheffield, UK. S1 4DP

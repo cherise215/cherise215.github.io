@@ -19,10 +19,10 @@ University of Sheffield is ranked as *5th* in the UK, *17th* in Europe for resea
     - [2] Chen, Chen, et al. "Large Language Model-informed ECG Dual Attention Network for Heart Failure Risk Prediction." 2024
 
 
-- Funding notes: The PhD studentship will cover standard UK home tuition fees and provide a tax-free stipend at the standard UK Research Council rate (currently £19,237 for the 2024/25 academic year) for 3.5 years. If you are an overseas student, you are eligible to apply but you must have the means to pay the difference between the UK and overseas tuition fees by securing additional funding or self-funding. Further information on International fees can be found here: View Website
+- Funding notes: The PhD studentship will cover standard UK home tuition fees and provide a tax-free stipend at the standard UK Research Council rate (currently £19,237 for the 2024/25 academic year) for 3.5 years. If you are an overseas student, you are eligible to apply but you must have the means to pay the difference between the UK and overseas tuition fees by securing additional funding or self-funding. Further information on International fees can be found [here](https://www.sheffield.ac.uk/postgraduate/phd/fees).
 
 - How to apply: 
-    - Please send me your CV (grade, ranking, research experience included), transcripts, *first-authored* papers/thesis and other supporting materials (such as slides to show your research experience, or github website to show your past projects), to work.cherise@gmail.com. Please quote "[PHD_AI4Health] - Your Current Programme – Name-You Preferred Starting Date". E.g, "[PHD_AI4Health] - MSc-University of Sheffield–Chen Chen-2025 Spring" in your email subject. 
+    - Please send me your CV (grade, ranking, research experience included), transcripts, **first-authored** papers/thesis (please merge all into one single file) and other supporting materials (such as slides to show your research experience, or github website to show your past projects), to **enquiry.ai4health@gmail.com**. Please quote "[PHD_AI4Health] - Your Current Programme – Name-You Preferred Starting Date". E.g, "[PHD_AI4Health] - MSc-University of Sheffield–Chen Chen-2025 Spring" in your email subject. 
     - Due to the high volume of emails I receive, emails without strictly having this quote in the subject title may be automatically classified as spam and ignored. So please help me to catch up your email.  I am sorry that it is difficult to provide feedback to every applicant. Only shortlisted candidates will be noticed (usually within 1-2 weeks, you will receive my response asking you to fill a Google form for the next step). Please understand that failing to receive my response does not reflect your qualifications or potential for other PhD programs.
 
 # Others scholarships
@@ -73,6 +73,6 @@ The balance of city life and natural beauty is one of Sheffield's key attraction
 
 Sheffield’s public transport is well-developed, making it easy to get around the city and beyond. Plus, with major cities like Manchester and Leeds close by, and **London only two hours away by train**, Sheffield offers excellent connectivity.
 
-Sheffield is considered to be more affordable than other cities in the UK. Cost of Living Including Rent in Sheffield is **41.6% lower than in London**. See [details]((https://cscuk.fcdo.gov.uk/scholarships/commonwealth-split-site-scholarships-for-low-and-middle-income-countries/)).
+Sheffield is considered to be more affordable than other cities in the UK. Cost of Living Including Rent in Sheffield is **41.6% lower than in London**. See [details](https://www.numbeo.com/cost-of-living/compare_cities.jsp?country1=United+Kingdom&country2=United+Kingdom&city1=London&city2=Sheffield).
 
 
