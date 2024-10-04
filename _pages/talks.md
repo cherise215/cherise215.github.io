@@ -4,6 +4,8 @@ title: "Invited Talks"
 permalink: /talks/
 author_profile: true
 ---
+<img src= "/images/talk_2024.jpeg" width="350" class="publication-image"><br />
+
 **"Unlocking the Value of Single Modality through Multi-Modal Knowledge Transfer for Healthcare"**
 * [07/11/2024] Queen Mary University of London, UK
 * [18/09/2024] University College London, UK
