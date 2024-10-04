@@ -76,7 +76,7 @@ Relevant research communities in the University:
 </div>
 
 ## Living in the Sheffield
-<img src= "/images/view-bamford-edge-peak-district-national-park-20496258.jpg" width="200" class="publication-image"><br />
+<img src= "/images/view-bamford-edge-peak-district-national-park-20496258.jpg" width="350" class="publication-image"><br />
 
 The balance of city life and natural beauty is one of Sheffield's key attractions. It’s a friendly, safe, and inclusive city that offers something for everyone—whether you’re looking to immerse yourself in academic life or explore new hobbies. The city is culturally rich, with a thriving arts scene, music venues, and a vibrant café culture, providing plenty of ways to unwind and socialize. For nature lovers, Sheffield is known as the “Outdoor City”,  with the beautiful [Peak District National Park](https://www.peakdistrict.gov.uk/home) on its doorstep (e.g., 20 minutes by bus/train), offering a perfect escape for hiking, climbing, and cycling.
 
