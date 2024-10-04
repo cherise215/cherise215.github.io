@@ -73,7 +73,7 @@ Relevant research communities in the University:
 
 <div class="iframe-container">
 <iframe src="https://www.youtube.com/embed/WJZnQCJqUqw?si=ztnCYit8R1sVrxD4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<div>
+</div>
 
 ## Living in the Sheffield
 <img src= "/images/view-bamford-edge-peak-district-national-park-20496258.jpg" width="200" class="publication-image"><br />

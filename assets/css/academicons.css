@@ -450,7 +450,11 @@
 .iframe-container {
   width: 300px; /* Set the desired width */
   height: 200px; /* Set the desired height */
-  overflow: hidden; /* Hide overflow if the iframe content exceeds the container */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+  margin: 0 auto; /* Centers the container itself horizontally */
 }
 
 .iframe-container iframe {
@@ -519,7 +523,8 @@
 
 
 .publication-image {
-  align-items: center;
+  display: flex;
+  justify-content: center;
   height: 200px;  /* Fixed height for images */
   object-fit: cover;  /* Ensures the image fits the dimensions without distortion */
   cursor: pointer;  /* Cursor changes to pointer indicating it's clickable */

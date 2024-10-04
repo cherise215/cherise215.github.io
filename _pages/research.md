@@ -31,9 +31,8 @@ I am extremely interested in their applications including:
 </p>
 
 
-<p align="center"> 
 <div class="iframe-container">
   <iframe src="https://www.youtube-nocookie.com/embed/WbyhhvlbCAY?si=qLxmtV3n6btWGeKC" title="research highlights" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
-</p>
+
 
