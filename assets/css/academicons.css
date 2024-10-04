@@ -524,6 +524,7 @@
 
 .publication-image {
   display: flex;
+  align-items: center;
   justify-content: center;
   height: 200px;  /* Fixed height for images */
   object-fit: cover;  /* Ensures the image fits the dimensions without distortion */
