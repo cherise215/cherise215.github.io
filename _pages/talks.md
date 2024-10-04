@@ -9,9 +9,10 @@ author_profile: true
 * [18/09/2024] University College London, UK
 * [15/07/2024] Technical University of Munich (TUM) and Helmholtz Munich, Germany
 * [19/06/2024] University of Birmingham, UK
-* [03/06/2024] Harvard Medical School, US
+* [03/06/2024] Harvard Medical School, US [recording](https://drive.google.com/drive/my-drive)
 * [24/04/2024] BMVA One Day Meeting: Trustworthy Multimodal Learning with Foundation Models: Bridging the Gap between AI Research and Real World Applications
-  syposium, British Computer Society, London, UK
+  syposium, British Computer Society, London, UK [recording](https://youtu.be/FM7IhNZw_pY?feature=shared)
+
 
 **"Towards Trustworthy AI in Healthcare: Enhancing Model Robustness, Reliability, and Adaptability"**
 * [20/09/2024] British Society of Cardiovascular Imaging and British Society of Cardiovascular Computed Tomography (BSCI/BSCCT) 2024 Annual Meeting

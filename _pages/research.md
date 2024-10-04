@@ -33,7 +33,11 @@ I am extremely interested in their applications including:
 Invited Talk Recordings
 -----------------
 <div class="iframe-container">
-  <iframe width="350" src="https://www.youtube-nocookie.com/embed/WbyhhvlbCAY?si=qLxmtV3n6btWGeKC" title="research highlights" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="350" src="https://www.youtube.com/embed/1wY6M8gWv7I?si=IG_vffrJJgbDBhtx&amp;start=55" title="multi-modal AI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
+<div class="iframe-container">
+  <iframe width="350" src="https://www.youtube-nocookie.com/embed/WbyhhvlbCAY?si=qLxmtV3n6btWGeKC" title="adversarial data augmentation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 
