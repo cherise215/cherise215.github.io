@@ -35,7 +35,7 @@ Selected Publications
             Whole Heart 3D+ T Representation Learning Through Sparse 2D Cardiac MR Images
         </div>
         <img src="/images/4d_cardiac_representation.png" alt="Whole Heart 3D+ T Representation Learning Thumbnail" class="publication-image" onclick="expandImage(this, '/images/4d_cardiac_representation.png')"><br />
-        <h3 class="conference-name">MICCAI 2024</h3>
+        <h3 class="conference-name">MICCAI 2024 (oral, short-listed for young scientist award)</h3>
         <p class="author-name">Yundi Zhang, <strong>Chen Chen</strong>, Suprosanna Shit, Sophie Starck, Daniel Rueckert, Jiazhen Pan</p>
         <div class="links">
             <a href="https://arxiv.org/abs/2406.00329" class="pdf">PDF</a>
