@@ -31,7 +31,7 @@ University of Sheffield is ranked as *5th* in the UK, *17th* in Europe for resea
 - for Chinese applicants [details](https://www.sheffield.ac.uk/postgraduate/phd/scholarships/csc).
 
 **Commonwealth Phd Scholarship**
-- for both students from [low-income countries](https://cscuk.fcdo.gov.uk/scholarships/commonwealth-phd-scholarships-for-least-developed-countries-and-fragile-states/) and [high-income contries](https://cscuk.fcdo.gov.uk/scholarships/commonwealth-phd-scholarships-for-high-income-countries/)
+- for both students from certain [low-income countries](https://cscuk.fcdo.gov.uk/scholarships/commonwealth-phd-scholarships-for-least-developed-countries-and-fragile-states/) and certain [high-income contries](https://cscuk.fcdo.gov.uk/scholarships/commonwealth-phd-scholarships-for-high-income-countries/)
 
 **University Scholarships**
 - [details](https://www.sheffield.ac.uk/postgraduate/phd/scholarships)
