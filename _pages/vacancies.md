@@ -25,7 +25,7 @@ University of Sheffield is ranked as *5th* in the UK, *17th* in Europe for resea
     - Please send me your CV (grade, ranking, research experience included), transcripts, **first-authored** papers/thesis (please merge all into one single file) and other supporting materials (such as slides to show your research experience, or github website to show your past projects), to **enquiry.ai4health@gmail.com**. Please quote "[PHD_AI4Health] - Your Current Programme – Name-You Preferred Starting Date". E.g, "[PHD_AI4Health] - MSc-University of Sheffield–Chen Chen-2025 Spring" in your email subject. 
     - Due to the high volume of emails I receive, emails without strictly having this quote in the subject title may be automatically classified as spam and ignored. So please help me to catch up your email.  I am sorry that it is difficult to provide feedback to every applicant. Only shortlisted candidates will be noticed (usually within 1-2 weeks, you will receive my response asking you to fill a Google form for the next step). Please understand that failing to receive my response does not reflect your qualifications or potential for other PhD programs.
 
-# Others scholarships
+# Others Scholarships
 
 **China Scholarship Council (CSC) Scholarships**
 - for Chinese applicants [details](https://www.sheffield.ac.uk/postgraduate/phd/scholarships/csc).
@@ -33,7 +33,7 @@ University of Sheffield is ranked as *5th* in the UK, *17th* in Europe for resea
 **Commonwealth Phd Scholarship**
 - for both students from [low-income countries](https://cscuk.fcdo.gov.uk/scholarships/commonwealth-phd-scholarships-for-least-developed-countries-and-fragile-states/) and [high-income contries](https://cscuk.fcdo.gov.uk/scholarships/commonwealth-phd-scholarships-for-high-income-countries/)
 
-**University scholarships**
+**University Scholarships**
 - [details](https://www.sheffield.ac.uk/postgraduate/phd/scholarships)
 
 
