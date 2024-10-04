@@ -28,7 +28,7 @@ University of Sheffield is ranked as *5th* in the UK, *17th* in Europe for resea
 # Others Scholarships
 
 **China Scholarship Council (CSC) Scholarships**
-- for Chinese applicants [details](https://www.sheffield.ac.uk/postgraduate/phd/scholarships/csc).
+- for Chinese applicants [details](https://www.sheffield.ac.uk/postgraduate/phd/scholarships/csc). Please make sure that your have passed the English requirement before the internal selection, usually in Jan 2025. In our School of Computer Science,  a minimum of IELTS 6.5 with 6.0 in each component or equivalent is required. Alternative language test includes PTE Academic or PTE Academic UKVI, which offers more flexibility in terms of test dates. [check here](https://www.sheffield.ac.uk/postgraduate/english-language) for other acceptable test results.
 
 **Commonwealth Phd Scholarship**
 - for both students from certain [low-income countries](https://cscuk.fcdo.gov.uk/scholarships/commonwealth-phd-scholarships-for-least-developed-countries-and-fragile-states/) and certain [high-income contries](https://cscuk.fcdo.gov.uk/scholarships/commonwealth-phd-scholarships-for-high-income-countries/)
