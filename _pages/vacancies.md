@@ -37,6 +37,11 @@ University of Sheffield is ranked as *5th* in the UK, *17th* in Europe for resea
 - [details](https://www.sheffield.ac.uk/postgraduate/phd/scholarships)
 
 
+**External Project Opportunities**
+We are also happy to support strong applicants for their applications via external funding body, with industry partners. 
+- [royalcommission1851.org](https://royalcommission1851.org/fellowships/industrial-fellowships). Please note that this is very competitive. The applicant must have a good first degree in engineering, science, medicine or design. At the time of applying, you must be (1):  currently employed by a UK-based company or (2) 1-year or 2-year CDT/Case PhD students strongly coupled with company in UK; and working on a research and/or development topic potentially leading to a
+patent, product, process or service in conjunction with a higher academic award. 
+- [EPSRC Landscape Awards](https://www.sheffield.ac.uk/rpi/pgr/scholarships/epsrc-dtp). We encourage candidates and companies to contact me directly. Deadline: Oct 15th. 
 # Visiting opportunities
 
 **Visiting students (3 month - 1 year)**
