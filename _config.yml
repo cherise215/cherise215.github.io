@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr. Chen Chen"
+title                    : "Dr. Chen (Cherise) Chen"
 title_separator          : "-"
-name                     : "Chen Chen"
+name                     : "Chen (Cherise) Chen"
 description              :  "Lecturer in Computer Vision at University of Sheffield"
 url                      : https://cherise215.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
