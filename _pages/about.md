@@ -206,7 +206,7 @@ News
 
 Awards and honours
 ------------------
-
+- 2024: IEEE TMI *Silver Level* Distinguished Reviewer (2023 – 2024)
 - 2023: IEEE TMI *Gold-level* Distinguished Reviewer (2022-2023)
 - 2023: MICCAI 2023 Outstanding Reviewer (top 12)
 - 2022: IEEE TMI *Gold-level* Distinguished Reviewer (2020-2022)
