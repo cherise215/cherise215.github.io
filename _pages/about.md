@@ -16,7 +16,7 @@ redirect_from:
 Bio
 ---
 
-Dr Chen (Cherise) Chen is a Lecturer in Computer Vision, at the Department of Computer Science, [University of Sheffield](https://www.sheffield.ac.uk/), and a core member of [Insigeno Institute](https://www.sheffield.ac.uk/insigneo), [Center for Machine Intelligence](https://www.sheffield.ac.uk/machine-intelligence), and [Shef.AI](https://shef-ai.github.io/) community. She is one of six academics leading the [Computer Vision research group](https://www.sheffield.ac.uk/dcs/research/groups/computer-vision) at Sheffield. She also currently holds honorary research fellow positions at both the University of Oxford and Imperial College London. Previously, she was a post-doc at [Oxford BioMedIA](https://eng.ox.ac.uk/biomedical-image-analysis/#ourresearch) group, University of Oxford, and the Computing Department at [Imperial College London](https://www.imperial.ac.uk/) (ICL). She was also a research scientist at [HeartFlow](https://www.heartflow.com/). In 2022, she obtained her Ph.D. from the Department of Computing at Imperial College London, working closely with [Prof. Daniel Rueckert ](https://www.imperial.ac.uk/people/d.rueckert)and [Dr. Wenjia Bai](https://www.imperial.ac.uk/people/w.bai). Her doctoral thesis, entitled "Improving the domain generalization and robustness of neural networks for medical imaging," was featured in ComputerVisionNews magazine in 2022.
+Dr Chen (Cherise) Chen is a Lecturer in Computer Vision, at the Department of Computer Science, [University of Sheffield](https://www.sheffield.ac.uk/), and a core member of [Insigeno Institute](https://www.sheffield.ac.uk/insigneo), [Center for Machine Intelligence](https://www.sheffield.ac.uk/machine-intelligence), and [Shef.AI](https://shef-ai.github.io/) community. She is one of six academics leading the [Computer Vision research group](https://www.sheffield.ac.uk/dcs/research/groups/computer-vision) at Sheffield. She also currently holds honorary research fellow positions at Imperial College London. Previously, she was a post-doc at [Oxford BioMedIA](https://eng.ox.ac.uk/biomedical-image-analysis/#ourresearch) group, University of Oxford in 2023, and the Computing Department at [Imperial College London](https://www.imperial.ac.uk/) (ICL) in 2022. She was also a research scientist at [HeartFlow](https://www.heartflow.com/). In 2022, she obtained her Ph.D. from the Department of Computing at Imperial College London, working closely with [Prof. Daniel Rueckert ](https://www.imperial.ac.uk/people/d.rueckert)and [Dr. Wenjia Bai](https://www.imperial.ac.uk/people/w.bai). Her doctoral thesis, entitled "Improving the domain generalization and robustness of neural networks for medical imaging," was featured in ComputerVisionNews magazine in 2022.
 
 <div class="row">
 <div class="column">
@@ -42,6 +42,75 @@ Dr Chen (Cherise) Chen is a Lecturer in Computer Vision, at the Department of Co
     </ul>
   </div>
   </div><br /><br /><br /><br /><br /><br />
+
+
+   
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+### Academic journey
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    * Post-doc at Oxford Institute of Biomedical Engineering, University of Oxford, UK
+* RA and Post-doc at BioMedIA group, Imperial College London, UK
+* PhD at BioMedIA group, Imperial College London, UK
+* MSc in Advanced Computing, Imperial College London, UK
+* BEng in Internet of Things Engineering, Harbin Institute of Technology, China
+
+
+  
+
+
+  
+
+
 
 
 
@@ -206,6 +275,7 @@ News
 
 Awards and honours
 ------------------
+
 - 2024: IEEE TMI *Silver Level* Distinguished Reviewer (2023 – 2024)
 - 2023: IEEE TMI *Gold-level* Distinguished Reviewer (2022-2023)
 - 2023: MICCAI 2023 Outstanding Reviewer (top 12)
@@ -217,8 +287,8 @@ Awards and honours
 Contact
 -------
 
-- Email: 
+- Email:
   - For invitations to grant/paper/journal review, calls for paper submissions, and/or event/workshop/code enquiries, please contact me via: **work (dot) cherise (at) gmail.com**
   - For PhD/Visting student enquries: please contact me via **enquiry (dot) ai4health (at) gmail.com**
-  - For other urgent stuff, e.g., meetings, please send an email to my primary email box **chen (dot) chen2 (at) sheffield.ac.uk** 
+  - For other urgent stuff, e.g., meetings, please send an email to my primary email box **chen (dot) chen2 (at) sheffield.ac.uk**
 - Address: Regent court 222, School of Computer Science, University of Sheffield, Sheffield, UK. S1 4DP
