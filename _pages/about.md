@@ -199,7 +199,7 @@ News
   </div>
   <div class="news-item">
    <div class="date">17/05/2023</div>
-     Invited to give a talk at NCT Data Science Seminar 2023 at the German Cancer Research Center (DKFZ)
+     <p> Invited to give a talk at NCT Data Science Seminar 2023 at the German Cancer Research Center (DKFZ)</p>
   </div>
 </div>
 
