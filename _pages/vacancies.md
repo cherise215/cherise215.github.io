@@ -75,6 +75,12 @@ Relevant research communities in the University:
 <iframe src="https://www.youtube.com/embed/WJZnQCJqUqw?si=ztnCYit8R1sVrxD4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
+## Where are we?
+<div class="iframe-container">
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2178.4106278626614!2d-1.4798006284325544!3d53.380831977617056!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4879827f795e2785%3A0xf36c3526a2b08b2a!2sSchool%20of%20Computer%20Science!5e0!3m2!1sen!2suk!4v1730376049508!5m2!1sen!2suk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+
 ## Living in the Sheffield
 <img src= "/images/view-bamford-edge-peak-district-national-park-20496258.jpg" width="350" class="publication-image"><br />
 
