@@ -11,6 +11,35 @@ author_profile: true
 University of Sheffield is ranked as *5th* in the UK, *17th* in Europe for research in relevant AI/CV/NLP/ML/Complexity areas [CSRanking](https://csrankings.org/#/index?ai&vision&mlmining&nlp&act&uk).
 
 # Funded project
+
+**EPSRC landscape awarded project**
+- Project title: `Advancing ECG Interpretation with Human-Centred Multi-modal AI`
+- Project Description: 
+
+Cardiovascular diseases (CVDs) are the leading cause of global mortality, accounting for 32% of all deaths worldwide. Despite their diagnostic potential, electrocardiograms (ECGs) suffer from underutilization, with physicians achieving an average interpretation accuracy of just 54%. Medical errors, increasingly recognized as a critical public health issue, are the third leading cause of death in the United States.
+This PhD project aims to address these pressing challenges through Human-Centred Artificial Intelligence (HCAI). While preliminary AI solutions exist for ECG digitisation, diagnosis, and prognosis, recent findings (including a 2024 AI-ECG survey) highlight critical limitations in current tools, such as poor image quality, algorithmic bias, and inadequate validation.
+To bridge these gaps, this project will focus on developing adaptive HCAI applications that synergize human and machine intelligence, enhancing both diagnostic accuracy and system robustness.
+- As a PhD student, you will:
+    - Develop expertise in signal processing, machine learning, computer vision, multi-modal AI, and large language models applied to cardiac care.
+    - Contribute to cutting-edge research projects in ECG analysis to advance reliable and interpretable AI systems.
+    - Align your research focus with your personal interests and expertise, ensuring your unique perspective shapes the project's direction.
+
+- Funding Details: This EPSRC-funded project provides:
+    - Full tuition fee waiver for UK and overseas students.
+    - UKRI stipend (£19,237 per annum, current rate) for 3.5 years.
+    - £4500 Research Training Support Grant (RTSG) for research enhancement.
+
+- Requirements: 
+  - Passion:  Strong passition for AI for healthcare 
+  - Excelence: a First Class or Distinction Masters level degree, or equivalent, in a relevant scientific or technical discipline. Strong problem-solving abilities and learning capability, such as top xx%, ranking xx out of xx, in your previous studies.
+  - Skillful: Proficiency in programming (Python, C++, etc) and in English reading & writing (requirements made by NUS: TOEFL/ IELTS/ GRE). First-authored relative publication in top-tier journals and conferences are preferred.
+
+- Starting date: Oct, 2025 (fixed)
+- How to apply: 
+    - Please send me your CV (grade, ranking, research experience included), transcripts, **first-authored** papers/thesis (please merge all into one single file) and other supporting materials (such as slides to show your research experience, or github website to show your past projects), to **enquiry.ai4health@gmail.com**. Please quote "[PHD_EPSRC_AI4ECG]-Your Current Programme – Name". E.g, "[PHD_EPSRC_AI4ECG] - MSc-University of Sheffield–Chen Chen" in your email subject. 
+    - Due to the high volume of emails I receive, emails without strictly having this quote in the subject title may be automatically classified as spam and ignored. So please help me to catch up your email.  I am sorry that it is difficult to provide feedback to every applicant. Only shortlisted candidates will be noticed. Please understand that failing to receive my response does not reflect your qualifications or potential for other PhD programs.
+
+
 **AI for Multi-modal Healthcare**
 - Project description: In recent years, artificial intelligence (AI) technologies, such as foundation models, multi-modal learning algorithms, generative models, and large language models [1], have made seen remarkable advancements in the field of healthcare. It can lead to more accurate diagnosis, personalized treatment planning, and improved patient outcomes. This project will focus on developing multi-modal AI models that can handle the complexities of medical data as well as the domain gap and knowledge gap across different scenarios, and further adapt to individual patient needs. Depending on the profile of the student, a particular focus would be utilizing large language models and explainable AI (XAI) to enhance the reliability and applicability of AI algorithms for healthcare applications [2] and/or identifying pitfalls of current AI models using adversarial machine learning.
 
@@ -41,8 +70,6 @@ University of Sheffield is ranked as *5th* in the UK, *17th* in Europe for resea
 We are also happy to support strong applicants for their applications via external funding body, with industry partners. 
 - [royalcommission1851.org](https://royalcommission1851.org/fellowships/industrial-fellowships). Please note that this is very competitive. The applicant must have a good first degree in engineering, science, medicine or design. At the time of applying, you must be (1):  currently employed by a UK-based company or (2) 1-year or 2-year CDT/Case PhD students strongly coupled with company in UK; and working on a research and/or development topic potentially leading to a
 patent, product, process or service in conjunction with a higher academic award. 
-- [EPSRC Landscape Awards](https://www.sheffield.ac.uk/rpi/pgr/scholarships/epsrc-dtp). We encourage candidates and companies to contact me directly. Deadline: Oct 15th, 2024. 
-
 
 # Visiting opportunities
 
