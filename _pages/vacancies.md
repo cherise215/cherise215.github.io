@@ -8,14 +8,13 @@ author_profile: true
 
 **We have vacancies for both new PhD and visiting students at Sheffield.**
 
-University of Sheffield is ranked as *5th* in the UK, *17th* in Europe for research in relevant AI/CV/NLP/ML/Complexity areas [CSRanking](https://csrankings.org/#/index?ai&vision&mlmining&nlp&act&uk).
+University of Sheffield is ranked as top 10 in the UK for research in relevant AI/CV/NLP/ML/Complexity areas [CSRanking](https://csrankings.org/#/index?ai&vision&mlmining&nlp&act&uk).
 
 # Funded project
 
 **EPSRC landscape awarded project**
-- Project title: `Advancing ECG Interpretation with Human-Centred Multi-modal AI`
+- Project title: [Advancing ECG Interpretation with Human-Centred Multi-modal AI](https://www.findaphd.com/phds/project/advancing-ecg-interpretation-with-human-centred-multi-modal-ai-s3-5-com-cchen/?p178033)
 - Project Description: 
-
 Cardiovascular diseases (CVDs) are the leading cause of global mortality, accounting for 32% of all deaths worldwide. Despite their diagnostic potential, electrocardiograms (ECGs) suffer from underutilization, with physicians achieving an average interpretation accuracy of just 54%. Medical errors, increasingly recognized as a critical public health issue, are the third leading cause of death in the United States.
 This PhD project aims to address these pressing challenges through Human-Centred Artificial Intelligence (HCAI). While preliminary AI solutions exist for ECG digitisation, diagnosis, and prognosis, recent findings (including a 2024 AI-ECG survey) highlight critical limitations in current tools, such as poor image quality, algorithmic bias, and inadequate validation.
 To bridge these gaps, this project will focus on developing adaptive HCAI applications that synergize human and machine intelligence, enhancing both diagnostic accuracy and system robustness.
