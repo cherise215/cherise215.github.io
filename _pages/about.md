@@ -55,15 +55,15 @@ News
     </div>
   </div>
 <div class="news-item">
-  <div class="date">10/2024</div>
-    <div class="p">
-     Joined the <a href="https://ellis.eu/"> European Laboratory for Learning and Intelligent Systems (ELLIS) Society </a> as ELLIS scholar!
-    </div>
-  </div>
-<div class="news-item">
   <div class="date">07/11/2024</div>
     <div class="p">
      Invited to give a talk at Queen Mary University of London.
+    </div>
+  </div>
+  <div class="news-item">
+  <div class="date">10/2024</div>
+    <div class="p">
+     Joined the <a href="https://ellis.eu/"> European Laboratory for Learning and Intelligent Systems (ELLIS) Society </a> as ELLIS scholar!
     </div>
   </div>
   <div class="news-item">
