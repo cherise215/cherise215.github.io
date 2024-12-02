@@ -10,25 +10,25 @@ Program Committee
 -----------------
 Program Chair, [MIDL 2025](https://2025.midl.io/)
 
-Area Chair, [MICCAI 2024](https://conferences.miccai.org/2024/en/)
+Area Chair & Session Chair on Health Inequity, [MICCAI 2024](https://conferences.miccai.org/2024/en/)
 
-Workshop lead Organizer [MICCAI ADSMI 2024](https://adsmi-miccai.github.io/)
+Workshop Lead Organizer [MICCAI ADSMI 2024](https://adsmi-miccai.github.io/)
 
 Workshop  Co-organizer [The second workshop on Multimodal AI (UK)](https://multimodalai.github.io/)
 
 
-Workshop lead Organizer, [MICCAI 2023 DALI workshop](https://dali-miccai.github.io/), MICCAI 2023
+Workshop Lead Organizer, [MICCAI 2023 DALI workshop](https://dali-miccai.github.io/), MICCAI 2023
 
-Challenge organizer, [CMRxMotion ](http://cmr.miccai.cloud/)Challenge in the STACOM 2022 workshop, MICCAI 2022
+Challenge Organizer, [CMRxMotion ](http://cmr.miccai.cloud/)Challenge in the STACOM 2022 workshop, MICCAI 2022
 
 Program Commitee Member, ECCV-MCV 2022
 
 Editorial Board
 ---------------
 
-Associate editor: Journal of Visual Communication and Image Representation
+Associate Editor: Journal of Visual Communication and Image Representation
 
-Chair editor: Generative Machine Learning Models in Medical Image Computing (A book will be published w/ Springer Nature)
+Chair Editor: Generative Machine Learning Models in Medical Image Computing (A book will be published w/ Springer Nature)
 
 
 Selected Jounal & Conference Reviewer
