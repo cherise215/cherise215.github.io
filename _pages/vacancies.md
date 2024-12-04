@@ -29,7 +29,7 @@ To bridge these gaps, this project will focus on developing adaptive HCAI applic
     - £4500 Research Training Support Grant (RTSG) for research enhancement.
 
 - Requirements: 
-  - Passion:  Strong passition for AI for healthcare 
+  - Passion:  Strong passion for AI for healthcare 
   - Excelence: a First Class or Distinction Masters level degree, or equivalent, in a relevant scientific or technical discipline. Strong problem-solving abilities and learning capability, such as top xx%, ranking xx out of xx, in your previous studies.
   - Skillful: Proficiency in programming (Python, C++, etc) and in English reading & writing (requirements made by NUS: TOEFL/ IELTS/ GRE). First-authored relative publication in top-tier journals and conferences are preferred.
 
