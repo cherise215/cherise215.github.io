@@ -12,7 +12,7 @@ University of Sheffield is ranked as top 10 in the UK for research in relevant A
 
 # Funded project
 
-**EPSRC landscape awarded project**
+**1. EPSRC landscape awarded project**
 - Project title: [Advancing ECG Interpretation with Human-Centred Multi-modal AI](https://www.findaphd.com/phds/project/advancing-ecg-interpretation-with-human-centred-multi-modal-ai-s3-5-com-cchen/?p178033)
 - Project Description: 
 Cardiovascular diseases (CVDs) are the leading cause of global mortality, accounting for 32% of all deaths worldwide. Despite their diagnostic potential, electrocardiograms (ECGs) suffer from underutilization, with physicians achieving an average interpretation accuracy of just 54%. Medical errors, increasingly recognized as a critical public health issue, are the third leading cause of death in the United States.
@@ -39,7 +39,7 @@ To bridge these gaps, this project will focus on developing adaptive HCAI applic
     - Due to the high volume of emails I receive, emails without strictly having this quote in the subject title may be automatically classified as spam and ignored. So please help me to catch up your email.  I am sorry that it is difficult to provide feedback to every applicant. Only shortlisted candidates will be noticed. Please understand that failing to receive my response does not reflect your qualifications or potential for other PhD programs.
 
 
-**AI for Multi-modal Healthcare**
+**2. AI for Multi-modal Healthcare**
 - Project description: In recent years, artificial intelligence (AI) technologies, such as foundation models, multi-modal learning algorithms, generative models, and large language models [1], have made seen remarkable advancements in the field of healthcare. It can lead to more accurate diagnosis, personalized treatment planning, and improved patient outcomes. This project will focus on developing multi-modal AI models that can handle the complexities of medical data as well as the domain gap and knowledge gap across different scenarios, and further adapt to individual patient needs. Depending on the profile of the student, a particular focus would be utilizing large language models and explainable AI (XAI) to enhance the reliability and applicability of AI algorithms for healthcare applications [2] and/or identifying pitfalls of current AI models using adversarial machine learning.
 
 - References
