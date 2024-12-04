@@ -31,7 +31,7 @@ To bridge these gaps, this project will focus on developing adaptive HCAI applic
 - Requirements: 
   - Passion:  Strong passion for AI for healthcare 
   - Excelence: a First Class or Distinction Masters level degree, or equivalent, in a relevant scientific or technical discipline. Strong problem-solving abilities and learning capability, such as top xx%, ranking xx out of xx, in your previous studies.
-  - Skillful: Proficiency in programming (Python, C++, etc) and in English reading & writing (requirements made by NUS: TOEFL/ IELTS/ GRE). First-authored relative publication in top-tier journals and conferences are preferred.
+  - Skillful: Proficiency in programming (Python, C++, etc) and in English reading & writing. First-authored relative publication in top-tier journals and conferences are preferred.
 
 - Starting date: Oct, 2025 (fixed)
 - How to apply: 
