@@ -51,7 +51,7 @@ News
 <div class="news-item">
   <div class="date">12/2024</div>
     <div class="p">
-     Invited to give a seminar at The Chinese University of Hong Kong (CUHK).
+     Invited to give a seminar at The Chinese University of Hong Kong (CUHK) and the University of Hong  Kong (HKU).
     </div>
   </div>
 <div class="news-item">
