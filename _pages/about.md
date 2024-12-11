@@ -25,7 +25,8 @@ Dr Chen (Cherise) Chen is a Lecturer in Computer Vision, at the Department of Co
       <li>Artificial Intelligence in Healthcare (e.g., Cardiac care)</li>
       <li>Multi-modal Learning (images, signals, and language)</li>
       <li>Computer Vision and Signal Processing</li>
-      <li>Trustworthy Machine Learning (Robustness and Explainability)</li>
+      <li>Trustworthy Machine Learning (Uncertainty, Robustness and Explainability)</li>
+      <li>Adversarial Machine learning</li>
       <li>Data-efficient Learning</li>
       <li>Generative Modelling and Data Synthesis</li>
     </ul>
@@ -34,6 +35,7 @@ Dr Chen (Cherise) Chen is a Lecturer in Computer Vision, at the Department of Co
   <div class="column">
     <h3>Academic journey</h3>
     <ul>
+      <li>Lecturer in Computer Vision, University of Sheffield, Sheffield, UK</li>
       <li>Post-doc at Oxford Institute of Biomedical Engineering, University of Oxford, UK</li>
       <li>RA and Post-doc at BioMedIA group, Imperial College London, UK</li>
       <li>PhD at BioMedIA group, Imperial College London, UK</li>
