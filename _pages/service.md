@@ -28,8 +28,9 @@ Editorial Board
 
 Associate Editor: Journal of Visual Communication and Image Representation
 
-Chair Editor: Generative Machine Learning Models in Medical Image Computing (A book will be published w/ Springer Nature)
+Chair Editor: Generative Machine Learning Models in Medical Image Computing (A book will be published w/ Springer Nature, 2025)
 
+<img src= "book_cover_springer_2025.jpeg" width="200" class="publication-image"><br />
 
 Selected Jounal & Conference Reviewer
 -------------------------------------
@@ -61,3 +62,5 @@ International Conference on Medical Image Computing and Computer-Assisted Interv
 International Conference on **Medical Imaging with Deep Learning (MIDL)
 
 
+**Funding Body Reviewer**
+Horizon Europe
