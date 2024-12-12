@@ -55,8 +55,6 @@ Journal of Cardiovascular Magnetic Resonance (JCMR)
 
 **Conferences:**
 
-Conference on Computer Vision and Pattern Recognition (CVPR)
-
 International Conference on Information Processing in Medical Imaging (IPMI)
 
 International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)
