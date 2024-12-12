@@ -23,8 +23,7 @@ Dr Chen (Cherise) Chen is a Lecturer in Computer Vision, at the Department of Co
     <h3>Interests</h3>
     <ul>
       <li>Artificial Intelligence in Healthcare (e.g., Cardiac care)</li>
-      <li>Multi-modal Learning (images, signals, and language)</li>
-      <li>Computer Vision and Signal Processing</li>
+      <li>Multi-modal Learning (vision, signals, and language)</li>
       <li>Trustworthy Machine Learning (Uncertainty, Robustness and Explainability)</li>
       <li>Adversarial Machine learning</li>
       <li>Data-efficient Learning</li>
@@ -179,8 +178,6 @@ News
      Happy to announce that a Joint Workshop on Advancing Data Solutions in Medical Imaging AI (ADSMI)x The 4th Workshop on Data Augmentation, Labeling, and Imperfections (DALI) will be held in MICCAI 2024.
     </div>
   </div>
-
-
 
 <div class="news-item">
   <div class="date">01/02/2024</div>
