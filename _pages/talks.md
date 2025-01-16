@@ -7,6 +7,9 @@ author_profile: true
 <img src= "/images/talk_2024.jpeg" width="350" class="publication-image"><br />
 
 **"Unlocking the Value of Single Modality through Multi-Modal Knowledge Transfer for Healthcare"**
+* [4/01/2025] Shanghai Medical College, University of Fudan, Shanghai, China
+* [18/12/2024] University of Hong Kong, Hong Kong, China
+* [17/12/2024] The Chinese University of Hong Kong, Hong Kong, China
 * [07/11/2024] Queen Mary University of London, UK
 * [18/09/2024] University College London, UK
 * [15/07/2024] Technical University of Munich (TUM) and Helmholtz Munich, Germany
@@ -15,8 +18,8 @@ author_profile: true
 * [24/04/2024] BMVA One Day Meeting: Trustworthy Multimodal Learning with Foundation Models: Bridging the Gap between AI Research and Real World Applications
   syposium, British Computer Society, London, UK [recording](https://youtu.be/FM7IhNZw_pY?feature=shared)
 
-
 **"Towards Trustworthy AI in Healthcare: Enhancing Model Robustness, Reliability, and Adaptability"**
+
 * [20/09/2024] British Society of Cardiovascular Imaging and British Society of Cardiovascular Computed Tomography (BSCI/BSCCT) 2024 Annual Meeting
 * [25/04/2024] University of Nottingham, UK
 * [09/04/2024] Research Computing@Sheffield, University of Sheffield, UK
@@ -26,6 +29,7 @@ author_profile: true
 * [11/2023] Alan Turing Institute, London, UK
 
 **"Advancing Deep Medical Image Segmentation with Adversarial Data Augmentation"**
+
 * [23/06/2023] [HIT-Webinar](https://hit-webinar.com/). [[recording](https://www.bilibili.com/video/BV1Aj411Q7Ur/)] (Chinese).
 * [17/05/2023] NCT Data Science Seminar 2023 at the [German Cancer Research Center (DKFZ)](https://www.dkfz.de/en/index.html), Germany. [[link](https://www.dkfz.de/en/datascience/seminar/Chen.html)] [[recording](https://www.youtube.com/watch?v=WbyhhvlbCAY)] (English)
 * [21/03/2023] Department of Computer Science, [University of Sheffield](https://www.sheffield.ac.uk/dcs/about/events/advancing-deep-medical-image-segmentation-adversarial-data-augmentation), UK

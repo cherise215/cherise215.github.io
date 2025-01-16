@@ -10,6 +10,8 @@ Program Committee
 -----------------
 Program Chair, [MIDL 2025](https://2025.midl.io/)
 
+Area Chair, [MICCAI 2025](https://conferences.miccai.org/2025/en/)
+
 Area Chair & Session Chair on Health Inequity, [MICCAI 2024](https://conferences.miccai.org/2024/en/)
 
 Workshop Lead Organizer [MICCAI ADSMI 2024](https://adsmi-miccai.github.io/)
