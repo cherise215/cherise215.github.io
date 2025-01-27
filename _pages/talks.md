@@ -7,9 +7,6 @@ author_profile: true
 <img src= "/images/talk_2024.jpeg" width="350" class="publication-image"><br />
 
 **"Unlocking the Value of Single Modality through Multi-Modal Knowledge Transfer for Healthcare"**
-* [4/01/2025] Shanghai Medical College, University of Fudan, Shanghai, China
-* [18/12/2024] University of Hong Kong, Hong Kong, China
-* [17/12/2024] The Chinese University of Hong Kong, Hong Kong, China
 * [07/11/2024] Queen Mary University of London, UK
 * [18/09/2024] University College London, UK
 * [15/07/2024] Technical University of Munich (TUM) and Helmholtz Munich, Germany
