@@ -52,6 +52,12 @@ News
 <div class="news-item">
   <div class="date">01/2025</div>
     <div class="p">
+    I will be co-organizing the special session on <a href="https://aiih.cc/mmgenaihealth/">"Multimodal Generative AI in Healthcare"</a> in the second International Conference on Artificial Intelligence in Healthcare (AIiH 2025), Sep. 2025, Cambridge, UK!
+    </div>
+  </div>
+<div class="news-item">
+  <div class="date">01/2025</div>
+    <div class="p">
      Invited to be an Area Chair for MICCAI 2025.
     </div>
   </div>
