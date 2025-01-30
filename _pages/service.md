@@ -12,6 +12,8 @@ Program Chair, [MIDL 2025](https://2025.midl.io/)
 
 Area Chair, [MICCAI 2025](https://conferences.miccai.org/2025/en/)
 
+Organizer, [Special session: Multimodal Generative AI in Healthcare, in the second International Conference on Artificial Intelligence in Healthcare (AIiH 2025)](https://aiih.cc/mmgenaihealth/)
+
 Area Chair & Session Chair on Health Inequity, [MICCAI 2024](https://conferences.miccai.org/2024/en/)
 
 Workshop Lead Organizer [MICCAI ADSMI 2024](https://adsmi-miccai.github.io/)
