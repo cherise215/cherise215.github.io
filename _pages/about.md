@@ -50,6 +50,12 @@ News
 
 <div class="news-container">
 <div class="news-item">
+  <div class="date">03/2025</div>
+    <div class="p">
+    Invited to give a lecture at  <a href="https://www.ellismcr.org/ss2025">2025 Summer School on Machine Learning for Healthcare and Biology</a> at The University of Manchester, June 2025, Manchester, UK!
+    </div>
+  </div>
+<div class="news-item">
   <div class="date">01/2025</div>
     <div class="p">
     I will be co-organizing the special session on <a href="https://aiih.cc/mmgenaihealth/">"Multimodal Generative AI in Healthcare"</a> in the second International Conference on Artificial Intelligence in Healthcare (AIiH 2025), Sep. 2025, Cambridge, UK!

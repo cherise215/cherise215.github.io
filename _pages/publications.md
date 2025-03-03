@@ -12,7 +12,7 @@ Selected Publications
 ---------------------
 
 ****
-## 2024
+## 2025
 
 <div class="publication-block">
     <div class="publication-info">
