@@ -15,13 +15,13 @@ Area Chair, [MICCAI 2025](https://conferences.miccai.org/2025/en/)
 Organizer, [Special session: Multimodal Generative AI in Healthcare, in the second International Conference on Artificial Intelligence in Healthcare (AIiH 2025)](https://aiih.cc/mmgenaihealth/)
 
 
-Program Committee Member, [ACM MM 2025x The 2nd International Workshop on Multimedia Computing for Health and Medicine](https://weizhou-geek.github.io/workshop/MM2025.html)
+Program Committee Member, [ACM MM 2025: The 2nd International Workshop on Multimedia Computing for Health and Medicine](https://weizhou-geek.github.io/workshop/MM2025.html)
 
 Area Chair & Session Chair on Health Inequity, [MICCAI 2024](https://conferences.miccai.org/2024/en/)
 
 Workshop Lead Organizer [MICCAI ADSMI 2024](https://adsmi-miccai.github.io/)
 
-Workshop  Co-organizer [The second workshop on Multimodal AI (UK)](https://multimodalai.github.io/)
+Workshop  Co-organizer [The second workshop on Multimodal AI (UK),2024](https://multimodalai.github.io/)
 
 
 Workshop Lead Organizer, [MICCAI 2023 DALI workshop](https://dali-miccai.github.io/), MICCAI 2023
@@ -66,11 +66,11 @@ International Conference on Information Processing in Medical Imaging (IPMI)
 
 International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)
 
-International Conference on **Medical Imaging with Deep Learning (MIDL)
+International Conference on Medical Imaging with Deep Learning (MIDL)
 
 
 **Funding Body Reviewer**
 
 Horizon Europe
 
-Engineering and Physical Sciences Research Council (UKRI)
+Engineering and Physical Sciences Research Council (EPSRC, UKRI)
