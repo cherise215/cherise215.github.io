@@ -20,7 +20,7 @@ Selected Publications
             Large Language Model-informed ECG Dual Attention Network for Heart Failure Risk Prediction
         </div>
         <img src="/images/network.png" alt="Large Language Model-informed ECG Thumbnail" class="publication-image" onclick="expandImage(this, '/images/network.png')"><br />
-        <h3 class="conference-name">IEEE Transaction on Big Data, 2024</h3>        
+        <h3 class="conference-name">IEEE Transaction on Big Data, 2025</h3>        
         <p class="author-name"><strong>Chen Chen</strong>, Lei Li, Marcel Beetz, Abhirup Banerjee, Ramneek Gupta, Vicente Grau.</p>
         <div class="links">
             <a href="https://arxiv.org/abs/2403.10581" class="pdf">PDF</a>

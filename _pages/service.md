@@ -61,6 +61,7 @@ Medical Physics
 Journal of Cardiovascular Magnetic Resonance (JCMR)
 
 **Conferences:**
+International Conference on Computer Vision (ICCV)
 
 International Conference on Information Processing in Medical Imaging (IPMI)
 
