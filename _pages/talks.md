@@ -7,6 +7,8 @@ author_profile: true
 <img src= "/images/talk_2024.jpeg" width="350" class="publication-image"><br />
 
 **"Unlocking the Value of Single Modality through Multi-Modal Knowledge Transfer for Healthcare"**
+* [10/04/2025] Carnegie Mellon University (CMU), US
+* [02/04/2025] Imaging Biomarkers and Computer-Aided Diagnosis Laboratory, National Institutes of Health (NIH), US
 * [07/11/2024] Queen Mary University of London, UK
 * [18/09/2024] University College London, UK
 * [15/07/2024] Technical University of Munich (TUM) and Helmholtz Munich, Germany

@@ -29,6 +29,8 @@ Selected Publications
     </div>
 </div>
 
+## 2024
+
 <div class="publication-block">
     <div class="publication-info">
         <div class="publication-title">

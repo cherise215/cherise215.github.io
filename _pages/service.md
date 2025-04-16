@@ -37,7 +37,7 @@ Editorial Board
 
 Associate Editor: Journal of Visual Communication and Image Representation
 
-Chair Editor: Generative Machine Learning Models in Medical Image Computing (A book will be published w/ Springer Nature, 2025)
+Chair Editor: Generative Machine Learning Models in Medical Image Computing (A book published w/ Springer Nature, 2025) [Online](https://link.springer.com/book/10.1007/978-3-031-80965-1)
 
 <img src= "/images/book_cover_springer_2025.jpeg"  class="publication-image"><br />
 
@@ -63,6 +63,7 @@ Medical Physics
 Journal of Cardiovascular Magnetic Resonance (JCMR)
 
 **Conferences:**
+
 International Conference on Computer Vision (ICCV)
 
 International Conference on Information Processing in Medical Imaging (IPMI)
