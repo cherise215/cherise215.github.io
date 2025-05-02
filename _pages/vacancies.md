@@ -6,30 +6,17 @@ author_profile: true
 ---
 {% include base_path %}
 
-**We have vacancies for both new PhD and visiting students at Sheffield.**
 
 University of Sheffield is ranked as top 10 in the UK for research in relevant AI/CV/NLP/ML/Complexity areas [CSRanking](https://csrankings.org/#/index?ai&vision&mlmining&nlp&act&uk).
 
-# Funded project
 
-**AI for Multi-modal Healthcare (Open until post filled)**
-- Project description: In recent years, artificial intelligence (AI) technologies, such as foundation models, multi-modal learning algorithms, generative models, and large language models [1], have made seen remarkable advancements in the field of healthcare. It can lead to more accurate diagnosis, personalized treatment planning, and improved patient outcomes. This project will focus on developing multi-modal AI models that can handle the complexities of medical data as well as the domain gap and knowledge gap across different scenarios, and further adapt to individual patient needs. Depending on the profile of the student, a particular focus would be utilizing large language models and explainable AI (XAI) to enhance the reliability and applicability of AI algorithms for healthcare applications [2] and/or identifying pitfalls of current AI models using adversarial machine learning.[Project Link](https://www.findaphd.com/phds/project/ai-for-multi-modal-healthcare/?p171830)
-
-- References
-    - [1] Moor, M, et al. Foundation models for generalist medical artificial intelligence. Nature, 2023
-    - [2] Chen, Chen, et al. "Large Language Model-informed ECG Dual Attention Network for Heart Failure Risk Prediction." 2024
-
-
-- Funding notes: The PhD studentship will cover standard UK home tuition fees and provide a tax-free stipend at the standard UK Research Council rate (currently £19,237 for the 2024/25 academic year) for 3.5 years. If you are an overseas student, you are eligible to apply but you must have the means to pay the difference between the UK and overseas tuition fees by securing additional funding or self-funding. Further information on International fees can be found [here](https://www.sheffield.ac.uk/postgraduate/phd/fees).
+The application for the PhD program (25/26) is closed. We may have vacancies for (26/27). Please contact me in late November. 
 
 - How to apply: 
     - Please send me your CV (grade, ranking, research experience included), transcripts, **first-authored** papers/thesis (please merge all into one single file) and other supporting materials (such as slides to show your research experience, or github website to show your past projects), to **enquiry.ai4health@gmail.com**. Please quote "[PHD_AI4Health] - Your Current Programme – Name-You Preferred Starting Date". E.g, "[PHD_AI4Health] - MSc-University of Sheffield–Chen Chen-2025 Spring" in your email subject. 
     - Due to the high volume of emails I receive, emails without strictly having this quote in the subject title may be automatically classified as spam and ignored. So please help me to catch up your email.  I am sorry that it is difficult to provide feedback to every applicant. Only shortlisted candidates will be noticed (usually within 1-2 weeks, you will receive my response asking you to fill a Google form for the next step). Please understand that failing to receive my response does not reflect your qualifications or potential for other PhD programs.
 
 # Others Scholarships
-
-**China Scholarship Council (CSC) Scholarships**
-- for Chinese applicants [details](https://www.sheffield.ac.uk/postgraduate/phd/scholarships/csc). Please make sure that your have passed the English requirement before the internal selection, usually in Jan 2025. In our School of Computer Science,  a minimum of IELTS 6.5 with 6.0 in each component or equivalent is required. Alternative language test includes PTE Academic or PTE Academic UKVI, which offers more flexibility in terms of test dates. [check here](https://www.sheffield.ac.uk/postgraduate/english-language) for other acceptable test results.
 
 **Commonwealth Phd Scholarship**
 - for both students from certain [low-income countries](https://cscuk.fcdo.gov.uk/scholarships/commonwealth-phd-scholarships-for-least-developed-countries-and-fragile-states/) and certain [high-income contries](https://cscuk.fcdo.gov.uk/scholarships/commonwealth-phd-scholarships-for-high-income-countries/)
