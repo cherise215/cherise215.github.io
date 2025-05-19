@@ -52,6 +52,13 @@ News
 <div class="news-item">
   <div class="date">05/2025</div>
     <div class="p">
+    I will be giving a talk at the <a href="https://www.sheffield.ac.uk/insigneo/overview/events/insigneo-showcase-2025">Insigneo Showcase 2025</a> on 4 July, 2025 at the Wave, Sheffield. 
+    </div>
+  </div>
+
+<div class="news-item">
+  <div class="date">05/2025</div>
+    <div class="p">
     Two papers got early accepted at <a href="https://conferences.miccai.org/2025/en/">MICCAI 2025</a> among the top 9% of 3667 submissions! 
     </div>
   </div>
