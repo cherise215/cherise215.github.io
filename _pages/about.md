@@ -52,6 +52,12 @@ News
 <div class="news-item">
   <div class="date">05/2025</div>
     <div class="p">
+    One paper is accepted as a full paper to be presented at <a href="https://aiih.cc/">International Conference on Artificial Intelligence in Healthcare (AIiH 2025)</a> in Cambridge, UK! Congrats to Farheen! 
+    </div>
+  </div>
+<div class="news-item">
+  <div class="date">05/2025</div>
+    <div class="p">
     I will be giving a talk at the <a href="https://www.sheffield.ac.uk/insigneo/overview/events/insigneo-showcase-2025">Insigneo Showcase 2025</a> on 4 July, 2025 at the Wave, Sheffield. 
     </div>
   </div>
