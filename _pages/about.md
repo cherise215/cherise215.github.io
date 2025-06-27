@@ -50,6 +50,12 @@ News
 
 <div class="news-container">
 <div class="news-item">
+  <div class="date">06/2025</div>
+    <div class="p">
+    One paper tackling the missing modality issue for  trustworthy multi-modal machine learning systems has been accepted by <a href="https://iccv.thecvf.com/">ICCV 2025</a> (acceptance rate 24%), which will be held in Honolulu, Hawai'i, US! Congrats to Sijie! 
+    </div>
+  </div>
+<div class="news-item">
   <div class="date">05/2025</div>
     <div class="p">
     One paper is accepted as a full paper to be presented at <a href="https://aiih.cc/">International Conference on Artificial Intelligence in Healthcare (AIiH 2025)</a> in Cambridge, UK! Congrats to Farheen! 
