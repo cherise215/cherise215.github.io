@@ -12,7 +12,7 @@ Program Chair, [MIDL 2025](https://2025.midl.io/)
 
 Area Chair, [MICCAI 2025](https://conferences.miccai.org/2025/en/)
 
-Workshop Chair, BMVC 2025
+Workshop Chair, [BMVC 2025](https://bmvc2025.bmva.org/)
 
 Organizer, [Special session: Multimodal Generative AI in Healthcare, in the second International Conference on Artificial Intelligence in Healthcare (AIiH 2025)](https://aiih.cc/mmgenaihealth/)
 
@@ -63,6 +63,7 @@ Medical Physics
 Journal of Cardiovascular Magnetic Resonance (JCMR)
 
 **Conferences:**
+Annual AAAI Conference on Artificial Intelligence (AAAI)
 
 International Conference on Computer Vision (ICCV)
 

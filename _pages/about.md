@@ -16,7 +16,7 @@ redirect_from:
 Bio
 ---
 
-Dr Chen (Cherise) Chen is a Lecturer in Computer Vision, at the Department of Computer Science, [University of Sheffield](https://www.sheffield.ac.uk/), and a core member of [Insigeno Institute](https://www.sheffield.ac.uk/insigneo), [Center for Machine Intelligence](https://www.sheffield.ac.uk/machine-intelligence), and [Shef.AI](https://shef-ai.github.io/) community. She is one of six academics leading the [Computer Vision research group](https://www.sheffield.ac.uk/dcs/research/groups/computer-vision) at Sheffield. She also currently holds honorary research fellow positions at Imperial College London. Previously, she was a post-doc at [Oxford BioMedIA](https://eng.ox.ac.uk/biomedical-image-analysis/#ourresearch) group, University of Oxford in 2023, and the Computing Department at [Imperial College London](https://www.imperial.ac.uk/) (ICL) in 2022. She was also a research scientist at [HeartFlow](https://www.heartflow.com/). In 2022, she obtained her Ph.D. from the Department of Computing at Imperial College London, working closely with [Prof. Daniel Rueckert ](https://www.imperial.ac.uk/people/d.rueckert)and [Dr. Wenjia Bai](https://www.imperial.ac.uk/people/w.bai). Her doctoral thesis, entitled "Improving the domain generalization and robustness of neural networks for medical imaging," was featured in ComputerVisionNews magazine in 2022.
+Dr Chen (Cherise) Chen is a Lecturer in Computer Vision, at the School of Computer Science, [University of Sheffield](https://www.sheffield.ac.uk/), and a core member of [Insigeno Institute](https://www.sheffield.ac.uk/insigneo), [Center for Machine Intelligence](https://www.sheffield.ac.uk/machine-intelligence), and [Shef.AI](https://shef-ai.github.io/) community. She is also an ELLIS scholar in the [ELLIS Robust Machine Learning Program](https://ellis.eu/programs/robust-machine-learning-group). She is currently one of six academics leading the [Computer Vision research group](https://www.sheffield.ac.uk/dcs/research/groups/computer-vision) at Sheffield. She also currently holds honorary research fellow positions at Imperial College London. Previously, she was a post-doc at [Oxford BioMedIA](https://eng.ox.ac.uk/biomedical-image-analysis/#ourresearch) group, University of Oxford in 2023, and the Computing Department at [Imperial College London](https://www.imperial.ac.uk/) (ICL) in 2022. She was also a research scientist at [HeartFlow](https://www.heartflow.com/). In 2022, she obtained her Ph.D. from the Department of Computing at Imperial College London, working closely with [Prof. Daniel Rueckert ](https://www.imperial.ac.uk/people/d.rueckert)and [Dr. Wenjia Bai](https://www.imperial.ac.uk/people/w.bai). Her doctoral thesis, entitled "Improving the domain generalization and robustness of neural networks for medical imaging," was featured in ComputerVisionNews magazine in 2022.
 
 <div class="row">
 <div class="column">
@@ -50,9 +50,15 @@ News
 
 <div class="news-container">
 <div class="news-item">
+  <div class="date">07/2025</div>
+    <div class="p">Invited to join the Program Committee for <a href="https://aaai.org/conference/aaai/aaai-26/">AAAI-26</a>.
+    </div>
+  </div>
+<div class="news-item">
   <div class="date">06/2025</div>
     <div class="p">
-    One paper tackling the missing modality issue for  trustworthy multi-modal machine learning systems has been accepted by <a href="https://iccv.thecvf.com/">ICCV 2025</a> (acceptance rate 24%), which will be held in Honolulu, Hawai'i, US! Congrats to Sijie! 
+    One paper tackling the missing modality issue for trustworthy multi-modal machine learning systems has been accepted by <a href="https://iccv.thecvf.com/">ICCV 2025</a> (acceptance rate 24%), which will be held in Honolulu, Hawai'i, US! Congrats to Sijie! 
+    Paper: <a href="https://arxiv.org/abs/2507.19264">SimMLM: A Simple Framework for Multi-modal Learning with Missing Modality</a>
     </div>
   </div>
 <div class="news-item">
