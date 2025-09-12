@@ -19,6 +19,8 @@ PhD Students
 ------------
 
 University of Sheffield:
+* [Xuelong An](https://awxlong.github.io/) (co-supervised with Prof. Andy Swift) (2025-)
+* [Zhengxuan Song](https://scholar.google.com/citations?user=bUoFWkAAAAAJ&hl=zh-CN) (co-supervised with Prof. Richard Clayton) (2025-)
 * [Mohammod Naimul Islam Suvon](https://scholar.google.com/citations?user=DGYUifQAAAAJ&hl=en&inst=12733411405069140160) (co-supervised with Prof. [Haiping Lu](https://haipinglu.github.io/)) (2023-)
 * [Wenrui Fan](https://wenruifan.github.io/) (co-supervised with Prof. [Haiping Lu](https://haipinglu.github.io/)) (2023-)
 * [Sijie Li ](https://lezj.github.io/sijieli.github.io/) (co-supervised with Prof. [Jungong Han](https://scholar.google.co.uk/citations?user=hNi1gxAAAAAJ&hl=en)) (2023-)
