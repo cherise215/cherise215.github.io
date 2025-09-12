@@ -62,7 +62,12 @@ Medical Physics
 
 Journal of Cardiovascular Magnetic Resonance (JCMR)
 
+Journal of Medical Internet Research (JMIR)
+
+PLOS ONE 
+
 **Conferences:**
+
 Annual AAAI Conference on Artificial Intelligence (AAAI)
 
 International Conference on Computer Vision (ICCV)
