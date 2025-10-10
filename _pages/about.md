@@ -48,6 +48,7 @@ News
 ----
 
 <div class="news-container">
+
 <div class="news-item">
   <div class="date">10/2025</div>
     <div class="p"> Chen visited Univerity of Toronto, University of Alberta, and University of Calgary and gave three invited talks on multi-modal learning in Canada this Autumn!</div>
