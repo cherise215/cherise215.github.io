@@ -50,8 +50,7 @@ News
 <div class="news-container">
 <div class="news-item">
   <div class="date">09/2025</div>
-    <div class="p"> Chen visited Univerity of Toronto, University of Alberta, and University of Calgary and gave three invited talks in the three institutions!
-    </div>
+    <div class="p"> Chen visited Univerity of Toronto, University of Alberta, and University of Calgary and gave three invited talks in the three institutions!</div>
   </div>
 <div class="news-item">
   <div class="date">09/2025</div>
