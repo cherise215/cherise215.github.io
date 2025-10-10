@@ -13,6 +13,85 @@ Selected Publications
 
 ****
 ## 2025
+<div class="publication-block">
+    <div class="publication-info">
+        <div class="publication-title">
+           CLAIM: Clinically-Guided LGE Augmentation for Realistic and Diverse Myocardial Scar Synthesis and Segmentation
+        </div>
+        <img src="/images/CLAIM.jpeg" alt="CLAIM" class="publication-image" onclick="expandImage(this, '/images/CLAIM.jpeg')"><br />
+        <h3 class="conference-name">AIiH 2025, <strong>Best Paper Award</strong></h3>        
+        <p class="author-name">Farheen Ramzan, Yusuf Kiberu, Nikesh Jathanna, Shahnaz Jamil-Copley, Richard H. Clayton*, <strong>*Chen Chen*</strong></p>
+        <div class="links">
+            <a href="https://arxiv.org/abs/2506.15549" class="pdf">PDF</a>
+            <a href="https://github.com/farheenjabeen/CLAIM-Scar-Synthesis" class="code">Code</a>
+        </div>
+    </div>
+</div>
+
+<div class="publication-block">
+    <div class="publication-info">
+        <div class="publication-title">
+           Towards Cardiac MRI Foundation Models: Comprehensive Visual-Tabular Representations for Whole-Heart Assessment and Beyond
+        </div>
+        <img src="/images/ViTa.png" alt="VITA" class="publication-image" onclick="expandImage(this, '/images/ViTa.jpeg')"><br />
+        <h3 class="conference-name">Medical Image Analysis</h3>        
+        <p class="author-name">Yundi Zhang, Paul Hager, Che Liu, Suprosanna Shit, <strong>Chen Chen*</strong>, Daniel Rueckert*, and Jiazhen Pan*</p>
+        <div class="links">
+            <a href="https://arxiv.org/abs/2504.13037" class="pdf">PDF</a>
+            <a href="https://github.com/Yundi-Zhang/ViTa" class="code">Code</a>
+        </div>
+    </div>
+</div>
+
+
+<div class="publication-block">
+    <div class="publication-info">
+        <div class="publication-title">
+           SimMLM: A Simple Framework for Multi-modal Learning with Missing Modality
+        </div>
+        <img src="/images/SimMLM.png" alt="simmlm" class="publication-image" onclick="expandImage(this, '/images/SimMLM.png')"><br />
+        <h3 class="conference-name">ICCV 2025</h3>        
+        <p class="author-name">Sijie Li, <strong>Chen Chen*</strong>, Jungong Han*</p>
+        <div class="links">
+            <a href="https://arxiv.org/pdf/2507.19264" class="pdf">PDF</a>
+            <a href="https://github.com/LezJ/SimMLM" class="code">Code</a>
+        </div>
+    </div>
+</div>
+
+<div class="publication-block">
+    <div class="publication-info">
+        <div class="publication-title">
+           Foundation-Model-Boosted Multimodal Learning for fMRI-Based Neuropathic Pain Drug Response Prediction
+        </div>
+        <img src="/images/fmm-pain.png" alt="fmm-pain" class="publication-image" onclick="expandImage(this, '/images/fmm-pain.png')"><br />
+        <h3 class="conference-name">MICCAI 2025</h3>        
+        <p class="author-name">Wenrui Fan, L. M. Riza Rizky, Jiayang Zhang, <strong>Chen Chen*</strong>, Haiping Lu*, Kevin Teh, Dinesh Selvarajah, Shuo Zhou*</p>
+        <div class="links">
+            <a href="https://link.springer.com/chapter/10.1007/978-3-032-05182-0_24" class="pdf">PDF</a>
+            <a href="https://github.com/Shef-AIRE/FMM_TC" class="code">Code</a>
+            <a href="https://www.linkedin.com/posts/wenrui-fan-a7b68b290_miccai2025-medicalai-deeplearning-activity-7378056038836539392-sSOq?utm_source=share&utm_medium=member_desktop&rcm=ACoAABMrpYEBx4ynLOoHkB2a61l3H1Mrm2M4Ui0" class="poster">Poster</a>
+        </div>
+    </div>
+</div>
+
+
+<div class="publication-block">
+    <div class="publication-info">
+        <div class="publication-title">
+           MedVLM-R1: Incentivizing Medical Reasoning Capability of Vision-Language Models (VLMs) via Reinforcement Learning
+        </div>
+        <img src="/images/medvlm-r1.png" alt="MedVLM-R1" class="publication-image" onclick="expandImage(this, '/images/medvlm-r1.png')"><br />
+        <h3 class="conference-name">MICCAI 2025</h3>        
+        <p class="author-name">Jiazhen Pan, Che Liu, Junde Wu, Fenglin Liu, Jiayuan Zhu, Hongwei Bran Li,<strong> Chen Chen</strong>, Cheng Ouyang & Daniel Rueckert </p>
+        <div class="links">
+            <a href="https://link.springer.com/chapter/10.1007/978-3-032-04981-0_32" class="pdf">PDF</a>
+            <a href="https://huggingface.co/JZPeterPan/MedVLM-R1" class="code">CODE</a>
+        </div>
+    </div>
+</div>
+
+
 
 <div class="publication-block">
     <div class="publication-info">

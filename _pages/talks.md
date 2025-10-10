@@ -7,6 +7,9 @@ author_profile: true
 <img src= "/images/talk_2024.jpeg" width="350" class="publication-image"><br />
 
 **"Unlocking the Value of Single Modality through Multi-Modal Knowledge Transfer for Healthcare"**
+* [30/09/2025] Vector Institute, University of Toronto, Canada 
+* [24/09/2025] University of Calgary, Canada (https://events.ucalgary.ca/libin/event/499766-guest-speaker-dr-chen-cherise-chen-phd)
+* [21/09/2025] AI+Health Hub, University of Alberta, Canada 
 * [10/04/2025] Carnegie Mellon University (CMU), US
 * [02/04/2025] Imaging Biomarkers and Computer-Aided Diagnosis Laboratory, National Institutes of Health (NIH), US
 * [07/11/2024] Queen Mary University of London, UK

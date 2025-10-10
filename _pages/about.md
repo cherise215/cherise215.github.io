@@ -50,6 +50,11 @@ News
 <div class="news-container">
 <div class="news-item">
   <div class="date">09/2025</div>
+    <div class="p"> Chen visited Univerity of Toronto, University of Alberta, and University of Calgary and gave three invited talks in the three institutions!
+    </div>
+  </div>
+<div class="news-item">
+  <div class="date">09/2025</div>
     <div class="p">We received the *Best Paper Award* at the International Conference on Artificial Intelligence in Healthcare (AIiH 2025) in Cambridge, UK! Congrats to Farheen! Check out the <a href="https://aiih.cc/awards-2025/">website</a> and our <a href="https://arxiv.org/pdf/2506.15549">paper</a> for details. 
     </div>
   </div>
