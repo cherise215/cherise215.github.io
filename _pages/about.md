@@ -53,7 +53,9 @@ News
   <div class="date">10/2025</div>
     <div class="p"> Chen visited Univerity of Toronto, University of Alberta, and University of Calgary and gave three invited talks on multi-modal learning in Canada this Autumn!</div>
   </div>
-
+    <div class="date">9/2025</div>
+    <div class="p"> Chen and Farheen gave two talks on two works, focusing on multi-modal AI for cardiac scar projects in the third UK multi-modal AI workshop in the Barbican Center, London</div>
+  </div>
 <div class="news-item">
   <div class="date">09/2025</div>
     <div class="p">We received the *Best Paper Award* at the International Conference on Artificial Intelligence in Healthcare (AIiH 2025) in Cambridge, UK! Congrats to Farheen! Check out the <a href="https://aiih.cc/awards-2025/">website</a> and our <a href="https://arxiv.org/pdf/2506.15549">paper</a> for details. 
