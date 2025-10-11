@@ -53,6 +53,7 @@ News
   <div class="date">10/2025</div>
     <div class="p"> Chen visited Univerity of Toronto, University of Alberta, and University of Calgary and gave three invited talks on multi-modal learning in Canada this Autumn!</div>
   </div>
+  <div class="news-item">
     <div class="date">9/2025</div>
     <div class="p"> Chen and Farheen gave two talks on two works, focusing on multi-modal AI for cardiac scar projects in the third UK multi-modal AI workshop in the Barbican Center, London</div>
   </div>

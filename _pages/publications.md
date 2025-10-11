@@ -20,7 +20,7 @@ Selected Publications
         </div>
         <img src="/images/CLAIM.jpeg" alt="CLAIM" class="publication-image" onclick="expandImage(this, '/images/CLAIM.jpeg')"><br />
         <h3 class="conference-name">AIiH 2025, <strong>Best Paper Award</strong></h3>        
-        <p class="author-name">Farheen Ramzan, Yusuf Kiberu, Nikesh Jathanna, Shahnaz Jamil-Copley, Richard H. Clayton*, <strong>*Chen Chen*</strong></p>
+        <p class="author-name">Farheen Ramzan, Yusuf Kiberu, Nikesh Jathanna, Shahnaz Jamil-Copley, Richard H. Clayton*, <strong>Chen Chen*</strong></p>
         <div class="links">
             <a href="https://arxiv.org/abs/2506.15549" class="pdf">PDF</a>
             <a href="https://github.com/farheenjabeen/CLAIM-Scar-Synthesis" class="code">Code</a>
