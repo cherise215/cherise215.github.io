@@ -16,7 +16,7 @@ redirect_from:
 Bio
 ---
 
-Dr Chen (Cherise) Chen is a Lecturer/Assistant Professor in Computer Vision, at the School of Computer Science, [University of Sheffield](https://www.sheffield.ac.uk/), and a core member of [Insigeno Institute](https://www.sheffield.ac.uk/insigneo), [Center for Machine Intelligence](https://www.sheffield.ac.uk/machine-intelligence), and [Shef.AI](https://shef-ai.github.io/) community. She is also an ELLIS scholar in the [ELLIS Robust Machine Learning Program](https://ellis.eu/programs/robust-machine-learning-group). She is currently one of six academics leading the [Computer Vision research group](https://www.sheffield.ac.uk/dcs/research/groups/computer-vision) at Sheffield. She also currently holds honorary research fellow positions at Imperial College London. 
+Dr Chen (Cherise) Chen is a Lecturer/Assistant Professor in Computer Vision, at the School of Computer Science, [University of Sheffield](https://www.sheffield.ac.uk/), and a core member of [Insigeno Institute](https://www.sheffield.ac.uk/insigneo), [Center for Machine Intelligence](https://www.sheffield.ac.uk/machine-intelligence), and [Shef.AI](https://shef-ai.github.io/) community. She is also an ELLIS scholar in the [ELLIS Robust Machine Learning Program](https://ellis.eu/programs/robust-machine-learning-group).She also currently holds honorary research fellow positions at Imperial College London. 
 
 Before joining Sheffield, she was a post-doc at [Oxford BioMedIA](https://eng.ox.ac.uk/biomedical-image-analysis/#ourresearch) group, University of Oxford in 2023, and the Computing Department at [Imperial College London](https://www.imperial.ac.uk/) (ICL) in 2022. She was also a research scientist at [HeartFlow](https://www.heartflow.com/). In 2022, she obtained her Ph.D. from the Department of Computing at Imperial College London, working closely with [Prof. Daniel Rueckert ](https://www.imperial.ac.uk/people/d.rueckert)and [Dr. Wenjia Bai](https://www.imperial.ac.uk/people/w.bai). Her doctoral thesis, entitled "Improving the domain generalization and robustness of neural networks for medical imaging," was featured in ComputerVisionNews magazine in 2022.
 
@@ -25,7 +25,7 @@ Before joining Sheffield, she was a post-doc at [Oxford BioMedIA](https://eng.ox
     <section aria-labelledby="Research interests">
           <h2 class="heading" id="interests">
             <span class="bar" aria-hidden="true"></span>
-            Interests
+            Research Interests
           </h2>
       <ul>
       <li>Artificial Intelligence in Healthcare (e.g., Cardiac care)</li>
@@ -53,7 +53,7 @@ Before joining Sheffield, she was a post-doc at [Oxford BioMedIA](https://eng.ox
 <section aria-labelledby="Academic journey">
           <h2 class="heading" id="education">
             <span class="bar" aria-hidden="true"></span>
-            Education
+            Academic journey
           </h2>
            <ul>
       <li>Lecturer in Computer Vision, University of Sheffield, Sheffield, UK</li>
