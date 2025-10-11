@@ -325,6 +325,23 @@
 .fa.fa-pull-right {
   margin-left: .3em;
 }
+.panel{
+    background: var(--panel);
+    backdrop-filter: blur(8px);
+    border: 1px solid var(--line);
+    border-radius: 16px;
+    box-shadow: 0 8px 30px #0006, inset 0 1px 0 #ffffff0d;
+    overflow: clip;
+  }
+.grid{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 28px;
+    padding: 28px;
+  }
+@media (max-width: 780px){
+    .grid{ grid-template-columns: 1fr; }
+  }
 
 /* Left panel style */
 .left-panel {
@@ -612,3 +629,72 @@
   font-weight: bold;
   cursor: pointer;
 }
+ /* Interests list */
+  .bullets{
+    --bullet-size: 8px;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: grid;
+    gap: 10px;
+  }
+  .bullets li{
+    position: relative;
+    padding-left: 18px;
+    line-height: 1.5;
+  }
+  .bullets li::before{
+    content:"";
+    position:absolute; left:0; top:.72em;
+    width: var(--bullet-size); height: var(--bullet-size);
+    border-radius:50%;
+    background: radial-gradient(circle at 30% 30%, #fff, var(--accent) 55%, #2563eb);
+    box-shadow: 0 0 0 4px var(--ring);
+    transform: translateY(-50%);
+  }
+
+  /* Education cards */
+  .edu{
+    list-style:none; margin:0; padding:0; display:grid; gap:14px;
+  }
+  .edu-item{
+    display:grid;
+    grid-template-columns: 36px 1fr;
+    gap:14px;
+    padding:14px 16px;
+    border: 1px solid var(--line);
+    border-radius: 12px;
+    background: linear-gradient(180deg, #0f1832, #0c142b);
+    box-shadow: 0 4px 16px #0005, inset 0 1px 0 #ffffff0d;
+  }
+  .icon{
+    width:24px; height:24px; margin-top:2px; color: var(--accent);
+    filter: drop-shadow(0 0 6px var(--ring));
+    flex:0 0 auto;
+  }
+  .degree{
+    margin:0 0 3px;
+    font-weight: 650;
+  }
+  .meta{
+    margin:0;
+    color: var(--muted);
+    font-size: 13px;
+    letter-spacing:.2px;
+  }
+
+  /* Subtle separators inside panel on large screens */
+  @media (min-width: 781px){
+    .grid > section:first-child{
+      border-right:1px solid var(--line);
+      padding-right:28px; margin-right:-28px;
+    }
+  }
+
+  /* Small caption */
+  .caption{
+    text-align:center;
+    color:var(--muted);
+    font-size:12px;
+    margin-top:14px;
+  }

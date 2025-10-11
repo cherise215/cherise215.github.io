@@ -16,12 +16,19 @@ redirect_from:
 Bio
 ---
 
-Dr Chen (Cherise) Chen is a Lecturer/Assistant Professor in Computer Vision, at the School of Computer Science, [University of Sheffield](https://www.sheffield.ac.uk/), and a core member of [Insigeno Institute](https://www.sheffield.ac.uk/insigneo), [Center for Machine Intelligence](https://www.sheffield.ac.uk/machine-intelligence), and [Shef.AI](https://shef-ai.github.io/) community. She is also an ELLIS scholar in the [ELLIS Robust Machine Learning Program](https://ellis.eu/programs/robust-machine-learning-group). She is currently one of six academics leading the [Computer Vision research group](https://www.sheffield.ac.uk/dcs/research/groups/computer-vision) at Sheffield. She also currently holds honorary research fellow positions at Imperial College London. Previously, she was a post-doc at [Oxford BioMedIA](https://eng.ox.ac.uk/biomedical-image-analysis/#ourresearch) group, University of Oxford in 2023, and the Computing Department at [Imperial College London](https://www.imperial.ac.uk/) (ICL) in 2022. She was also a research scientist at [HeartFlow](https://www.heartflow.com/). In 2022, she obtained her Ph.D. from the Department of Computing at Imperial College London, working closely with [Prof. Daniel Rueckert ](https://www.imperial.ac.uk/people/d.rueckert)and [Dr. Wenjia Bai](https://www.imperial.ac.uk/people/w.bai). Her doctoral thesis, entitled "Improving the domain generalization and robustness of neural networks for medical imaging," was featured in ComputerVisionNews magazine in 2022.
+Dr Chen (Cherise) Chen is a Lecturer/Assistant Professor in Computer Vision, at the School of Computer Science, [University of Sheffield](https://www.sheffield.ac.uk/), and a core member of [Insigeno Institute](https://www.sheffield.ac.uk/insigneo), [Center for Machine Intelligence](https://www.sheffield.ac.uk/machine-intelligence), and [Shef.AI](https://shef-ai.github.io/) community. She is also an ELLIS scholar in the [ELLIS Robust Machine Learning Program](https://ellis.eu/programs/robust-machine-learning-group). She is currently one of six academics leading the [Computer Vision research group](https://www.sheffield.ac.uk/dcs/research/groups/computer-vision) at Sheffield. She also currently holds honorary research fellow positions at Imperial College London. 
 
-<div class="row">
-<div class="column">
-    <h3>Interests</h3>
-    <ul>
+Before joining Sheffield, she was a post-doc at [Oxford BioMedIA](https://eng.ox.ac.uk/biomedical-image-analysis/#ourresearch) group, University of Oxford in 2023, and the Computing Department at [Imperial College London](https://www.imperial.ac.uk/) (ICL) in 2022. She was also a research scientist at [HeartFlow](https://www.heartflow.com/). In 2022, she obtained her Ph.D. from the Department of Computing at Imperial College London, working closely with [Prof. Daniel Rueckert ](https://www.imperial.ac.uk/people/d.rueckert)and [Dr. Wenjia Bai](https://www.imperial.ac.uk/people/w.bai). Her doctoral thesis, entitled "Improving the domain generalization and robustness of neural networks for medical imaging," was featured in ComputerVisionNews magazine in 2022.
+
+<section class="panel">
+<div class="grid">
+    <!-- Interests -->
+    <section aria-labelledby="interests">
+          <h2 class="heading" id="interests">
+            <span class="bar" aria-hidden="true"></span>
+            Interests
+          </h2>
+      <ul class="bullets">
       <li>Artificial Intelligence in Healthcare (e.g., Cardiac care)</li>
       <li>Multi-modal Learning (vision, signals, and language)</li>
       <li>Trustworthy Machine Learning (Uncertainty, Robustness and Explainability)</li>
@@ -29,8 +36,8 @@ Dr Chen (Cherise) Chen is a Lecturer/Assistant Professor in Computer Vision, at 
       <li>Data-efficient Learning</li>
       <li>Generative Modelling and Data Synthesis</li>
     </ul>
-
-</div>
+    </section>
+<!-- </div>
   <div class="column">
     <h3>Academic journey</h3>
     <ul>
@@ -41,9 +48,24 @@ Dr Chen (Cherise) Chen is a Lecturer/Assistant Professor in Computer Vision, at 
       <li>MSc in Advanced Computing, Imperial College London, UK</li>
     </ul>
   </div>
-  </div><br /><br /><br /><br /><br /><br />
+  </div><br /><br /><br /><br /><br /><br /> -->
 
-
+  <!-- Education -->
+<section aria-labelledby="education">
+          <h2 class="heading" id="education">
+            <span class="bar" aria-hidden="true"></span>
+            Education
+          </h2>
+           <ul>
+      <li>Lecturer in Computer Vision, University of Sheffield, Sheffield, UK</li>
+      <li>Post-doc at Oxford Institute of Biomedical Engineering, University of Oxford, UK</li>
+      <li>RA and Post-doc at BioMedIA group, Imperial College London, UK</li>
+      <li>PhD at BioMedIA group, Imperial College London, UK</li>
+      <li>MSc in Advanced Computing, Imperial College London, UK</li>
+    </ul>
+    </section>
+      </div>
+    </section>
 News
 ----
 
