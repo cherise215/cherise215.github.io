@@ -20,7 +20,6 @@ Dr Chen (Cherise) Chen is a Lecturer/Assistant Professor in Computer Vision, at 
 
 Before joining Sheffield, she was a post-doc at [Oxford BioMedIA](https://eng.ox.ac.uk/biomedical-image-analysis/#ourresearch) group, University of Oxford in 2023, and the Computing Department at [Imperial College London](https://www.imperial.ac.uk/) (ICL) in 2022. She was also a research scientist at [HeartFlow](https://www.heartflow.com/). In 2022, she obtained her Ph.D. from the Department of Computing at Imperial College London, working closely with [Prof. Daniel Rueckert ](https://www.imperial.ac.uk/people/d.rueckert)and [Dr. Wenjia Bai](https://www.imperial.ac.uk/people/w.bai). Her doctoral thesis, entitled "Improving the domain generalization and robustness of neural networks for medical imaging," was featured in ComputerVisionNews magazine in 2022.
 
-<section class="panel">
 <div class="grid">
     <!-- Interests -->
     <section aria-labelledby="Research interests">
@@ -65,18 +64,12 @@ Before joining Sheffield, she was a post-doc at [Oxford BioMedIA](https://eng.ox
     </ul>
     </section>
       </div>
-    </section>
 
 
 
 News
 ----
 <section class="panel">
-<section aria-labelledby="News">
-          <h2 class="heading" id="news">
-            <span class="bar" aria-hidden="true"></span>
-            News
-          </h2>
 <div class="news-container">
 <div class="news-item">
   <div class="date">10/2025</div>
@@ -304,8 +297,7 @@ News
      <p> Invited to give a talk at NCT Data Science Seminar 2023 at the German Cancer Research Center (DKFZ)</p>
   </div>
 </div>
-  </section>
-    </section>
+</section>
 
 Awards and honours
 ------------------
