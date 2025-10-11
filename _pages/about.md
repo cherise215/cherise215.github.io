@@ -71,7 +71,12 @@ Before joining Sheffield, she was a post-doc at [Oxford BioMedIA](https://eng.ox
 
 News
 ----
-
+<section class="panel">
+<section aria-labelledby="News">
+          <h2 class="heading" id="news">
+            <span class="bar" aria-hidden="true"></span>
+            News
+          </h2>
 <div class="news-container">
 <div class="news-item">
   <div class="date">10/2025</div>
@@ -299,6 +304,8 @@ News
      <p> Invited to give a talk at NCT Data Science Seminar 2023 at the German Cancer Research Center (DKFZ)</p>
   </div>
 </div>
+  </section>
+    </section>
 
 Awards and honours
 ------------------
