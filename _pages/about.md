@@ -23,12 +23,12 @@ Before joining Sheffield, she was a post-doc at [Oxford BioMedIA](https://eng.ox
 <section class="panel">
 <div class="grid">
     <!-- Interests -->
-    <section aria-labelledby="interests">
+    <section aria-labelledby="Research interests">
           <h2 class="heading" id="interests">
             <span class="bar" aria-hidden="true"></span>
             Interests
           </h2>
-      <ul class="bullets">
+      <ul>
       <li>Artificial Intelligence in Healthcare (e.g., Cardiac care)</li>
       <li>Multi-modal Learning (vision, signals, and language)</li>
       <li>Trustworthy Machine Learning (Uncertainty, Robustness and Explainability)</li>
@@ -51,7 +51,7 @@ Before joining Sheffield, she was a post-doc at [Oxford BioMedIA](https://eng.ox
   </div><br /><br /><br /><br /><br /><br /> -->
 
   <!-- Education -->
-<section aria-labelledby="education">
+<section aria-labelledby="Academic journey">
           <h2 class="heading" id="education">
             <span class="bar" aria-hidden="true"></span>
             Education
@@ -66,6 +66,9 @@ Before joining Sheffield, she was a post-doc at [Oxford BioMedIA](https://eng.ox
     </section>
       </div>
     </section>
+
+
+
 News
 ----
 
