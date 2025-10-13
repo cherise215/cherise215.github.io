@@ -16,17 +16,15 @@ Selected Publications
 
 
 <div class="publication-block">
+    <span class="ribbon">Best Paper</span>
     <div class="publication-info">
         <div class="publication-title">
            CLAIM: Clinically-Guided LGE Augmentation for Realistic and Diverse Myocardial Scar Synthesis and Segmentation
         </div>
     <p align="center"> <a href="/images/CLAIM.jpeg">
-    <img src="/images/CLAIM.jpeg" 
-         alt="CLAIM"
-         width="300">
-        </a>
+    <img src="/images/CLAIM.jpeg" alt="CLAIM" class="center"></a>
         </p>
-        <h3 class="conference-name">AIiH 2025, <strong>Best Paper Award</strong></h3>        
+        <h3 class="conference-name">AIiH 2025</h3>        
         <p class="author-name">Farheen Ramzan, Yusuf Kiberu, Nikesh Jathanna, Shahnaz Jamil-Copley, Richard H. Clayton*, <strong>*Chen Chen*</strong></p>
         <div class="links">
             <a href="https://arxiv.org/abs/2506.15549" class="pdf">PDF</a>
