@@ -37,8 +37,8 @@ Selected Publications
         <div class="publication-title">
            Towards Cardiac MRI Foundation Models: Comprehensive Visual-Tabular Representations for Whole-Heart Assessment and Beyond
         </div>
-        <a href="/images/ViTa.jpeg">
-        <img src="/images/ViTa.png" alt="VITA" class="publication-image" onclick="expandImage(this, '/images/ViTa.jpeg')"></a>
+        <a href="/images/ViTa.png">
+        <img src="/images/ViTa.png" alt="VITA" class="publication-image" onclick="expandImage(this, '/images/ViTa.png')"></a>
         <h3 class="conference-name">Medical Image Analysis</h3>        
         <p class="author-name">Yundi Zhang, Paul Hager, Che Liu, Suprosanna Shit, <strong>Chen Chen*</strong>, Daniel Rueckert*, and Jiazhen Pan*</p>
         <div class="links">
