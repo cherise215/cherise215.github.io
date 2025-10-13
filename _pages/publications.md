@@ -73,7 +73,7 @@ Selected Publications
         <a href="/images/fmm-pain.png">
         <img src="/images/fmm-pain.png" alt="fmm-pain" class="publication-image" onclick="expandImage(this, '/images/fmm-pain.png')"></a>
         <h3 class="conference-name">MICCAI 2025</h3>        
-        <p class="author-name">Wenrui Fan, L. M. Riza Rizky, Jiayang Zhang, <strong>Chen Chen*</strong>, Haiping Lu*, Kevin Teh, Dinesh Selvarajah, Shuo Zhou</p>
+        <p class="author-name">Wenrui Fan, L. M. Riza Rizky, Jiayang Zhang, <strong>Chen Chen*</strong>, Haiping Lu*, Kevin Teh, Dinesh Selvarajah, Shuo Zhou*</p>
         <div class="links">
             <a href="https://link.springer.com/chapter/10.1007/978-3-032-05182-0_24" class="pdf">PDF</a>
             <a href="https://github.com/Shef-AIRE/FMM_TC" class="code">Code</a>

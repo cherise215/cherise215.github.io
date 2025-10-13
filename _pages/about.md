@@ -301,9 +301,9 @@ News
 
 
 
-Gallery
+<!-- Gallery
 ------------------
-{% include gallery.html id="gallery" data="gallery" %}
+{% include gallery.html id="gallery" data="gallery" %} -->
 
 
 Awards and honours
