@@ -540,13 +540,15 @@
 
 
 .publication-image {
-  display: flex;
+  display: block;
   align-items: center;
   justify-content: center;
-  height: 200px;  /* Fixed height for images */
   object-fit: cover;  /* Ensures the image fits the dimensions without distortion */
   cursor: pointer;  /* Cursor changes to pointer indicating it's clickable */
   transition: transform 0.2s; /* Optional smooth hover effect */
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
 
 .publication-image:hover {
