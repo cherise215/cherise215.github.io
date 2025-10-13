@@ -21,7 +21,7 @@ Selected Publications
            CLAIM: Clinically-Guided LGE Augmentation for Realistic and Diverse Myocardial Scar Synthesis and Segmentation
         </div>
     <p align="center"> <a href="/images/CLAIM.jpeg">
-    <img src="/images/CLAIM.jpeg" alt="CLAIM" class="center"></a>
+    <img src="/images/CLAIM.png" alt="CLAIM" class="publication-image" onclick="expandImage(this, '/images/ViTa.jpeg')"></a>
         </p>
         <h3 class="conference-name">AIiH 2025 <span class="ribbon">Best Paper</span></h3>   
         <button class="btn">AIiH 2025<span class="ribbon">Best Paper</span></button>
