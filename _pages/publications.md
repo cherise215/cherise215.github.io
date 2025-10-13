@@ -23,8 +23,7 @@ Selected Publications
     <p align="center"> <a href="/images/CLAIM.jpeg">
     <img src="/images/CLAIM.png" alt="CLAIM" class="publication-image" onclick="expandImage(this, '/images/ViTa.jpeg')"></a>
         </p>
-        <h3 class="conference-name">AIiH 2025 <span class="ribbon">Best Paper</span></h3>   
-        <button class="btn">AIiH 2025<span class="ribbon">Best Paper</span></button>
+        <h3 class="conference-name">AIiH 2025 <strong>Best Paper</strong></h3>   
         <p class="author-name">Farheen Ramzan, Yusuf Kiberu, Nikesh Jathanna, Shahnaz Jamil-Copley, Richard H. Clayton*, <strong>Chen Chen*</strong></p>
         <div class="links">
             <a href="https://arxiv.org/abs/2506.15549" class="pdf">PDF</a>
