@@ -21,7 +21,7 @@ Selected Publications
            CLAIM: Clinically-Guided LGE Augmentation for Realistic and Diverse Myocardial Scar Synthesis and Segmentation
         </div>
     <p align="center"> <a href="/images/CLAIM.jpeg">
-    <img src="/images/CLAIM.png" alt="CLAIM" class="publication-image" onclick="expandImage(this, '/images/ViTa.jpeg')"></a>
+    <img src="/images/CLAIM.jpeg" alt="CLAIM" class="publication-image" onclick="expandImage(this, '/images/ViTa.jpeg')"></a>
         </p>
         <h3 class="conference-name">AIiH 2025 <strong>Best Paper</strong></h3>   
         <p class="author-name">Farheen Ramzan, Yusuf Kiberu, Nikesh Jathanna, Shahnaz Jamil-Copley, Richard H. Clayton*, <strong>Chen Chen*</strong></p>
