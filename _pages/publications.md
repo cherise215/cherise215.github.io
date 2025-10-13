@@ -37,7 +37,8 @@ Selected Publications
         <div class="publication-title">
            Towards Cardiac MRI Foundation Models: Comprehensive Visual-Tabular Representations for Whole-Heart Assessment and Beyond
         </div>
-        <img src="/images/ViTa.png" alt="VITA" class="publication-image" onclick="expandImage(this, '/images/ViTa.jpeg')"><br />
+        <a href="/images/ViTa.jpeg">
+        <img src="/images/ViTa.png" alt="VITA" class="publication-image" onclick="expandImage(this, '/images/ViTa.jpeg')"></a>
         <h3 class="conference-name">Medical Image Analysis</h3>        
         <p class="author-name">Yundi Zhang, Paul Hager, Che Liu, Suprosanna Shit, <strong>Chen Chen*</strong>, Daniel Rueckert*, and Jiazhen Pan*</p>
         <div class="links">
@@ -53,7 +54,8 @@ Selected Publications
         <div class="publication-title">
            SimMLM: A Simple Framework for Multi-modal Learning with Missing Modality
         </div>
-        <img src="/images/SimMLM.png" alt="simmlm" class="publication-image" onclick="expandImage(this, '/images/SimMLM.png')"><br />
+        <a href="/images/SimMLM.png">
+        <img src="/images/SimMLM.png" alt="simmlm" class="publication-image" onclick="expandImage(this, '/images/SimMLM.png')"></a>
         <h3 class="conference-name">ICCV 2025</h3>        
         <p class="author-name">Sijie Li, <strong>Chen Chen*</strong>, Jungong Han*</p>
         <div class="links">
@@ -68,7 +70,8 @@ Selected Publications
         <div class="publication-title">
            Foundation-Model-Boosted Multimodal Learning for fMRI-Based Neuropathic Pain Drug Response Prediction
         </div>
-        <img src="/images/fmm-pain.png" alt="fmm-pain" class="publication-image" onclick="expandImage(this, '/images/fmm-pain.png')"><br />
+        <a href="/images/fmm-pain.png">
+        <img src="/images/fmm-pain.png" alt="fmm-pain" class="publication-image" onclick="expandImage(this, '/images/fmm-pain.png')"></a>
         <h3 class="conference-name">MICCAI 2025</h3>        
         <p class="author-name">Wenrui Fan, L. M. Riza Rizky, Jiayang Zhang, <strong>Chen Chen*</strong>, Haiping Lu*, Kevin Teh, Dinesh Selvarajah, Shuo Zhou</p>
         <div class="links">
