@@ -13,16 +13,21 @@ Selected Publications
 
 ****
 ## 2025
+
+
 <div class="publication-block">
     <div class="publication-info">
         <div class="publication-title">
            CLAIM: Clinically-Guided LGE Augmentation for Realistic and Diverse Myocardial Scar Synthesis and Segmentation
         </div>
-        <a target="_blank" href="/images/CLAIM.jpeg">
-        <publication-img src="/images/CLAIM.jpeg" alt="CLAIM">
+    <p align="center"> <a href="/images/CLAIM.jpeg">
+    <img src="/images/CLAIM.jpeg" 
+         alt="CLAIM"
+         width="300">
         </a>
+        </p>
         <h3 class="conference-name">AIiH 2025, <strong>Best Paper Award</strong></h3>        
-        <p class="author-name">Farheen Ramzan, Yusuf Kiberu, Nikesh Jathanna, Shahnaz Jamil-Copley, Richard H. Clayton*, <strong>Chen Chen*</strong></p>
+        <p class="author-name">Farheen Ramzan, Yusuf Kiberu, Nikesh Jathanna, Shahnaz Jamil-Copley, Richard H. Clayton*, <strong>*Chen Chen*</strong></p>
         <div class="links">
             <a href="https://arxiv.org/abs/2506.15549" class="pdf">PDF</a>
             <a href="https://github.com/farheenjabeen/CLAIM-Scar-Synthesis" class="code">Code</a>
@@ -68,7 +73,7 @@ Selected Publications
         </div>
         <img src="/images/fmm-pain.png" alt="fmm-pain" class="publication-image" onclick="expandImage(this, '/images/fmm-pain.png')"><br />
         <h3 class="conference-name">MICCAI 2025</h3>        
-        <p class="author-name">Wenrui Fan, L. M. Riza Rizky, Jiayang Zhang, <strong>Chen Chen*</strong>, Haiping Lu*, Kevin Teh, Dinesh Selvarajah, Shuo Zhou*</p>
+        <p class="author-name">Wenrui Fan, L. M. Riza Rizky, Jiayang Zhang, <strong>Chen Chen*</strong>, Haiping Lu*, Kevin Teh, Dinesh Selvarajah, Shuo Zhou</p>
         <div class="links">
             <a href="https://link.springer.com/chapter/10.1007/978-3-032-05182-0_24" class="pdf">PDF</a>
             <a href="https://github.com/Shef-AIRE/FMM_TC" class="code">Code</a>
