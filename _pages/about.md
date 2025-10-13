@@ -299,6 +299,13 @@ News
 </div>
 </section>
 
+
+
+Gallery
+------------------
+{% include gallery.html id="talks" data="gallery" cols=4 gap="10px" ratio="56.25%" %}
+
+
 Awards and honours
 ------------------
 - 2025: Best Paper Award at the International Conference on Artificial Intelligence in Healthcare (AIiH 2025), Cambridge
