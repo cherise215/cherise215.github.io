@@ -303,7 +303,7 @@ News
 
 Gallery
 ------------------
-{% include gallery.html id="talks" data="gallery" cols=4 gap="10px" ratio="56.25%" %}
+{% include gallery.html id="gallery" data="gallery" %}
 
 
 Awards and honours
