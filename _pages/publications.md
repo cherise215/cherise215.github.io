@@ -14,7 +14,22 @@ Selected Publications
 ****
 ## 2025
 
-
+<div class="publication-block">
+    <div class="publication-info">
+        <div class="publication-title">
+          Towards deployment-centric multimodal AI beyond vision and language
+        </div>
+    <p align="center"> <a href="/images/deployment-centric-AI.png">
+    <img src="/images/deployment-centric-AI.png" alt="deployment-centric-AI" class="publication-image" onclick="expandImage(this, '/images/deployment-centric-AI.png')"></a>
+        </p>
+        <h3 class="conference-name">Nature Machine Intelligence</h3>   
+        <p class="author-name">Xianyuan Liu, Jiayang Zhang, Shuo Zhou, Thijs L. van der Plas, Avish Vijayaraghavan, Anastasiia Grishina, Mengdie Zhuang, Daniel Schofield, Christopher Tomlinson, Yuhan Wang, Ruizhe Li, Louisa van Zeeland, Sina Tabakhi, Cyndie Demeocq, Xiang Li, Arunav Das, Orlando Timmerman, Thomas Baldwin-McDonald, Jinge Wu, Peizhen Bai, Zahraa Al Sahili, Omnia Alwazzan, Thao N. Do, Mohammod N. I. Suvon, Angeline Wang, Lucia Cipolina-Kun, Luigi A. Moretti, Lucas Farndale, Nitisha Jain, Natalia Efremova, Yan Ge, Marta Varela, Hak-Keung Lam, Oya Celiktutan, Ben R. Evans, Alejandro Coca-Castro, Honghan Wu, Zahraa S. Abdallah, <strong>Chen Chen</strong>, Valentin Danchev, Nataliya Tkachenko, Lei Lu, Tingting Zhu, Gregory G. Slabaugh, Roger K. Moore, William K. Cheung, Peter H. Charlton & Haiping Lu</p>
+        <div class="links">
+            <a href="https://www.nature.com/articles/s42256-025-01116-5" class="pdf">PDF</a>
+            <a href="https://github.com/multimodalAI/multimodal-ai-landscape" class="code">Github</a>
+        </div>
+    </div>
+</div>
 <div class="publication-block">
     <div class="publication-info">
         <div class="publication-title">
