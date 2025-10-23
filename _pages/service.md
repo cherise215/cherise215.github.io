@@ -39,7 +39,7 @@ Associate Editor: Journal of Visual Communication and Image Representation
 
 Chair Editor: Generative Machine Learning Models in Medical Image Computing (A book published w/ Springer Nature, 2025) [Online](https://link.springer.com/book/10.1007/978-3-031-80965-1)
 
-<img src= "/images/book_cover_springer_2025.jpeg"  class="publication-image"><br />
+<img src= "/images/book-2025-highres.png"  class="publication-image"><br />
 
 Selected Jounal & Conference Reviewer
 -------------------------------------

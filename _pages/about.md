@@ -75,6 +75,10 @@ News
   <div class="date">10/2025</div>
     <div class="p"> Our article "Towards deployment-centric multimodal AI beyond vision and language" was published in <a href = "https://www.nature.com/articles/s42256-025-01116-5">Nature Machine Intelligence!</a></div>
   </div>
+  <div class="news-item">
+  <div class="date">10/2025</div>
+    <div class="p"> Chen joined the ELLIS-Machester Unit! See <a href = "https://www.linkedin.com/posts/ai-fun-mcr_ellis-manchester-are-pleased-to-announce-activity-7384207733933379584-lOjn?utm_source=share&utm_medium=member_desktop&rcm=ACoAABMrpYEBx4ynLOoHkB2a61l3H1Mrm2M4Ui0">[LinkedIn Post]</a></div>
+  </div>
 <div class="news-item">
   <div class="date">10/2025</div>
     <div class="p"> Chen visited Univerity of Toronto, University of Alberta, and University of Calgary and gave three invited talks on multi-modal learning in Canada this Autumn!</div>
