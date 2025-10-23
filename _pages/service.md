@@ -6,7 +6,7 @@ author_profile: true
 ---
 {% include base_path %}
 
-<img src= "/images/miccai24-chair.jpeg" width="350" class="publication-image"><br />
+<img src= "/images/miccai24-chair.jpeg" width="350" class="image"><br />
 
 Program Committee
 -----------------

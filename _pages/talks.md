@@ -4,7 +4,7 @@ title: "Invited Talks"
 permalink: /talks/
 author_profile: true
 ---
-<img src= "/images/talk_2024.jpeg" width="350" class="publication-image"><br />
+<img src= "/images/talk_2024.jpeg" width="350" class="image"><br />
 
 **"Unlocking the Value of Single Modality through Multi-Modal Knowledge Transfer for Healthcare"**
 * [30/09/2025] Vector Institute, University of Toronto, Canada 
