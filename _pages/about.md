@@ -77,7 +77,7 @@ News
   </div>
   <div class="news-item">
   <div class="date">10/2025</div>
-    <div class="p"> Chen joined the ELLIS-Machester Unit! See <a href = "https://www.linkedin.com/posts/ai-fun-mcr_ellis-manchester-are-pleased-to-announce-activity-7384207733933379584-lOjn?utm_source=share&utm_medium=member_desktop&rcm=ACoAABMrpYEBx4ynLOoHkB2a61l3H1Mrm2M4Ui0">[LinkedIn Post]</a></div>
+    <div class="p"> Chen joined the ELLIS-Manchester Unit! See <a href = "https://www.linkedin.com/posts/ai-fun-mcr_ellis-manchester-are-pleased-to-announce-activity-7384207733933379584-lOjn?utm_source=share&utm_medium=member_desktop&rcm=ACoAABMrpYEBx4ynLOoHkB2a61l3H1Mrm2M4Ui0">[LinkedIn Post]</a></div>
   </div>
 <div class="news-item">
   <div class="date">10/2025</div>
