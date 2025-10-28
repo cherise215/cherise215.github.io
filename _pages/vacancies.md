@@ -10,11 +10,14 @@ author_profile: true
 University of Sheffield is ranked as top 10 in the UK for research in relevant AI/CV/NLP/ML/Complexity areas [CSRanking](https://csrankings.org/#/index?ai&vision&mlmining&nlp&act&uk).
 
 
-The application for the PhD program (25/26) is closed. We may have vacancies for (26/27). Please contact me in late November. 
+The application for the PhD program (26/27) is open. We may 1 fully funded PhD position (26/27): [Multi-modal Understanding of Human Heart (S3.5-COM-CChen2)](https://www.findaphd.com/phds/project/multi-modal-understanding-of-human-heart-s3-5-com-cchen2/?p188965)
+
 
 - How to apply: 
-    - Please send me your CV (grade, ranking, research experience included), transcripts, **first-authored** papers/thesis (please merge all into one single file) and other supporting materials (such as slides to show your research experience, or github website to show your past projects), to **enquiry.ai4health@gmail.com**. Please quote "[PHD_AI4Health] - Your Current Programme – Name-You Preferred Starting Date". E.g, "[PHD_AI4Health] - MSc-University of Sheffield–Chen Chen-2025 Spring" in your email subject. 
-    - Due to the high volume of emails I receive, emails without strictly having this quote in the subject title may be automatically classified as spam and ignored. So please help me to catch up your email.  I am sorry that it is difficult to provide feedback to every applicant. Only shortlisted candidates will be noticed (usually within 1-2 weeks, you will receive my response asking you to fill a Google form for the next step). Please understand that failing to receive my response does not reflect your qualifications or potential for other PhD programs.
+    - Please send me your CV (grade, ranking, research experience included), transcripts, **first-authored** papers/thesis (please merge all into one single file) and other supporting materials (such as slides to show your research experience, or github website to show your past projects), to **enquiry.ai4health@gmail.com**.
+Please quote “[S3.5-COM-CChen2] - Your Current Programme – Name”. E.g, “[S3.5-COM-CChen2] - MSc-University of XXX–Chen Chen” in your email subject.
+
+Due to the high volume of emails I receive, emails without strictly having this quote in the subject title may be automatically classified as spam and ignored. So please help me to catch up your email.  I am sorry that it is difficult to provide feedback to every applicant. Only shortlisted candidates will be notified.
 
 # Others Scholarships
 
