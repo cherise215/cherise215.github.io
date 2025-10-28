@@ -10,7 +10,7 @@ author_profile: true
 University of Sheffield is ranked as top 10 in the UK for research in relevant AI/CV/NLP/ML/Complexity areas [CSRanking](https://csrankings.org/#/index?ai&vision&mlmining&nlp&act&uk).
 
 
-The application for the PhD program (26/27) is open. We may 1 fully funded PhD position (26/27): [Multi-modal Understanding of Human Heart (S3.5-COM-CChen2)](https://www.findaphd.com/phds/project/multi-modal-understanding-of-human-heart-s3-5-com-cchen2/?p188965)
+The application for the PhD program (26/27) is open. We have 1 fully funded PhD position (26/27): [Multi-modal Understanding of Human Heart (S3.5-COM-CChen2)](https://www.findaphd.com/phds/project/multi-modal-understanding-of-human-heart-s3-5-com-cchen2/?p188965)
 
 
 - How to apply: 

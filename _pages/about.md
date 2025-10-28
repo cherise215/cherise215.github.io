@@ -68,7 +68,7 @@ Before joining Sheffield, she was a post-doc at [Oxford BioMedIA](https://eng.ox
 
 Openning 
 ----
-<span style="color:red">We have 1 fully funded PhD position. (Deadline: 15/01/2026). <a href="vacancies.md" >Go to Vacancies page</a></span>
+<span style="color:red">We have 1 fully funded PhD position. (Deadline: 15/01/2026). <a href="vacancies" >Go to Vacancies page</a></span>
 
 News
 ----
