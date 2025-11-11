@@ -50,6 +50,8 @@ IEEE Transactions on Medical Imaging (TMI)
 
 IEEE Transactions on Image Processing (TIP)
 
+Medical Image Analysis (MedIA)
+
 IEEE Transactions on Big Data (TBD)
 
 IEEE Journal of Biomedical and Health Informatics (JBHI)
@@ -57,8 +59,6 @@ IEEE Journal of Biomedical and Health Informatics (JBHI)
 IEEE Access
 
 Machine Learning for Biomedical Imaging (MELBA)
-
-Medical Image Analysis (MedIA)
 
 Medical Physics
 
