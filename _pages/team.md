@@ -8,7 +8,7 @@ author_profile: true
 
 
 
-<img src= "images/Group-photo.PNG" width="350" class="image"><br />
+<img src= "/images/group_photo.png" width="350" class="image"><br />
 I have been fortunate and am always looking forward to working with a diverse group of talented students and colleagues.
 
 
