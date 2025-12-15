@@ -75,6 +75,10 @@ News
 <section class="panel">
 <div class="news-container">
 <div class="news-item">
+  <div class="date">12/2025</div>
+    <div class="p">Chen is invited to give a talk at King's College London, London, UK</div>
+  </div>
+<div class="news-item">
   <div class="date">10/2025</div>
     <div class="p"> Our article "Towards deployment-centric multimodal AI beyond vision and language" was published in <a href = "https://www.nature.com/articles/s42256-025-01116-5">Nature Machine Intelligence!</a></div>
   </div>

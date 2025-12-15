@@ -6,6 +6,9 @@ author_profile: true
 ---
 <img src= "/images/talk_2024.jpeg" width="350" class="image"><br />
 
+**"Limited Resources, Unlimited Impact: Multi-modal AI for Healthcare"**
+* [12/12/2025] King's College London, UK 
+
 **"Unlocking the Value of Single Modality through Multi-Modal Knowledge Transfer for Healthcare"**
 * [30/09/2025] Vector Institute, University of Toronto, Canada 
 * [24/09/2025] University of Calgary, Canada [website](https://events.ucalgary.ca/libin/event/499766-guest-speaker-dr-chen-cherise-chen-phd)
