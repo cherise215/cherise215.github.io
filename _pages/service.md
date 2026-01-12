@@ -12,6 +12,8 @@ Program Committee
 -----------------
 Program Chair, [MIDL 2025](https://2025.midl.io/)
 
+Area Chair, [IJCAI 2026](https://2026.ijcai.org/)
+
 Area Chair, [MICCAI 2025](https://conferences.miccai.org/2025/en/)
 
 Workshop Chair, [BMVC 2025](https://bmvc2025.bmva.org/)
@@ -37,7 +39,9 @@ Program Commitee Member, ECCV-MCV 2022
 Editorial Board
 ---------------
 
-Associate Editor: Journal of Visual Communication and Image Representation
+Associate Editor: [Journal of Visual Communication and Image Representation](https://www.sciencedirect.com/journal/journal-of-visual-communication-and-image-representation)
+
+Guest Editor: [Machine Learning for Biomedical Imaging](https://www.melba-journal.org/)
 
 Chair Editor: Generative Machine Learning Models in Medical Image Computing (A book published w/ Springer Nature, 2025) [Online](https://link.springer.com/book/10.1007/978-3-031-80965-1)
 
