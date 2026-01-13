@@ -77,7 +77,8 @@ News
 <div class="news-item">
   <div class="date">01/2026</div>
     <div class="p">One paper is accepted at <a href="https://biomedicalimaging.org/2026/">International Symposium on Biomedical Imaging 2026 (ISBI 2026)</a> in London, UK! Congrats to Farheen! </div>
-  </div>
+</div>
+<div class="news-item">
 <div class="date">12/2026</div>
     <div class="p">Chen is invited to serve as an Area Chair for <a href ="https://2026.ijcai.org/">IJCAI 2026</a> </div>
   </div>
