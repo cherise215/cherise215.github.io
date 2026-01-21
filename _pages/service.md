@@ -10,31 +10,19 @@ author_profile: true
 
 Program Committee
 -----------------
-Program Chair, [MIDL 2025](https://2025.midl.io/)
+Program Chair: [MIDL 2025](https://2025.midl.io/)
 
-Area Chair, [IJCAI 2026](https://2026.ijcai.org/)
+Area Chair: [IJCAI 2026](https://2026.ijcai.org/); [MICCAI 2025](https://conferences.miccai.org/2025/en/); [MICCAI 2024](https://conferences.miccai.org/2024/en/)
 
-Area Chair, [MICCAI 2025](https://conferences.miccai.org/2025/en/)
+Workshop Chair: [BMVC 2025](https://bmvc2025.bmva.org/)
 
-Workshop Chair, [BMVC 2025](https://bmvc2025.bmva.org/)
+Workshop/Special Session Organizer: [Special session: Multimodal Generative AI in Healthcare, in the second International Conference on Artificial Intelligence in Healthcare (AIiH 2025)](https://aiih.cc/mmgenaihealth/); [MICCAI ADSMI 2024](https://adsmi-miccai.github.io/); [The second workshop on Multimodal AI (UK),2024](https://multimodalai.github.io/); [MICCAI 2023 DALI workshop](https://dali-miccai.github.io/)
 
-Organizer, [Special session: Multimodal Generative AI in Healthcare, in the second International Conference on Artificial Intelligence in Healthcare (AIiH 2025)](https://aiih.cc/mmgenaihealth/)
+Challenge Organizer: [FETUS 2026: Fetal HearT UltraSound Segmentation and Sizing Challenge](http://119.29.231.17:90/); [MICCAI 2022 CMRxMotion Challenge ](http://cmr.miccai.cloud/)
 
+Session Chair: [BMVC 2025](https://bmvc2025.bmva.org/), [MICCAI 2024](https://conferences.miccai.org/2024/en/); [International Conference on Artificial Intelligence in Healthcare (AIiH 2025)](https://aiih.cc/mmgenaihealth/)
 
-Program Committee Member, [ACM MM 2025: The 2nd International Workshop on Multimedia Computing for Health and Medicine](https://weizhou-geek.github.io/workshop/MM2025.html)
-
-Area Chair & Session Chair on Health Inequity, [MICCAI 2024](https://conferences.miccai.org/2024/en/)
-
-Workshop Lead Organizer [MICCAI ADSMI 2024](https://adsmi-miccai.github.io/)
-
-Workshop  Co-organizer [The second workshop on Multimodal AI (UK),2024](https://multimodalai.github.io/)
-
-
-Workshop Lead Organizer, [MICCAI 2023 DALI workshop](https://dali-miccai.github.io/), MICCAI 2023
-
-Challenge Organizer, [CMRxMotion ](http://cmr.miccai.cloud/)Challenge in the STACOM 2022 workshop, MICCAI 2022
-
-Program Commitee Member, ECCV-MCV 2022
+Program Committee Member: [ACM MM 2025: The 2nd International Workshop on Multimedia Computing for Health and Medicine](https://weizhou-geek.github.io/workshop/MM2025.html); ECCV-MCV 2022
 
 Editorial Board
 ---------------
@@ -73,6 +61,8 @@ Journal of Medical Internet Research (JMIR)
 PLOS ONE 
 
 **Conferences:**
+
+Conference on Computer Vision and Pattern Recognition 2026 (CVPR)
 
 Annual AAAI Conference on Artificial Intelligence (AAAI)
 
