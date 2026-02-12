@@ -10,7 +10,7 @@ author_profile: true
 University of Sheffield is ranked as top 10 in the UK for research in relevant AI/CV/NLP/ML/Complexity areas [CSRanking](https://csrankings.org/#/index?ai&vision&mlmining&nlp&act&uk).
 
 # Postdoc
-We are happy to support outstanding research scientists to apply fellowships. Please share with me your research ideas by sending an email to **chen.chen2 [at] sheffield [dot]com**.
+We are happy to support outstanding research scientists to apply fellowships. Please share with me your research ideas by sending an email to **chen.chen2 [at] sheffield [dot]ac[dot]uk**.
 - [Newton International Fellowships](https://royalsociety.org/grants/newton-international/). Please this is for non-UK, early career scientists (no more than five year post-doc experience).  
 - [Marie Sklodowska-Curie Postdoctoral Fellowship](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships)
 - [Royalcommission1851.org](https://royalcommission1851.org/fellowships/industrial-fellowships). Please note that this is very competitive. The applicant must have a good first degree in engineering, science, medicine or design. At the time of applying, you must be (1):  currently employed by a UK-based company or (2) 1-year or 2-year CDT/Case PhD students strongly coupled with company in UK; and working on a research and/or development topic potentially leading to a patent, product, process or service in conjunction with a higher academic award. 
