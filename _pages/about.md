@@ -72,11 +72,11 @@ News
 <div class="news-container">
 <div class="news-item">
   <div class="date">02/2026</div>
-    <div class="p"> We are organizing a Special Session: Multimodal Generative AI in Healthcare at AIiH (2026), Imperial College London, UK (26 August-28 August, 2026) <a href="https://aiih.cc/special-session-multimodal-generative-ai-in-healthcare/">link</a>>. </div>
+    <div class="p"> We are organizing a Special Session: Multimodal Generative AI in Healthcare at AIiH (2026), Imperial College London, UK (26 August-28 August, 2026) <a href="https://aiih.cc/special-session-multimodal-generative-ai-in-healthcare/">link</a>. </div>
 </div>
 <div class="news-item">
   <div class="date">02/2026</div>
-    <div class="p"> We are organizing an ELLIS Summer School focusing on Machine Learning for Healthcare and Biology in Manchester, UK (July 7-9, 2026) <a href="https://www.ellismcr.org/summerschool"> link</a>>. </div>
+    <div class="p"> We are organizing an ELLIS Summer School focusing on Machine Learning for Healthcare and Biology in Manchester, UK (July 7-9, 2026) <a href="https://www.ellismcr.org/summerschool"> link</a>. </div>
 </div>
 <div class="news-item">
   <div class="date">01/2026</div>
