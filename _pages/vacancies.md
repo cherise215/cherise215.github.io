@@ -9,29 +9,26 @@ author_profile: true
 
 University of Sheffield is ranked as top 10 in the UK for research in relevant AI/CV/NLP/ML/Complexity areas [CSRanking](https://csrankings.org/#/index?ai&vision&mlmining&nlp&act&uk).
 
+# Postdoc
+We are happy to support outstanding research scientists to apply fellowships. Please share with me your research ideas by sending an email to **chen.chen2 [at] sheffield [dot]com**.
+- [Newton International Fellowships](https://royalsociety.org/grants/newton-international/). Please this is for non-UK, early career scientists (no more than five year post-doc experience).  
+- [Marie Sklodowska-Curie Postdoctoral Fellowship](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships)
+- [Royalcommission1851.org](https://royalcommission1851.org/fellowships/industrial-fellowships). Please note that this is very competitive. The applicant must have a good first degree in engineering, science, medicine or design. At the time of applying, you must be (1):  currently employed by a UK-based company or (2) 1-year or 2-year CDT/Case PhD students strongly coupled with company in UK; and working on a research and/or development topic potentially leading to a patent, product, process or service in conjunction with a higher academic award. 
 
-The application for the PhD program (26/27) is open. We have 1 fully funded PhD position (26/27): [Multi-modal Understanding of Human Heart (S3.5-COM-CChen2)](https://www.findaphd.com/phds/project/multi-modal-understanding-of-human-heart-s3-5-com-cchen2/?p188965)
 
+# PhD 
+The application for the sheffield-funded PhD program (26/27) is closed. If you are interested in exploring other routes (with funding support from your own sources, e.g., Commonwealth PhD Scholarships). Please send me an email to **enquiry.ai4health@gmail.com**.
 
-- How to apply: 
-    - Please send me your CV (grade, ranking, research experience included), transcripts, **first-authored** papers/thesis (please merge all into one single file) and other supporting materials (such as slides to show your research experience, or github website to show your past projects), to **enquiry.ai4health@gmail.com**.
-Please quote “[S3.5-COM-CChen2] - Your Current Programme – Name”. E.g, “[S3.5-COM-CChen2] - MSc-University of XXX–Chen Chen” in your email subject.
+- Please quote “[S3.5-COM-CChen2] - Your Current Programme – Name”. E.g, “[S3.5-COM-CChen2] - MSc-University of XXX–Chen Chen” in your email subject.
+- Provide your CV (grade, ranking, research experience included, Github, Google Scholar), transcripts, **first-authored** papers/thesis (please merge all into one single file) and other supporting materials (such as slides to show your research experience).
 
 Due to the high volume of emails I receive, emails without strictly having this quote in the subject title may be automatically classified as spam and ignored. So please help me to catch up your email.  I am sorry that it is difficult to provide feedback to every applicant. Only shortlisted candidates will be notified.
 
-# Others Scholarships
-
-**Commonwealth Phd Scholarship**
-- for both students from certain [low-income countries](https://cscuk.fcdo.gov.uk/scholarships/commonwealth-phd-scholarships-for-least-developed-countries-and-fragile-states/) and certain [high-income contries](https://cscuk.fcdo.gov.uk/scholarships/commonwealth-phd-scholarships-for-high-income-countries/)
-
-**University Scholarships**
-- [details](https://www.sheffield.ac.uk/postgraduate/phd/scholarships)
+Some PhD studentships can be found below:
+- Commonwealth Phd Scholarship for both students from certain [low-income countries](https://cscuk.fcdo.gov.uk/scholarships/commonwealth-phd-scholarships-for-least-developed-countries-and-fragile-states/) and certain [high-income contries](https://cscuk.fcdo.gov.uk/scholarships/commonwealth-phd-scholarships-for-high-income-countries/)
+- [Sheffield University Scholarships](https://www.sheffield.ac.uk/postgraduate/phd/scholarships)
 
 
-**External Project Opportunities**
-We are also happy to support strong applicants for their applications via external funding body, with industry partners. 
-- [royalcommission1851.org](https://royalcommission1851.org/fellowships/industrial-fellowships). Please note that this is very competitive. The applicant must have a good first degree in engineering, science, medicine or design. At the time of applying, you must be (1):  currently employed by a UK-based company or (2) 1-year or 2-year CDT/Case PhD students strongly coupled with company in UK; and working on a research and/or development topic potentially leading to a
-patent, product, process or service in conjunction with a higher academic award. 
 
 # Visiting opportunities
 
@@ -44,7 +41,6 @@ patent, product, process or service in conjunction with a higher academic award.
     - [Research Mobility Programme](https://www.sheffield.ac.uk/internationalpartnerships/wun/rmp). This program provides 2 weeks to 3 months for Staff and PGs to work with hosts in any WUN partner [details](https://wun.ac.uk/mobility/).
     - [China Scholarship Council](https://www.csc.edu.cn/chuguo)
     - [Commonwealth Split-site PhD Scholarship](https://cscuk.fcdo.gov.uk/scholarships/commonwealth-split-site-scholarships-for-low-and-middle-income-countries/)
-
 
 
 # About University of Sheffield and Sheffield
