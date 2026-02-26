@@ -12,6 +12,7 @@ author_profile: true
 <img src= "/images/panel_2025.jpeg" width="350" class="image">
  </div>
  </div>
+ </br>
 Program Committee
 -----------------
 Program Chair: [MIDL 2025](https://2025.midl.io/)
