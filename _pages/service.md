@@ -6,8 +6,12 @@ author_profile: true
 ---
 {% include base_path %}
 
-<img src= "/images/miccai24-chair.jpeg" width="350" class="image"><br />
-
+<div id="pictures">
+<div class="pic1">
+<img src= "/images/miccai24-chair.jpeg" width="350" class="image">
+<img src= "/images/panel_2025.jpeg" width="350" class="image">
+ </div>
+ </div>
 Program Committee
 -----------------
 Program Chair: [MIDL 2025](https://2025.midl.io/)

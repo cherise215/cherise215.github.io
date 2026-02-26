@@ -4,9 +4,15 @@ title: "Invited Talks"
 permalink: /talks/
 author_profile: true
 ---
-<img src= "/images/talk_2024.jpeg" width="350" class="image"><br />
+<div id="pictures">
+<div class="pic1">
+<img src= "/images/talk_2024.jpeg" width="350" class="image">
+<img src= "/images/talk_2025.jpeg" width="350" class="image">
+ </div>
+ </div>
+ 
 
-**"Limited Resources, Unlimited Impact: Multi-modal AI for Healthcare"**
+**"Limited Resources, Unlimited Impact: Multi-modal AI for Healthcare"** 
 * [12/12/2025] King's College London, UK 
 
 **"Unlocking the Value of Single Modality through Multi-Modal Knowledge Transfer for Healthcare"**
