@@ -335,15 +335,18 @@ News
 
 Awards and honours
 ------------------
-- 2025: Best Paper Award at the International Conference on Artificial Intelligence in Healthcare (AIiH 2025), Cambridge
-- 2024-: ELLIS Scholar
-- 2024: IEEE TMI *Silver Level* Distinguished Reviewer (2023 – 2024)
-- 2023: IEEE TMI *Gold-level* Distinguished Reviewer (2022-2023)
-- 2023: MICCAI 2023 Outstanding Reviewer (top 12)
-- 2022: IEEE TMI *Gold-level* Distinguished Reviewer (2020-2022)
+- 2025:<a href="https://aiih.cc/awards-2025/">Best Paper Award at the International Conference on Artificial Intelligence in Healthcare (AIiH 2025), Cambridge</a>
+- 2024: Young Scientist Award Finalist, MICCAI 2024
+- 2024-: <a href="https://ellis.eu/members/fellows">ELLIS Scholar, European Laboratory for Learning and Intelligent System</a>, 
+- 2023-2026: Honorary Research Fellow, Imperial College London
+
+Awards for Reviewing:
+- 2023: <a href="https://conferences.miccai.org/2023/en/MICCAI-2023-OUTSTANDING-REVIEWERS-AWARDS.html">MICCAI 2023 Outstanding Reviewer (top 12)</a>
+- 2022, 2023, 2024: IEEE TMI Distinguished Reviewer ( *Gold-level* in 2020-2022, 2022-2023, *Silver Level* in 2023 – 2024)
+
+Winners of International Challenges: 
 - 2022: *Winner* of the Fetal Tissue Annotation and Segmentation Challenge (FeTA) 2022
 - 2019: *Winner* of the Multi-sequence Cardiac MR Segmentation Challenge 2019
-- 2012&2013: China National Scholarships (twice) (top 0.2%): The highest level of national scholarships in China.
 
 Contact
 -------
