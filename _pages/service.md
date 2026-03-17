@@ -24,8 +24,8 @@ Senior Program Chair Advisory Committee Chairs:
 - [MIDL 2026](https://2026.midl.io/organization)
 
 Area Chair: 
-- [IJCAI 2026](https://2026.ijcai.org/); 
-- [MICCAI 2025](https://conferences.miccai.org/2025/en/); 
+- [IJCAI 2026](https://2026.ijcai.org/)
+- [MICCAI 2025](https://conferences.miccai.org/2025/en/)
 - [MICCAI 2024](https://conferences.miccai.org/2024/en/)
 
 Workshop Chair: 
@@ -33,9 +33,9 @@ Workshop Chair:
 
 Workshop/Special Session Organizer: 
 - [BMVC 2025](https://bmvc2025.bmva.org/)
-- [Special session: Multimodal Generative AI in Healthcare, in the second International Conference on Artificial Intelligence in Healthcare (AIiH 2025&2026)](https://aiih.cc/mmgenaihealth/); 
-- [MICCAI ADSMI 2024](https://adsmi-miccai.github.io/); 
-- [The second workshop on Multimodal AI (UK),2024](https://multimodalai.github.io/); 
+- [Special session: Multimodal Generative AI in Healthcare, in the second International Conference on Artificial Intelligence in Healthcare (AIiH 2025&2026)](https://aiih.cc/mmgenaihealth/)
+- [MICCAI ADSMI 2024](https://adsmi-miccai.github.io/)
+- [The second workshop on Multimodal AI (UK),2024](https://multimodalai.github.io/) 
 - [MICCAI 2023 DALI workshop](https://dali-miccai.github.io/)
 
 Challenge Organizer: 
@@ -43,14 +43,14 @@ Challenge Organizer:
 - [MICCAI 2022 CMRxMotion Challenge ](http://cmr.miccai.cloud/)
 
 Session Chair: 
-- [ISBI 2026](); 
-- [BMVC 2025](https://bmvc2025.bmva.org/);
--  [MICCAI 2024](https://conferences.miccai.org/2024/en/); 
+- [ISBI 2026](https://biomedicalimaging.org/2026/)
+- [BMVC 2025](https://bmvc2025.bmva.org/)
+-  [MICCAI 2024](https://conferences.miccai.org/2024/en/)
 - [International Conference on Artificial Intelligence in Healthcare (AIiH 2025)](https://aiih.cc/mmgenaihealth/)
 
 Program Committee Member: 
-- [ACM MM 2025: The 2nd International Workshop on Multimedia Computing for Health and Medicine](https://weizhou-geek.github.io/workshop/MM2025.html); 
-- ECCV-MCV 2022
+- [ACM MM 2025: The 2nd International Workshop on Multimedia Computing for Health and Medicine](https://weizhou-geek.github.io/workshop/MM2025.html)
+- [ECCV-MCV 2022](https://mcv-workshop.github.io/previous/eccv2022.html)
 
 Editorial Board
 ---------------
