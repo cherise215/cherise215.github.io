@@ -71,6 +71,18 @@ News
 <section class="panel">
 <div class="news-container">
 <div class="news-item">
+  <div class="date">04/2026</div>
+    <div class="p"> Chen is invited to join the panel discussion "Shaping Careers in the Age of AI: Voices, Paths, and Perspectives" at <a href="https://biomedicalimaging.org/2026/diversity-lunch/">Diversity Lunch</a>, ISBI 2026 on 10th April, 2026.</div>
+</div>
+<div class="news-item">
+  <div class="date">04/2026</div>
+    <div class="p"> Chen is invited to give a talk at the ISBI workshop "Exploring Foundation Models in Medical Image Analysis: Applications, Challenges, and Uncertainties" on 9th April, 2026.</div>
+</div>
+<div class="news-item">
+  <div class="date">03/2026</div>
+    <div class="p">Our paper on ECG-informed scar segmentation from cardiac LGE images has been selected to give an oral presentation at <a href="https://biomedicalimaging.org/2026/">International Symposium on Biomedical Imaging 2026 (ISBI 2026)</a> in London, UK! Congrats to Farheen! Check out <a href="https://arxiv.org/abs/2511.14702">our paper</a>> for more details! </div>
+</div>
+<div class="news-item">
   <div class="date">02/2026</div>
     <div class="p"> We are organizing a Special Session: Multimodal Generative AI in Healthcare at AIiH (2026), Imperial College London, UK (26 August-28 August, 2026) <a href="https://aiih.cc/special-session-multimodal-generative-ai-in-healthcare/">link</a>. </div>
 </div>
