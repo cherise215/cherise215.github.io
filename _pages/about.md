@@ -80,7 +80,7 @@ News
 </div>
 <div class="news-item">
   <div class="date">03/2026</div>
-    <div class="p">Our paper on ECG-informed scar segmentation from cardiac LGE images has been selected to give an oral presentation at <a href="https://biomedicalimaging.org/2026/">International Symposium on Biomedical Imaging 2026 (ISBI 2026)</a> in London, UK! Congrats to Farheen! Check out <a href="https://arxiv.org/abs/2511.14702">our paper</a>> for more details! </div>
+    <div class="p">Our paper on ECG-informed scar segmentation from cardiac LGE images has been selected to give an oral presentation at <a href="https://biomedicalimaging.org/2026/">International Symposium on Biomedical Imaging 2026 (ISBI 2026)</a> in London, UK! Congrats to Farheen! Check out <a href="https://arxiv.org/abs/2511.14702">our paper</a> for more details! </div>
 </div>
 <div class="news-item">
   <div class="date">02/2026</div>
