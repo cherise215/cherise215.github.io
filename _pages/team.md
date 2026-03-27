@@ -30,13 +30,15 @@ University of Sheffield:
 * [Farheen Ramzan](https://scholar.google.com/citations?user=PlJD884AAAAJ&hl=en&inst=12733411405069140160) (co-supervised with Prof. [Richard Clayton](https://www.sheffield.ac.uk/dcs/people/academic/richard-clayton)) (2022-)
 
 
+Technical University of Munich
+* [Chengzhi Shen](https://scholar.google.com/citations?user=5bgtMIUAAAAJ&hl=en&inst=12733411405069140160)(co-advised with Prof. [Daniel Rueckert](https://scholar.google.com/citations?user=H0O0WnQAAAAJ&hl=en)) (2025-)
 
 Alumni
 ------
 
 Technical University of Munich:
 
-* [Jingjie Guo ](https://www.linkedin.com/in/jingjie-g-6897a4247/)(MSc, 2022-2023, Now Data Scientist @Schwarz IT).
+* [Jingjie Guo ](https://www.linkedin.com/in/jingjie-g-6897a4247/)(MSc, co-advised with Prof. [Daniel Rueckert](https://scholar.google.com/citations?user=H0O0WnQAAAAJ&hl=en), 2022-2023, Now Data Scientist @Schwarz IT).
 * [Jiazhen Pan](https://aim-lab.io/author/jiazhen-pan/) (co-advised with Prof. [Daniel Rueckert](https://scholar.google.com/citations?user=H0O0WnQAAAAJ&hl=en)) (2020-2025), Now Post-doc at TUM
 
 
