@@ -72,6 +72,10 @@ News
 <div class="news-container">
 <div class="news-item">
   <div class="date">04/2026</div>
+    <div class="p">One paper focuses on speech representation learning got accepted at <a href="https://2026.aclweb.org/">ACL 2026 (main conference)</a>. Congratulations to Wenjie Peng!</div>
+</div>
+<div class="news-item">
+  <div class="date">04/2026</div>
     <div class="p"> Chen is invited to join the panel discussion "Shaping Careers in the Age of AI: Voices, Paths, and Perspectives" at <a href="https://biomedicalimaging.org/2026/diversity-lunch/">Diversity Lunch</a>, ISBI 2026 on 10th April, 2026.</div>
 </div>
 <div class="news-item">
