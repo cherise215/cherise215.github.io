@@ -80,7 +80,7 @@ News
 </div>
 <div class="news-item">
   <div class="date">04/2026</div>
-    <div class="p"> Chen is invited to give a talk at the ISBI workshop "Exploring Foundation Models in Medical Image Analysis: Applications, Challenges, and Uncertainties" on 9th April, 2026.</div>
+    <div class="p"> Chen is invited to give a talk at the ISBI workshop "Exploring Foundation Models in Medical Image Analysis: Applications, Challenges, and Uncertainties" on 10th April, 2026.</div>
 </div>
 <div class="news-item">
   <div class="date">03/2026</div>
