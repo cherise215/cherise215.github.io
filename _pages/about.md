@@ -71,6 +71,10 @@ News
 <section class="panel">
 <div class="news-container">
 <div class="news-item">
+  <div class="date">05/2026</div>
+    <div class="p">Chen is invited to give a keynote at the <a href="https://stacom.github.io/stacom2026/">STACOM workshop, MICCAI 2026</a>!</div>
+</div>
+<div class="news-item">
   <div class="date">04/2026</div>
     <div class="p">One paper focuses on speech representation learning got accepted at <a href="https://2026.aclweb.org/">ACL 2026 (main conference)</a>. Congratulations to Wenjie Peng!</div>
 </div>
