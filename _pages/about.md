@@ -72,7 +72,11 @@ News
 <div class="news-container">
 <div class="news-item">
   <div class="date">05/2026</div>
-    <div class="p">Chen is invited to give a keynote at the <a href="https://stacom.github.io/stacom2026/">STACOM workshop, MICCAI 2026</a>!</div>
+    <div class="p">One paper on the topic of adversarial robustness is accepted at <a href="https://icml.cc/">The International Conference on Machine Learning (ICML) 2026</a>!</div>
+</div>
+<div class="news-item">
+  <div class="date">05/2026</div>
+    <div class="p">Chen is invited to give a keynote at the <a href="https://stacom.github.io/stacom2026/">17th STACOM workshop, MICCAI 2026, Strasbourg， France</a>!</div>
 </div>
 <div class="news-item">
   <div class="date">04/2026</div>
