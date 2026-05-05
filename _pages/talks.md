@@ -13,7 +13,8 @@ author_profile: true
  
 
 **"Limited Resources, Unlimited Impact: Multi-modal AI for Healthcare"** 
-* [12/12/2025] King's College London, UK 
+* [10/04/2026] ISBI workshop "Exploring Foundation Models in Medical Image Analysis: Applications, Challenges, and Uncertainties" (in person, London Excel Conference Center)
+* [12/12/2025] King's College London, UK (in person)
 
 **"Unlocking the Value of Single Modality through Multi-Modal Knowledge Transfer for Healthcare"**
 * [30/09/2025] Vector Institute, University of Toronto, Canada 
