@@ -72,6 +72,11 @@ News
 <div class="news-container">
 <div class="news-item">
   <div class="date">05/2026</div>
+    <div class="p">One abstract on the topic of ECG for risk prediction is accepted at  <a href="https://www.escardio.org/events/congresses/esc-congress/">ESC congress 2026</a>! Congratulations to Xuelong An!</div>
+</div>
+
+<div class="news-item">
+  <div class="date">05/2026</div>
     <div class="p">One paper on the topic of adversarial robustness is accepted at <a href="https://icml.cc/">The International Conference on Machine Learning (ICML) 2026</a>!</div>
 </div>
 <div class="news-item">
