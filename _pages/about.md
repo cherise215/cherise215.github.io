@@ -364,7 +364,8 @@ News
 
 Awards and honours
 ------------------
-- 2025:<a href="https://aiih.cc/awards-2025/">Best Paper Award at the International Conference on Artificial Intelligence in Healthcare (AIiH 2025), Cambridge</a>
+- 2026: Inspiring Student Worker - Employer (on campus) (Winner Award), University of Sheffield</a>
+- 2025: <a href="https://aiih.cc/awards-2025/">Best Paper Award at the International Conference on Artificial Intelligence in Healthcare (AIiH 2025), Cambridge</a>
 - 2024: Young Scientist Award Finalist, MICCAI 2024
 - 2024-: <a href="https://ellis.eu/members/fellows">ELLIS Scholar, European Laboratory for Learning and Intelligent System</a>, 
 - 2023-2026: Honorary Research Fellow, Imperial College London
