@@ -72,6 +72,14 @@ News
 <div class="news-container">
 <div class="news-item">
   <div class="date">05/2026</div>
+    <div class="p">Our ACL paper on speech representation learning is selected to give an ORAL presentation at  <a href="https://2026.aclweb.org/">ACL 2026</a>! Congratulations to Wenjie Peng!</div>
+</div>
+<div class="news-item">
+  <div class="date">05/2026</div>
+    <div class="p">One abstract on the topic of ECG for risk prediction is accepted at  <a href="https://vph-conference.org/">VPH conference 2026</a>! Congratulations to Xuelong An!</div>
+</div>
+<div class="news-item">
+  <div class="date">05/2026</div>
     <div class="p">One abstract on the topic of ECG for risk prediction is accepted at  <a href="https://www.escardio.org/events/congresses/esc-congress/">ESC congress 2026</a>! Congratulations to Xuelong An!</div>
 </div>
 
@@ -364,7 +372,7 @@ News
 
 Awards and honours
 ------------------
-- 2026: Inspiring Student Worker - Employer (on campus) (Winner Award), University of Sheffield</a>
+- 2026: Inspiring Student Worker - Employer (on campus) (Winner Award), University of Sheffield
 - 2025: <a href="https://aiih.cc/awards-2025/">Best Paper Award at the International Conference on Artificial Intelligence in Healthcare (AIiH 2025), Cambridge</a>
 - 2024: Young Scientist Award Finalist, MICCAI 2024
 - 2024-: <a href="https://ellis.eu/members/fellows">ELLIS Scholar, European Laboratory for Learning and Intelligent System</a>, 
