@@ -31,7 +31,7 @@ University of Sheffield:
 
 
 Technical University of Munich
-* [Chengzhi Shen]()(co-advised with Prof. [Daniel Rueckert](https://chengzhi-leo.github.io/)) (2025-)
+* [Chengzhi Shen](https://chengzhi-leo.github.io/)(co-advised with Prof. [Daniel Rueckert](https://scholar.google.com/citations?user=H0O0WnQAAAAJ&hl=en)) (2025-)
 
 Alumni
 ------
