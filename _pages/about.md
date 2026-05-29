@@ -72,6 +72,10 @@ News
 <div class="news-container">
 <div class="news-item">
   <div class="date">05/2026</div>
+    <div class="p">Our paper on Red Teaming for Medical LLMs is accepted at Nature Health! Congratulations to Dr. Jiazhen Pan!</div>
+</div>
+<div class="news-item">
+  <div class="date">05/2026</div>
     <div class="p">Our ACL paper on speech representation learning is selected to give an ORAL presentation at  <a href="https://2026.aclweb.org/">ACL 2026</a>! Congratulations to Wenjie Peng!</div>
 </div>
 <div class="news-item">
