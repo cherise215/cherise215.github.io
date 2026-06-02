@@ -72,7 +72,7 @@ News
 <div class="news-container">
 <div class="news-item">
   <div class="date">05/2026</div>
-    <div class="p">Our paper on Red Teaming for Medical LLMs is accepted at Nature Health! Congratulations to Dr. Jiazhen Pan!</div>
+    <div class="p">Our paper on Red Teaming for Medical LLMs is accepted at <a href="https://www.nature.com/naturehealth/">Nature Health</a>! Congratulations to Dr. Jiazhen Pan!</div>
 </div>
 <div class="news-item">
   <div class="date">05/2026</div>
