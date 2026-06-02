@@ -9,7 +9,7 @@ redirect_from:
 ---
 <div class="motto-section">
  <p class="motto">
-  Be water. 居善地，心善渊，与善仁，言善信，政善治，事善能，动善时。
+  Be water. To strive, to seek, to find, and not to yield.
  </p>
 </div>
 
