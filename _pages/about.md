@@ -72,7 +72,7 @@ News
 <div class="news-container">
 <div class="news-item">
   <div class="date">05/2026</div>
-    <div class="p">Congratulations to Dr. Farheen Ramzan, passing her viva with minor correction!</div>
+    <div class="p">Congratulations to Dr. Farheen Ramzan, passing her PhD viva with minor correction!</div>
 </div>
 <div class="news-item">
   <div class="date">05/2026</div>
