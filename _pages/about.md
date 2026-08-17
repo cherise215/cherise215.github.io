@@ -72,6 +72,10 @@ News
 <div class="news-container">
 <div class="news-item">
   <div class="date">08/2026</div>
+    <div class="p">Congratulations to Tanay Patel on the acceptance of his abstract paper at AIiH 2026! This work is derived from his undergraduate dissertation project.</div>
+</div>
+<div class="news-item">
+  <div class="date">08/2026</div>
     <div class="p">Congratulations to Zhengxuan Song for his paper got accepted at CARE 2026, MICCAI 2026!</div>
 </div>
 <div class="news-item">
