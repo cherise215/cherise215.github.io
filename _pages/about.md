@@ -71,6 +71,10 @@ News
 <section class="panel">
 <div class="news-container">
 <div class="news-item">
+  <div class="date">08/2026</div>
+    <div class="p">Congratulations to Zhengxuan Song for his paper got accepted at CARE 2026, MICCAI 2026!</div>
+</div>
+<div class="news-item">
   <div class="date">05/2026</div>
     <div class="p">Congratulations to Dr. Farheen Ramzan, passing her PhD viva with minor correction!</div>
 </div>
