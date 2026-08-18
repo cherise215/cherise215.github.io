@@ -72,7 +72,7 @@ News
 <div class="news-container">
 <div class="news-item">
   <div class="date">08/2026</div>
-    <div class="p">Congratulations to Tanay Patel on the acceptance of his abstract paper at AIiH 2026! This work is derived from his undergraduate dissertation project.</div>
+    <div class="p">Congratulations to Tanay Patel on the acceptance of his abstract paper at AIiH 2026! This work is derived from his undergraduate dissertation project. Check out the <a href="https://zenodo.org/records/21922076">abstract</a> for more details! </div>
 </div>
 <div class="news-item">
   <div class="date">08/2026</div>
