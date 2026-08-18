@@ -12,6 +12,69 @@ Selected Publications
 ---------------------
 
 ****
+## 2026
+
+<div class="publication-block">
+    <div class="publication-info">
+        <div class="publication-title">
+        Are ECG Foundation Models Always Better? A Study of Heart Failure Risk Prediction and Fairness </div>
+        <h3 class="conference-name">International Conference on AI in Healthcare (AIiH) 2026</h3>   
+        <p class="author-name">Tanay Patel, Xuelong An, <strong>Chen Chen</strong></p>
+        <div class="links">
+            <a href="https://zenodo.org/records/21922076" class="pdf">PDF</a>
+            <a href="https://drive.google.com/file/d/1kn-7KVvg333zRYCPLpf6VgRTc47CNxYa/view?usp=sharing" class="pdf">Poster</a>
+        </div>
+    </div>
+</div>
+
+<div class="publication-block">
+    <div class="publication-info">
+        <div class="publication-title">
+         Addressing benchmarking gaps in large language models for health and medicine with dynamic red-teaming
+        </div>
+    <p align="center"> <a href="/images/dynamic_red_teaming.png">
+    <img src="/images/dynamic_red_teaming.png" alt="dynamic_red_teaming" class="publication-image" onclick="expandImage(this, '/images/dynamic_red_teaming.png')"></a>
+        </p>
+        <h3 class="conference-name">Nature Health</h3>   
+        <p class="author-name">Jiazhen Pan, Bailiang Jian, Paul Hager, Yundi Zhang,..., <strong>Chen Chen</strong>,Christian Wachinger, Zhenyu Gong, Cheng Ouyang, Georgios Kaissis, Benedikt Wiestler, Daniel Rueckert</p>
+        <div class="links">
+            <a href="https://www.nature.com/articles/s44360-026-00152-8" class="pdf">PDF</a>
+            <a href="https://github.com/JZPeterPan/DAS-Medical-Red-Teaming-Agents" class="code">Github</a>
+        </div>
+    </div>
+</div>
+
+<div class="publication-block">
+    <div class="publication-info">
+        <div class="publication-title">
+        Difference in Task Performance on Sparse Speech Representations
+        </div>
+    <p align="center"> <a href="/images/ACL_speech_representation.png">
+    <img src="/images/ACL_speech_representation.png" alt="speech representation learning" class="publication-image" onclick="expandImage(this, '/images/ACL_speech_representation.png')"></a>
+        </p>
+        <h3 class="conference-name">ACL 2026 (Oral Presentation)</h3>   
+        <p class="author-name">Wenjie Peng,<strong>Chen Chen</strong>, Thomas Hain</p>
+        <div class="links">
+            <a href="https://aclanthology.org/2026.acl-long.1303.pdf" class="pdf">PDF</a>
+        </div>
+    </div>
+</div>
+
+<div class="publication-block">
+    <div class="publication-info">
+        <div class="publication-title">
+        Seeing Beyond the Image: ECG and Anatomical Knowledge-Guided Myocardial Scar Segmentation from Late Gadolinium-Enhanced Images</div>
+    <p align="center"> <a href="/images/ECG-MRI.png">
+    <img src="/images/ECG-MRI.png" alt="ECG MRI" class="publication-image" onclick="expandImage(this, '/images/ECG-MRI.png')"></a>
+        </p>
+        <h3 class="conference-name"> IEEE International Symposium on Biomedical Imaging (ISBI) 2026 (Oral Presentation)</h3>   
+        <p class="author-name">Farheen Ramzan, Yusuf Kiberu, Nikesh Jathanna, Meryem Jabrane, Vicente Grau, Shahnaz Jamil-Copley, Richard H Clayton, <strong>Chen Chen</strong></p>
+        <div class="links">
+            <a href="https://ieeexplore.ieee.org/abstract/document/11515710/" class="pdf">PDF</a>
+        </div>
+    </div>
+</div>
+
 ## 2025
 
 <div class="publication-block">
