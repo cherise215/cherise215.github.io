@@ -71,6 +71,14 @@ News
 <section class="panel">
 <div class="news-container">
 <div class="news-item">
+  <div class="date">09/2026</div>
+    <div class="p">Chen was invited to give a keynote at STACOM 2026. Check out the <a href="https://www.linkedin.com/feed/update/urn:li:activity:7512841146323275776/">LinkedIn Post</a> for more details! </div>
+</div>
+<div class="news-item">
+  <div class="date">09/2026</div>
+    <div class="p">One paper on benchmarking LLM agents for ICU got accepted at NeurIPS 2026. Please check out the <a href="https://chengzhi-leo.github.io/RealICU-Bench/">project page</a> for more details! </div>
+</div>
+<div class="news-item">
   <div class="date">08/2026</div>
     <div class="p">Congratulations to Tanay Patel on the acceptance of his abstract paper at AIiH 2026! This work is derived from his undergraduate dissertation project. Check out the <a href="https://zenodo.org/records/21922076">abstract</a> for more details! </div>
 </div>
