@@ -13,6 +13,7 @@ author_profile: true
  
 
 **"Limited Resources, Unlimited Impact: Multi-modal AI for Healthcare"** 
+* [27/09/2026] Keynote at STACOM workshop, MICCAI 2026 (in person, Strasbourg, France) [website](https://stacom.github.io/stacom2026/)
 * [10/04/2026] ISBI workshop "Exploring Foundation Models in Medical Image Analysis: Applications, Challenges, and Uncertainties" (in person, London Excel Conference Center)
 * [12/12/2025] King's College London, UK (in person)
 
