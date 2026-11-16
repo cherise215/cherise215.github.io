@@ -12,7 +12,7 @@ author_profile: true
 
 - [Podcast] I was invited as a guest on [The Digital Twin Theory](https://open.spotify.com/episode/7iijOgiwdjFXmvGnvle8ae) podcast, talking about computer vision and trustworthy AI! [Episode 25: Computer vision and trustworthy AI (with Chen Chen)](https://open.spotify.com/episode/7iijOgiwdjFXmvGnvle8ae)
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/7iijOgiwdjFXmvGnvle8ae" width="100%" height="152" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+    <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/7iijOgiwdjFXmvGnvle8ae" width="100%" height="152" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 ## 2024
 
